@@ -1,0 +1,243 @@
+,Region,Year,Fertilizer Tonnes Applied
+0,Auckland,2002,60792.0
+1,Auckland,2003,58221.0
+2,Auckland,2004,64017.0
+3,Auckland,2005,58484.0
+4,Auckland,2006,49470.0
+5,Auckland,2007,46157.0
+6,Auckland,2008,44598.0
+7,Auckland,2009,31797.0
+8,Auckland,2010,26001.0
+9,Auckland,2011,35377.0
+10,Auckland,2012,31986.0
+11,Auckland,2013,27669.0
+12,Auckland,2014,26459.0
+13,Auckland,2015,31130.0
+14,Auckland,2016,35402.0
+15,Auckland,2017,37567.0
+16,Auckland,2018,34174.0
+17,Auckland,2019,44957.0
+18,Auckland,2020,40852.0
+19,Auckland,2021,39615.80952380953
+20,Auckland,2022,25174.0
+21,Auckland,2023,21648.0
+22,Bay of Plenty,2002,105294.0
+23,Bay of Plenty,2003,110256.0
+24,Bay of Plenty,2004,119314.0
+25,Bay of Plenty,2005,132356.0
+26,Bay of Plenty,2006,102696.0
+27,Bay of Plenty,2007,101254.0
+28,Bay of Plenty,2008,105510.0
+29,Bay of Plenty,2009,84731.0
+30,Bay of Plenty,2010,71979.0
+31,Bay of Plenty,2011,90690.09523809524
+32,Bay of Plenty,2012,83253.0
+33,Bay of Plenty,2013,76164.0
+34,Bay of Plenty,2014,83564.0
+35,Bay of Plenty,2015,84165.0
+36,Bay of Plenty,2016,69774.0
+37,Bay of Plenty,2017,90390.0
+38,Bay of Plenty,2018,75263.0
+39,Bay of Plenty,2019,86492.0
+40,Bay of Plenty,2020,89546.0
+41,Bay of Plenty,2021,73784.0
+42,Bay of Plenty,2022,104573.0
+43,Bay of Plenty,2023,54134.0
+44,Canterbury,2002,324425.0
+45,Canterbury,2003,357422.0
+46,Canterbury,2004,387131.0
+47,Canterbury,2005,409235.0
+48,Canterbury,2006,354636.0
+49,Canterbury,2007,368887.0
+50,Canterbury,2008,390513.0
+51,Canterbury,2009,338569.0
+52,Canterbury,2010,322097.0
+53,Canterbury,2011,357345.0
+54,Canterbury,2012,407452.0
+55,Canterbury,2013,413916.0
+56,Canterbury,2014,431737.0
+57,Canterbury,2015,439638.0
+58,Canterbury,2016,430569.0
+59,Canterbury,2017,422554.0
+60,Canterbury,2018,453522.0
+61,Canterbury,2019,423757.0
+62,Canterbury,2020,420889.0
+63,Canterbury,2021,386546.0
+64,Canterbury,2022,362572.0
+65,Canterbury,2023,363869.0
+66,Hawke's Bay,2002,131701.0
+67,Hawke's Bay,2003,147177.0
+68,Hawke's Bay,2004,155602.0
+69,Hawke's Bay,2005,157363.0
+70,Hawke's Bay,2006,132040.0
+71,Hawke's Bay,2007,138411.0
+72,Hawke's Bay,2008,110748.0
+73,Hawke's Bay,2009,84341.0
+74,Hawke's Bay,2010,84012.0
+75,Hawke's Bay,2011,97586.0
+76,Hawke's Bay,2012,104378.0
+77,Hawke's Bay,2013,99694.0
+78,Hawke's Bay,2014,96133.0
+79,Hawke's Bay,2015,116918.0
+80,Hawke's Bay,2016,110417.0
+81,Hawke's Bay,2017,89236.0
+82,Hawke's Bay,2018,107073.0
+83,Hawke's Bay,2019,115984.0
+84,Hawke's Bay,2020,100182.0
+85,Hawke's Bay,2021,87826.0
+86,Hawke's Bay,2022,96374.0
+87,Hawke's Bay,2023,63999.0
+88,Marlborough,2002,22481.0
+89,Marlborough,2003,20718.0
+90,Marlborough,2004,19808.0
+91,Marlborough,2005,22770.0
+92,Marlborough,2006,17853.0
+93,Marlborough,2007,19164.0
+94,Marlborough,2008,16356.0
+95,Marlborough,2009,11275.0
+96,Marlborough,2010,12334.0
+97,Marlborough,2011,16927.7
+98,Marlborough,2012,15959.0
+99,Marlborough,2013,14080.0
+100,Marlborough,2014,19609.0
+101,Marlborough,2015,15327.0
+102,Marlborough,2016,15271.0
+103,Marlborough,2017,15865.0
+104,Marlborough,2018,18627.0
+105,Marlborough,2019,17813.0
+106,Marlborough,2020,18864.0
+107,Marlborough,2021,11790.0
+108,Marlborough,2022,12590.0
+109,Marlborough,2023,16927.7
+110,Manawatū-Whanganui,2002,273214.0
+111,Manawatū-Whanganui,2003,295565.0
+112,Manawatū-Whanganui,2004,265031.0
+113,Manawatū-Whanganui,2005,313698.0
+114,Manawatū-Whanganui,2006,277949.0
+115,Manawatū-Whanganui,2007,246278.0
+116,Manawatū-Whanganui,2008,236385.0
+117,Manawatū-Whanganui,2009,140050.0
+118,Manawatū-Whanganui,2010,166282.0
+119,Manawatū-Whanganui,2011,215601.0
+120,Manawatū-Whanganui,2012,232210.0
+121,Manawatū-Whanganui,2013,193173.0
+122,Manawatū-Whanganui,2014,218626.0
+123,Manawatū-Whanganui,2015,228424.0
+124,Manawatū-Whanganui,2016,219452.0
+125,Manawatū-Whanganui,2017,202209.0
+126,Manawatū-Whanganui,2018,221814.0
+127,Manawatū-Whanganui,2019,231339.0
+128,Manawatū-Whanganui,2020,230374.0
+129,Manawatū-Whanganui,2021,196693.0
+130,Manawatū-Whanganui,2022,203297.0
+131,Manawatū-Whanganui,2023,134017.0
+132,Southland,2002,243426.0
+133,Southland,2003,271772.0
+134,Southland,2004,259278.0
+135,Southland,2005,260313.0
+136,Southland,2006,230978.0
+137,Southland,2007,243550.0
+138,Southland,2008,252659.0
+139,Southland,2009,193696.0
+140,Southland,2010,203700.0
+141,Southland,2011,253648.0
+142,Southland,2012,268118.0
+143,Southland,2013,240374.0
+144,Southland,2014,268474.0
+145,Southland,2015,254667.0
+146,Southland,2016,272864.0
+147,Southland,2017,274290.0
+148,Southland,2018,253133.0
+149,Southland,2019,248891.0
+150,Southland,2020,262653.0
+151,Southland,2021,246605.0
+152,Southland,2022,265453.0
+153,Southland,2023,194876.0
+154,Taranaki,2002,153490.0
+155,Taranaki,2003,156376.0
+156,Taranaki,2004,170795.0
+157,Taranaki,2005,169633.0
+158,Taranaki,2006,157555.0
+159,Taranaki,2007,148589.0
+160,Taranaki,2008,146692.0
+161,Taranaki,2009,110683.0
+162,Taranaki,2010,129561.0
+163,Taranaki,2011,125295.0
+164,Taranaki,2012,133882.0
+165,Taranaki,2013,124992.0
+166,Taranaki,2014,131874.0
+167,Taranaki,2015,110223.0
+168,Taranaki,2016,106130.0
+169,Taranaki,2017,125144.0
+170,Taranaki,2018,120238.0
+171,Taranaki,2019,128944.0
+172,Taranaki,2020,123409.0
+173,Taranaki,2021,100503.0
+174,Taranaki,2022,100598.0
+175,Taranaki,2023,114987.0
+176,Tasman,2002,30033.0
+177,Tasman,2003,34893.0
+178,Tasman,2004,32405.0
+179,Tasman,2005,36494.0
+180,Tasman,2006,28148.0
+181,Tasman,2007,30233.0
+182,Tasman,2008,29987.0
+183,Tasman,2009,28249.0
+184,Tasman,2010,21477.0
+185,Tasman,2011,27516.809523809523
+186,Tasman,2012,27012.0
+187,Tasman,2013,35217.0
+188,Tasman,2014,26268.0
+189,Tasman,2015,26714.0
+190,Tasman,2016,20148.0
+191,Tasman,2017,23913.0
+192,Tasman,2018,24572.0
+193,Tasman,2019,26392.0
+194,Tasman,2020,25723.0
+195,Tasman,2021,23131.0
+196,Tasman,2022,28759.0
+197,Tasman,2023,18085.0
+198,Waikato,2002,505647.0
+199,Waikato,2003,552450.0
+200,Waikato,2004,569584.0
+201,Waikato,2005,590726.0
+202,Waikato,2006,520852.0
+203,Waikato,2007,503025.0
+204,Waikato,2008,489605.0
+205,Waikato,2009,365370.0
+206,Waikato,2010,365470.0
+207,Waikato,2011,424545.0
+208,Waikato,2012,411717.0
+209,Waikato,2013,387408.0
+210,Waikato,2014,420574.0
+211,Waikato,2015,364811.0
+212,Waikato,2016,343710.0
+213,Waikato,2017,401689.0
+214,Waikato,2018,382588.0
+215,Waikato,2019,408497.0
+216,Waikato,2020,378878.0
+217,Waikato,2021,361951.0
+218,Waikato,2022,363412.0
+219,Waikato,2023,265429.0
+220,Wellington,2002,70042.0
+221,Wellington,2003,78431.0
+222,Wellington,2004,71774.0
+223,Wellington,2005,80886.0
+224,Wellington,2006,70204.0
+225,Wellington,2007,62528.0
+226,Wellington,2008,57805.0
+227,Wellington,2009,32918.0
+228,Wellington,2010,46103.0
+229,Wellington,2011,57857.23809523809
+230,Wellington,2012,55416.0
+231,Wellington,2013,53231.0
+232,Wellington,2014,55290.0
+233,Wellington,2015,53138.0
+234,Wellington,2016,55661.0
+235,Wellington,2017,53350.0
+236,Wellington,2018,61084.0
+237,Wellington,2019,55252.0
+238,Wellington,2020,56126.0
+239,Wellington,2021,54327.0
+240,Wellington,2022,54058.0
+241,Wellington,2023,37378.0

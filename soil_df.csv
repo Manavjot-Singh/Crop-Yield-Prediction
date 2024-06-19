@@ -1,0 +1,2293 @@
+,Region,soil_type,time_step,soil_indicator,trace_element,value,target_min,target_max,meets_target_min,meets_target_max,within_target_range
+0,Auckland,Recent,2014 - 2018,AMN,False,133.6062358,50.0,,True,,
+1,Auckland,Recent,2014 - 2018,Bulk_density,False,0.976666667,0.7,1.4,True,True,True
+2,Auckland,Recent,2014 - 2018,TotalC,False,3.453214449,2.0,,True,,
+3,Auckland,Recent,2014 - 2018,TotalN,False,0.325620047,0.25,0.7,True,True,True
+4,Auckland,Organic,2014 - 2018,AMN,False,243.6139652,50.0,,True,,
+5,Auckland,Organic,2014 - 2018,Bulk_density,False,0.643333333,0.2,1.0,True,True,True
+6,Auckland,Organic,2014 - 2018,TotalC,False,13.6969657,,,,,
+7,Auckland,Organic,2014 - 2018,TotalN,False,1.11899982,0.25,0.7,True,False,False
+8,Auckland,Organic,2014 - 2018,AMN,False,264.7200991,50.0,,True,,
+9,Auckland,Organic,2014 - 2018,Bulk_density,False,0.656666667,0.2,1.0,True,True,True
+10,Auckland,Organic,2014 - 2018,TotalC,False,12.16954597,,,,,
+11,Auckland,Organic,2014 - 2018,TotalN,False,0.910362315,0.25,0.7,True,False,False
+12,Auckland,Gley,2014 - 2018,AMN,False,138.5740763,50.0,,True,,
+13,Auckland,Gley,2014 - 2018,Bulk_density,False,0.793333333,0.6,1.4,True,True,True
+14,Auckland,Gley,2014 - 2018,TotalC,False,5.398899391,2.5,,True,,
+15,Auckland,Gley,2014 - 2018,TotalN,False,0.446810731,0.25,0.7,True,True,True
+16,Auckland,Gley,2014 - 2018,AMN,False,85.85809073,50.0,,True,,
+17,Auckland,Gley,2014 - 2018,Bulk_density,False,0.916666667,0.6,1.4,True,True,True
+18,Auckland,Gley,2014 - 2018,TotalC,False,4.68436377,2.5,,True,,
+19,Auckland,Gley,2014 - 2018,TotalN,False,0.348034326,0.25,0.7,True,True,True
+20,Auckland,Allophanic,2014 - 2018,AMN,False,137.581895,50.0,,True,,
+21,Auckland,Allophanic,2014 - 2018,Bulk_density,False,1.12,0.5,1.3,True,True,True
+22,Auckland,Allophanic,2014 - 2018,TotalC,False,6.664479623,3.0,,True,,
+23,Auckland,Allophanic,2014 - 2018,TotalN,False,0.619312625,0.25,0.7,True,True,True
+24,Auckland,Ultic,2014 - 2018,AMN,False,218.4506375,50.0,,True,,
+25,Auckland,Ultic,2014 - 2018,Bulk_density,False,0.7,0.6,1.4,True,True,True
+26,Auckland,Ultic,2014 - 2018,TotalC,False,8.131164058,2.5,,True,,
+27,Auckland,Ultic,2014 - 2018,TotalN,False,0.77454069,0.25,0.7,True,False,False
+28,Auckland,Ultic,2014 - 2018,AMN,False,71.49499297,50.0,,True,,
+29,Auckland,Ultic,2014 - 2018,Bulk_density,False,0.993333333,0.6,1.4,True,True,True
+30,Auckland,Ultic,2014 - 2018,TotalC,False,4.611786669,2.5,,True,,
+31,Auckland,Ultic,2014 - 2018,TotalN,False,0.374803215,0.25,0.7,True,True,True
+32,Auckland,Ultic,2014 - 2018,AMN,False,343.6806507,50.0,,True,,
+33,Auckland,Ultic,2014 - 2018,Bulk_density,False,0.53,0.6,1.4,False,True,False
+34,Auckland,Ultic,2014 - 2018,TotalC,False,10.69744472,2.5,,True,,
+35,Auckland,Ultic,2014 - 2018,TotalN,False,0.937657399,0.25,0.7,True,False,False
+36,Auckland,Ultic,2014 - 2018,AMN,False,361.8873682,50.0,,True,,
+37,Auckland,Ultic,2014 - 2018,Bulk_density,False,0.576666667,0.6,1.4,False,True,False
+38,Auckland,Ultic,2014 - 2018,TotalC,False,10.33987947,2.5,,True,,
+39,Auckland,Ultic,2014 - 2018,TotalN,False,0.928994865,0.25,0.7,True,False,False
+40,Auckland,Brown,2014 - 2018,AMN,False,325.9847726,50.0,,True,,
+41,Auckland,Brown,2014 - 2018,Bulk_density,False,0.9,0.6,1.4,True,True,True
+42,Auckland,Brown,2014 - 2018,TotalC,False,8.432661126,2.5,,True,,
+43,Auckland,Brown,2014 - 2018,TotalN,False,0.820324966,0.25,0.7,True,False,False
+44,Auckland,Ultic,2014 - 2018,AMN,False,81.0,20.0,,True,,
+45,Auckland,Ultic,2014 - 2018,Bulk_density,False,1.1575,0.6,1.4,True,True,True
+46,Auckland,Ultic,2014 - 2018,TotalC,False,5.15,2.5,,True,,
+47,Auckland,Ultic,2014 - 2018,TotalN,False,0.25,0.1,0.7,True,True,True
+48,Auckland,Ultic,2014 - 2018,AMN,False,102.351373,50.0,,True,,
+49,Auckland,Ultic,2014 - 2018,Bulk_density,False,1.066666667,0.6,1.4,True,True,True
+50,Auckland,Ultic,2014 - 2018,TotalC,False,3.979331818,2.5,,True,,
+51,Auckland,Ultic,2014 - 2018,TotalN,False,0.38891629,0.25,0.7,True,True,True
+52,Auckland,Ultic,2014 - 2018,AMN,False,132.0,20.0,,True,,
+53,Auckland,Ultic,2014 - 2018,Bulk_density,False,0.71,0.6,1.4,True,True,True
+54,Auckland,Ultic,2014 - 2018,TotalC,False,7.07,2.5,,True,,
+55,Auckland,Ultic,2014 - 2018,TotalN,False,0.39,0.1,0.7,True,True,True
+56,Auckland,Ultic,2014 - 2018,AMN,False,198.4472927,50.0,,True,,
+57,Auckland,Ultic,2014 - 2018,Bulk_density,False,0.736666667,0.6,1.4,True,True,True
+58,Auckland,Ultic,2014 - 2018,TotalC,False,5.844549923,2.5,,True,,
+59,Auckland,Ultic,2014 - 2018,TotalN,False,0.566901851,0.25,0.7,True,True,True
+60,Auckland,Ultic,2014 - 2018,AMN,False,186.7928122,50.0,,True,,
+61,Auckland,Ultic,2014 - 2018,Bulk_density,False,0.69,0.6,1.4,True,True,True
+62,Auckland,Ultic,2014 - 2018,TotalC,False,11.79349845,2.5,,True,,
+63,Auckland,Ultic,2014 - 2018,TotalN,False,1.022652421,0.25,0.7,True,False,False
+64,Auckland,Ultic,2014 - 2018,AMN,False,193.3780291,50.0,,True,,
+65,Auckland,Ultic,2014 - 2018,Bulk_density,False,0.77,0.6,1.4,True,True,True
+66,Auckland,Ultic,2014 - 2018,TotalC,False,7.472303949,2.5,,True,,
+67,Auckland,Ultic,2014 - 2018,TotalN,False,0.589168365,0.25,0.7,True,True,True
+68,Auckland,Ultic,2014 - 2018,AMN,False,87.0,20.0,,True,,
+69,Auckland,Ultic,2014 - 2018,Bulk_density,False,0.991666667,0.6,1.4,True,True,True
+70,Auckland,Ultic,2014 - 2018,TotalC,False,7.11,2.5,,True,,
+71,Auckland,Ultic,2014 - 2018,TotalN,False,0.29,0.1,0.7,True,True,True
+72,Auckland,Ultic,2014 - 2018,AMN,False,47.0,20.0,,True,,
+73,Auckland,Ultic,2014 - 2018,Bulk_density,False,0.86,0.6,1.4,True,True,True
+74,Auckland,Ultic,2014 - 2018,TotalC,False,5.22,2.5,,True,,
+75,Auckland,Ultic,2014 - 2018,TotalN,False,0.31,0.1,0.7,True,True,True
+76,Auckland,Ultic,2014 - 2018,AMN,False,132.8955521,50.0,,True,,
+77,Auckland,Ultic,2014 - 2018,Bulk_density,False,0.826666667,0.6,1.4,True,True,True
+78,Auckland,Ultic,2014 - 2018,TotalC,False,5.605850438,2.5,,True,,
+79,Auckland,Ultic,2014 - 2018,TotalN,False,0.502536632,0.25,0.7,True,True,True
+80,Auckland,Ultic,2014 - 2018,AMN,False,138.792908,50.0,,True,,
+81,Auckland,Ultic,2014 - 2018,Bulk_density,False,1.04,0.6,1.4,True,True,True
+82,Auckland,Ultic,2014 - 2018,TotalC,False,6.664773761,2.5,,True,,
+83,Auckland,Ultic,2014 - 2018,TotalN,False,0.530813447,0.25,0.7,True,True,True
+84,Auckland,Brown,2014 - 2018,AMN,False,78.53005902,50.0,,True,,
+85,Auckland,Brown,2014 - 2018,Bulk_density,False,1.273333333,0.6,1.4,True,True,True
+86,Auckland,Brown,2014 - 2018,TotalC,False,3.530712456,2.5,,True,,
+87,Auckland,Brown,2014 - 2018,TotalN,False,0.332218267,0.25,0.7,True,True,True
+88,Auckland,Brown,2014 - 2018,AMN,False,73.04758487,50.0,,True,,
+89,Auckland,Brown,2014 - 2018,Bulk_density,False,1.023333333,0.6,1.4,True,True,True
+90,Auckland,Brown,2014 - 2018,TotalC,False,3.713666157,2.5,,True,,
+91,Auckland,Brown,2014 - 2018,TotalN,False,0.321047586,0.25,0.7,True,True,True
+92,Auckland,Anthropic,2014 - 2018,AMN,False,147.0,,,,,
+93,Auckland,Anthropic,2014 - 2018,Bulk_density,False,0.6,,,,,
+94,Auckland,Anthropic,2014 - 2018,TotalC,False,5.1,,,,,
+95,Auckland,Anthropic,2014 - 2018,TotalN,False,0.44,,,,,
+96,Auckland,Recent,2014 - 2018,AMN,False,38.0,20.0,,True,,
+97,Auckland,Recent,2014 - 2018,Bulk_density,False,1.49,0.7,1.4,True,False,False
+98,Auckland,Recent,2014 - 2018,TotalC,False,1.85,2.0,,False,,False
+99,Auckland,Recent,2014 - 2018,TotalN,False,0.1,0.1,0.7,True,True,True
+100,Auckland,Gley,2014 - 2018,AMN,False,214.8466346,50.0,,True,,
+101,Auckland,Gley,2014 - 2018,Bulk_density,False,0.86,0.6,1.4,True,True,True
+102,Auckland,Gley,2014 - 2018,TotalC,False,6.743457094,2.5,,True,,
+103,Auckland,Gley,2014 - 2018,TotalN,False,0.640044699,0.25,0.7,True,True,True
+104,Auckland,Gley,2014 - 2018,AMN,False,190.679078,50.0,,True,,
+105,Auckland,Gley,2014 - 2018,Bulk_density,False,0.673333333,0.6,1.4,True,True,True
+106,Auckland,Gley,2014 - 2018,TotalC,False,6.81598557,2.5,,True,,
+107,Auckland,Gley,2014 - 2018,TotalN,False,0.641299641,0.25,0.7,True,True,True
+108,Auckland,Allophanic,2014 - 2018,AMN,False,111.0087317,50.0,,True,,
+109,Auckland,Allophanic,2014 - 2018,Bulk_density,False,1.08,0.5,1.3,True,True,True
+110,Auckland,Allophanic,2014 - 2018,TotalC,False,5.335700014,3.0,,True,,
+111,Auckland,Allophanic,2014 - 2018,TotalN,False,0.453989939,0.25,0.7,True,True,True
+112,Auckland,Gley,2014 - 2018,AMN,False,116.0677791,50.0,,True,,
+113,Auckland,Gley,2014 - 2018,Bulk_density,False,0.91,0.6,1.4,True,True,True
+114,Auckland,Gley,2014 - 2018,TotalC,False,4.870066393,2.5,,True,,
+115,Auckland,Gley,2014 - 2018,TotalN,False,0.456534317,0.25,0.7,True,True,True
+116,Auckland,Gley,2014 - 2018,AMN,False,162.7855177,50.0,,True,,
+117,Auckland,Gley,2014 - 2018,Bulk_density,False,0.926666667,0.6,1.4,True,True,True
+118,Auckland,Gley,2014 - 2018,TotalC,False,5.467691238,2.5,,True,,
+119,Auckland,Gley,2014 - 2018,TotalN,False,0.494417147,0.25,0.7,True,True,True
+120,Auckland,Ultic,2014 - 2018,AMN,False,41.0,20.0,,True,,
+121,Auckland,Ultic,2014 - 2018,Bulk_density,False,1.19,0.6,1.4,True,True,True
+122,Auckland,Ultic,2014 - 2018,TotalC,False,4.38,2.5,,True,,
+123,Auckland,Ultic,2014 - 2018,TotalN,False,0.2,0.1,0.7,True,True,True
+124,Auckland,Ultic,2014 - 2018,AMN,False,34.0,20.0,,True,,
+125,Auckland,Ultic,2014 - 2018,Bulk_density,False,1.1075,0.6,1.4,True,True,True
+126,Auckland,Ultic,2014 - 2018,TotalC,False,5.7,2.5,,True,,
+127,Auckland,Ultic,2014 - 2018,TotalN,False,0.22,0.1,0.7,True,True,True
+128,Auckland,Recent,2014 - 2018,AMN,False,158.0,50.0,,True,,
+129,Auckland,Recent,2014 - 2018,Bulk_density,False,0.7,0.7,1.4,True,True,True
+130,Auckland,Recent,2014 - 2018,TotalC,False,5.84,2.0,,True,,
+131,Auckland,Recent,2014 - 2018,TotalN,False,0.5,0.25,0.7,True,True,True
+132,Auckland,Recent,2014 - 2018,AMN,False,102.0,50.0,,True,,
+133,Auckland,Recent,2014 - 2018,Bulk_density,False,0.9,0.7,1.4,True,True,True
+134,Auckland,Recent,2014 - 2018,TotalC,False,6.73,2.0,,True,,
+135,Auckland,Recent,2014 - 2018,TotalN,False,0.41,0.25,0.7,True,True,True
+136,Auckland,Recent,2014 - 2018,AMN,False,45.0,50.0,,False,,False
+137,Auckland,Recent,2014 - 2018,Bulk_density,False,1.15,0.7,1.4,True,True,True
+138,Auckland,Recent,2014 - 2018,TotalC,False,2.885,2.0,,True,,
+139,Auckland,Recent,2014 - 2018,TotalN,False,0.255,0.25,0.7,True,True,True
+140,Auckland,Recent,2014 - 2018,AMN,False,18.0,20.0,,False,,False
+141,Auckland,Recent,2014 - 2018,Bulk_density,False,1.291666667,0.7,1.4,True,True,True
+142,Auckland,Recent,2014 - 2018,TotalC,False,1.28,2.0,,False,,False
+143,Auckland,Recent,2014 - 2018,TotalN,False,0.05,0.1,0.7,False,True,False
+144,Auckland,Raw,2014 - 2018,AMN,False,10.0,20.0,,False,,False
+145,Auckland,Raw,2014 - 2018,Bulk_density,False,1.561666667,0.6,1.4,True,False,False
+146,Auckland,Raw,2014 - 2018,TotalC,False,1.63,2.0,,False,,False
+147,Auckland,Raw,2014 - 2018,TotalN,False,0.06,0.1,0.7,False,True,False
+148,Auckland,Granular,2014 - 2018,AMN,False,186.027862,50.0,,True,,
+149,Auckland,Granular,2014 - 2018,Bulk_density,False,0.883333333,0.6,1.4,True,True,True
+150,Auckland,Granular,2014 - 2018,TotalC,False,6.077350142,2.5,,True,,
+151,Auckland,Granular,2014 - 2018,TotalN,False,0.546682693,0.25,0.7,True,True,True
+152,Auckland,Ultic,2014 - 2018,AMN,False,69.0,20.0,,True,,
+153,Auckland,Ultic,2014 - 2018,Bulk_density,False,1.0675,0.6,1.4,True,True,True
+154,Auckland,Ultic,2014 - 2018,TotalC,False,7.02,2.5,,True,,
+155,Auckland,Ultic,2014 - 2018,TotalN,False,0.27,0.1,0.7,True,True,True
+156,Auckland,Ultic,2014 - 2018,AMN,False,27.0,20.0,,True,,
+157,Auckland,Ultic,2014 - 2018,Bulk_density,False,1.17,0.6,1.4,True,True,True
+158,Auckland,Ultic,2014 - 2018,TotalC,False,4.8,2.5,,True,,
+159,Auckland,Ultic,2014 - 2018,TotalN,False,0.18,0.1,0.7,True,True,True
+160,Auckland,Ultic,2014 - 2018,AMN,False,98.0,50.0,,True,,
+161,Auckland,Ultic,2014 - 2018,Bulk_density,False,1.0,0.6,1.4,True,True,True
+162,Auckland,Ultic,2014 - 2018,TotalC,False,4.255,2.5,,True,,
+163,Auckland,Ultic,2014 - 2018,TotalN,False,0.36,0.25,0.7,True,True,True
+164,Auckland,Ultic,2014 - 2018,AMN,False,72.0,50.0,,True,,
+165,Auckland,Ultic,2014 - 2018,Bulk_density,False,1.3,0.6,1.4,True,True,True
+166,Auckland,Ultic,2014 - 2018,TotalC,False,2.28,2.5,,False,,False
+167,Auckland,Ultic,2014 - 2018,TotalN,False,0.2,0.25,0.7,False,True,False
+168,Auckland,Ultic,2014 - 2018,AMN,False,59.0,50.0,,True,,
+169,Auckland,Ultic,2014 - 2018,Bulk_density,False,1.0,0.6,1.4,True,True,True
+170,Auckland,Ultic,2014 - 2018,TotalC,False,2.69,2.5,,True,,
+171,Auckland,Ultic,2014 - 2018,TotalN,False,0.19,0.25,0.7,False,True,False
+172,Auckland,Granular,2014 - 2018,AMN,False,95.5,50.0,,True,,
+173,Auckland,Granular,2014 - 2018,Bulk_density,False,1.0,0.6,1.4,True,True,True
+174,Auckland,Granular,2014 - 2018,TotalC,False,4.32,2.5,,True,,
+175,Auckland,Granular,2014 - 2018,TotalN,False,0.37,0.25,0.7,True,True,True
+176,Auckland,Anthropic,2014 - 2018,AMN,False,117.0,,,,,
+177,Auckland,Anthropic,2014 - 2018,Bulk_density,False,1.0,,,,,
+178,Auckland,Anthropic,2014 - 2018,TotalC,False,4.385,,,,,
+179,Auckland,Anthropic,2014 - 2018,TotalN,False,0.37,,,,,
+180,Auckland,Ultic,2014 - 2018,AMN,False,191.0,50.0,,True,,
+181,Auckland,Ultic,2014 - 2018,Bulk_density,False,0.6,0.6,1.4,True,True,True
+182,Auckland,Ultic,2014 - 2018,TotalC,False,6.56,2.5,,True,,
+183,Auckland,Ultic,2014 - 2018,TotalN,False,0.55,0.25,0.7,True,True,True
+184,Auckland,Anthropic,2014 - 2018,AMN,False,76.0,,,,,
+185,Auckland,Anthropic,2014 - 2018,Bulk_density,False,1.05,,,,,
+186,Auckland,Anthropic,2014 - 2018,TotalC,False,3.28,,,,,
+187,Auckland,Anthropic,2014 - 2018,TotalN,False,0.255,,,,,
+188,Auckland,Allophanic,2014 - 2018,AMN,False,85.0,50.0,,True,,
+189,Auckland,Allophanic,2014 - 2018,Bulk_density,False,1.3,0.5,1.3,True,True,True
+190,Auckland,Allophanic,2014 - 2018,TotalC,False,3.72,3.0,,True,,
+191,Auckland,Allophanic,2014 - 2018,TotalN,False,0.32,0.25,0.7,True,True,True
+192,Auckland,Ultic,2014 - 2018,AMN,False,158.0,50.0,,True,,
+193,Auckland,Ultic,2014 - 2018,Bulk_density,False,0.6,0.6,1.4,True,True,True
+194,Auckland,Ultic,2014 - 2018,TotalC,False,5.5,2.5,,True,,
+195,Auckland,Ultic,2014 - 2018,TotalN,False,0.42,0.25,0.7,True,True,True
+196,Auckland,Gley,2014 - 2018,AMN,False,194.0,50.0,,True,,
+197,Auckland,Gley,2014 - 2018,Bulk_density,False,0.85,0.6,1.4,True,True,True
+198,Auckland,Gley,2014 - 2018,TotalC,False,6.74,2.5,,True,,
+199,Auckland,Gley,2014 - 2018,TotalN,False,0.515,0.25,0.7,True,True,True
+200,Auckland,Anthropic,2014 - 2018,AMN,False,198.0,,,,,
+201,Auckland,Anthropic,2014 - 2018,Bulk_density,False,0.7,,,,,
+202,Auckland,Anthropic,2014 - 2018,TotalC,False,6.99,,,,,
+203,Auckland,Anthropic,2014 - 2018,TotalN,False,0.65,,,,,
+204,Auckland,Anthropic,2014 - 2018,AMN,False,221.0,,,,,
+205,Auckland,Anthropic,2014 - 2018,Bulk_density,False,0.7,,,,,
+206,Auckland,Anthropic,2014 - 2018,TotalC,False,6.53,,,,,
+207,Auckland,Anthropic,2014 - 2018,TotalN,False,0.55,,,,,
+208,Auckland,Allophanic,2014 - 2018,AMN,False,73.0,50.0,,True,,
+209,Auckland,Allophanic,2014 - 2018,Bulk_density,False,0.6,0.5,1.3,True,True,True
+210,Auckland,Allophanic,2014 - 2018,TotalC,False,4.99,3.0,,True,,
+211,Auckland,Allophanic,2014 - 2018,TotalN,False,0.42,0.25,0.7,True,True,True
+212,Auckland,Allophanic,2014 - 2018,AMN,False,231.0,50.0,,True,,
+213,Auckland,Allophanic,2014 - 2018,Bulk_density,False,0.8,0.5,1.3,True,True,True
+214,Auckland,Allophanic,2014 - 2018,TotalC,False,9.84,3.0,,True,,
+215,Auckland,Allophanic,2014 - 2018,TotalN,False,0.79,0.25,0.7,True,False,False
+216,Auckland,Anthropic,2014 - 2018,AMN,False,204.0,,,,,
+217,Auckland,Anthropic,2014 - 2018,Bulk_density,False,0.7,,,,,
+218,Auckland,Anthropic,2014 - 2018,TotalC,False,8.02,,,,,
+219,Auckland,Anthropic,2014 - 2018,TotalN,False,0.59,,,,,
+220,Auckland,Ultic,2014 - 2018,AMN,False,52.0,50.0,,True,,
+221,Auckland,Ultic,2014 - 2018,Bulk_density,False,1.1,0.6,1.4,True,True,True
+222,Auckland,Ultic,2014 - 2018,TotalC,False,2.37,2.5,,False,,False
+223,Auckland,Ultic,2014 - 2018,TotalN,False,0.165,0.25,0.7,False,True,False
+224,Auckland,Anthropic,2014 - 2018,AMN,False,101.0,,,,,
+225,Auckland,Anthropic,2014 - 2018,Bulk_density,False,1.15,,,,,
+226,Auckland,Anthropic,2014 - 2018,TotalC,False,3.93,,,,,
+227,Auckland,Anthropic,2014 - 2018,TotalN,False,0.34,,,,,
+228,Auckland,Ultic,2014 - 2018,AMN,False,84.0,50.0,,True,,
+229,Auckland,Ultic,2014 - 2018,Bulk_density,False,1.0,0.6,1.4,True,True,True
+230,Auckland,Ultic,2014 - 2018,TotalC,False,4.265,2.5,,True,,
+231,Auckland,Ultic,2014 - 2018,TotalN,False,0.305,0.25,0.7,True,True,True
+232,Auckland,Allophanic,2014 - 2018,AMN,False,74.5,50.0,,True,,
+233,Auckland,Allophanic,2014 - 2018,Bulk_density,False,1.1,0.5,1.3,True,True,True
+234,Auckland,Allophanic,2014 - 2018,TotalC,False,4.07,3.0,,True,,
+235,Auckland,Allophanic,2014 - 2018,TotalN,False,0.305,0.25,0.7,True,True,True
+236,Auckland,Allophanic,2014 - 2018,AMN,False,101.0,50.0,,True,,
+237,Auckland,Allophanic,2014 - 2018,Bulk_density,False,1.05,0.5,1.3,True,True,True
+238,Auckland,Allophanic,2014 - 2018,TotalC,False,4.37,3.0,,True,,
+239,Auckland,Allophanic,2014 - 2018,TotalN,False,0.365,0.25,0.7,True,True,True
+240,Auckland,Allophanic,2014 - 2018,AMN,False,139.5,50.0,,True,,
+241,Auckland,Allophanic,2014 - 2018,Bulk_density,False,0.9,0.5,1.3,True,True,True
+242,Auckland,Allophanic,2014 - 2018,TotalC,False,5.045,3.0,,True,,
+243,Auckland,Allophanic,2014 - 2018,TotalN,False,0.45,0.25,0.7,True,True,True
+244,Auckland,Anthropic,2014 - 2018,AMN,False,113.0,,,,,
+245,Auckland,Anthropic,2014 - 2018,Bulk_density,False,1.0,,,,,
+246,Auckland,Anthropic,2014 - 2018,TotalC,False,4.03,,,,,
+247,Auckland,Anthropic,2014 - 2018,TotalN,False,0.39,,,,,
+248,Auckland,Recent,2014 - 2018,AMN,False,97.5,50.0,,True,,
+249,Auckland,Recent,2014 - 2018,Bulk_density,False,1.0,0.7,1.4,True,True,True
+250,Auckland,Recent,2014 - 2018,TotalC,False,5.49,2.0,,True,,
+251,Auckland,Recent,2014 - 2018,TotalN,False,0.495,0.25,0.7,True,True,True
+252,Auckland,Allophanic,2014 - 2018,AMN,False,110.5,50.0,,True,,
+253,Auckland,Allophanic,2014 - 2018,Bulk_density,False,0.95,0.5,1.3,True,True,True
+254,Auckland,Allophanic,2014 - 2018,TotalC,False,4.145,3.0,,True,,
+255,Auckland,Allophanic,2014 - 2018,TotalN,False,0.4,0.25,0.7,True,True,True
+256,Auckland,Allophanic,2014 - 2018,AMN,False,243.0,50.0,,True,,
+257,Auckland,Allophanic,2014 - 2018,Bulk_density,False,0.6,0.5,1.3,True,True,True
+258,Auckland,Allophanic,2014 - 2018,TotalC,False,16.9,3.0,,True,,
+259,Auckland,Allophanic,2014 - 2018,TotalN,False,1.55,0.25,0.7,True,False,False
+260,Auckland,Recent,2014 - 2018,AMN,False,185.5,50.0,,True,,
+261,Auckland,Recent,2014 - 2018,Bulk_density,False,0.9,0.7,1.4,True,True,True
+262,Auckland,Recent,2014 - 2018,TotalC,False,5.735,2.0,,True,,
+263,Auckland,Recent,2014 - 2018,TotalN,False,0.515,0.25,0.7,True,True,True
+264,Auckland,Allophanic,2014 - 2018,AMN,False,85.0,50.0,,True,,
+265,Auckland,Allophanic,2014 - 2018,Bulk_density,False,1.0,0.5,1.3,True,True,True
+266,Auckland,Allophanic,2014 - 2018,TotalC,False,5.325,3.0,,True,,
+267,Auckland,Allophanic,2014 - 2018,TotalN,False,0.52,0.25,0.7,True,True,True
+268,Auckland,Anthropic,2014 - 2018,AMN,False,184.0,,,,,
+269,Auckland,Anthropic,2014 - 2018,Bulk_density,False,0.8,,,,,
+270,Auckland,Anthropic,2014 - 2018,TotalC,False,5.29,,,,,
+271,Auckland,Anthropic,2014 - 2018,TotalN,False,0.43,,,,,
+272,Auckland,Allophanic,2014 - 2018,AMN,False,201.0,50.0,,True,,
+273,Auckland,Allophanic,2014 - 2018,Bulk_density,False,0.7,0.5,1.3,True,True,True
+274,Auckland,Allophanic,2014 - 2018,TotalC,False,6.22,3.0,,True,,
+275,Auckland,Allophanic,2014 - 2018,TotalN,False,0.59,0.25,0.7,True,True,True
+276,Auckland,Anthropic,2014 - 2018,AMN,False,146.0,,,,,
+277,Auckland,Anthropic,2014 - 2018,Bulk_density,False,0.6,,,,,
+278,Auckland,Anthropic,2014 - 2018,TotalC,False,5.19,,,,,
+279,Auckland,Anthropic,2014 - 2018,TotalN,False,0.42,,,,,
+280,Auckland,Allophanic,2014 - 2018,AMN,False,240.0,50.0,,True,,
+281,Auckland,Allophanic,2014 - 2018,Bulk_density,False,0.7,0.5,1.3,True,True,True
+282,Auckland,Allophanic,2014 - 2018,TotalC,False,7.8,3.0,,True,,
+283,Auckland,Allophanic,2014 - 2018,TotalN,False,0.65,0.25,0.7,True,True,True
+284,Auckland,Recent,2014 - 2018,AMN,False,76.5,50.0,,True,,
+285,Auckland,Recent,2014 - 2018,Bulk_density,False,1.0,0.7,1.4,True,True,True
+286,Auckland,Recent,2014 - 2018,TotalC,False,3.39,2.0,,True,,
+287,Auckland,Recent,2014 - 2018,TotalN,False,0.295,0.25,0.7,True,True,True
+288,Auckland,Brown,2014 - 2018,AMN,False,91.0,20.0,,True,,
+289,Auckland,Brown,2014 - 2018,Bulk_density,False,1.03,0.6,1.4,True,True,True
+290,Auckland,Brown,2014 - 2018,TotalC,False,3.26,2.5,,True,,
+291,Auckland,Brown,2014 - 2018,TotalN,False,0.22,0.1,0.7,True,True,True
+292,Auckland,Ultic,2014 - 2018,AMN,False,57.0,20.0,,True,,
+293,Auckland,Ultic,2014 - 2018,Bulk_density,False,1.281666667,0.6,1.4,True,True,True
+294,Auckland,Ultic,2014 - 2018,TotalC,False,3.5,2.5,,True,,
+295,Auckland,Ultic,2014 - 2018,TotalN,False,0.17,0.1,0.7,True,True,True
+296,Auckland,Brown,2014 - 2018,AMN,False,105.4845512,50.0,,True,,
+297,Auckland,Brown,2014 - 2018,Bulk_density,False,1.036666667,0.6,1.4,True,True,True
+298,Auckland,Brown,2014 - 2018,TotalC,False,4.474526177,2.5,,True,,
+299,Auckland,Brown,2014 - 2018,TotalN,False,0.3680685,0.25,0.7,True,True,True
+300,Auckland,Brown,2014 - 2018,AMN,False,154.9672408,50.0,,True,,
+301,Auckland,Brown,2014 - 2018,Bulk_density,False,1.02,0.6,1.4,True,True,True
+302,Auckland,Brown,2014 - 2018,TotalC,False,4.290989555,2.5,,True,,
+303,Auckland,Brown,2014 - 2018,TotalN,False,0.448177821,0.25,0.7,True,True,True
+304,Auckland,Allophanic,2014 - 2018,AMN,False,127.6858166,50.0,,True,,
+305,Auckland,Allophanic,2014 - 2018,Bulk_density,False,1.146666667,0.5,1.3,True,True,True
+306,Auckland,Allophanic,2014 - 2018,TotalC,False,5.943737895,3.0,,True,,
+307,Auckland,Allophanic,2014 - 2018,TotalN,False,0.540836751,0.25,0.7,True,True,True
+308,Auckland,Allophanic,2014 - 2018,AMN,False,210.2927141,50.0,,True,,
+309,Auckland,Allophanic,2014 - 2018,Bulk_density,False,0.906666667,0.5,1.3,True,True,True
+310,Auckland,Allophanic,2014 - 2018,TotalC,False,8.387868692,3.0,,True,,
+311,Auckland,Allophanic,2014 - 2018,TotalN,False,0.775886025,0.25,0.7,True,False,False
+312,Auckland,Allophanic,2014 - 2018,AMN,False,129.5533416,50.0,,True,,
+313,Auckland,Allophanic,2014 - 2018,Bulk_density,False,0.763333333,0.5,1.3,True,True,True
+314,Auckland,Allophanic,2014 - 2018,TotalC,False,8.361327172,3.0,,True,,
+315,Auckland,Allophanic,2014 - 2018,TotalN,False,0.761192768,0.25,0.7,True,False,False
+316,Auckland,Allophanic,2014 - 2018,AMN,False,155.1014547,50.0,,True,,
+317,Auckland,Allophanic,2014 - 2018,Bulk_density,False,0.996666667,0.5,1.3,True,True,True
+318,Auckland,Allophanic,2014 - 2018,TotalC,False,7.1953076,3.0,,True,,
+319,Auckland,Allophanic,2014 - 2018,TotalN,False,0.685626612,0.25,0.7,True,True,True
+320,Auckland,Organic,2014 - 2018,AMN,False,300.7732007,50.0,,True,,
+321,Auckland,Organic,2014 - 2018,Bulk_density,False,0.583333333,0.2,1.0,True,True,True
+322,Auckland,Organic,2014 - 2018,TotalC,False,18.40699376,,,,,
+323,Auckland,Organic,2014 - 2018,TotalN,False,1.569431534,0.25,0.7,True,False,False
+324,Auckland,Brown,2014 - 2018,AMN,False,83.0,20.0,,True,,
+325,Auckland,Brown,2014 - 2018,Bulk_density,False,0.908333333,0.6,1.4,True,True,True
+326,Auckland,Brown,2014 - 2018,TotalC,False,4.14,2.5,,True,,
+327,Auckland,Brown,2014 - 2018,TotalN,False,0.36,0.1,0.7,True,True,True
+328,Auckland,Brown,2014 - 2018,AMN,False,68.0,20.0,,True,,
+329,Auckland,Brown,2014 - 2018,Bulk_density,False,1.001666667,0.6,1.4,True,True,True
+330,Auckland,Brown,2014 - 2018,TotalC,False,3.92,2.5,,True,,
+331,Auckland,Brown,2014 - 2018,TotalN,False,0.28,0.1,0.7,True,True,True
+332,Auckland,Brown,2014 - 2018,AMN,False,130.0,50.0,,True,,
+333,Auckland,Brown,2014 - 2018,TotalC,False,4.31,2.5,,True,,
+334,Auckland,Brown,2014 - 2018,TotalN,False,0.46,0.25,0.7,True,True,True
+335,Auckland,Brown,2014 - 2018,AMN,False,130.0,20.0,,True,,
+336,Auckland,Brown,2014 - 2018,Bulk_density,False,1.111666667,0.6,1.4,True,True,True
+337,Auckland,Brown,2014 - 2018,TotalC,False,4.31,2.5,,True,,
+338,Auckland,Brown,2014 - 2018,TotalN,False,0.46,0.1,0.7,True,True,True
+339,Auckland,Brown,2014 - 2018,AMN,False,159.947509,50.0,,True,,
+340,Auckland,Brown,2014 - 2018,Bulk_density,False,1.066666667,0.6,1.4,True,True,True
+341,Auckland,Brown,2014 - 2018,TotalC,False,4.012385234,2.5,,True,,
+342,Auckland,Brown,2014 - 2018,TotalN,False,0.429364975,0.25,0.7,True,True,True
+343,Auckland,Granular,2014 - 2018,AMN,False,188.5531186,50.0,,True,,
+344,Auckland,Granular,2014 - 2018,Bulk_density,False,0.993333333,0.6,1.4,True,True,True
+345,Auckland,Granular,2014 - 2018,TotalC,False,7.256112308,2.5,,True,,
+346,Auckland,Granular,2014 - 2018,TotalN,False,0.607647849,0.25,0.7,True,True,True
+347,Auckland,Granular,2014 - 2018,AMN,False,157.4831199,50.0,,True,,
+348,Auckland,Granular,2014 - 2018,Bulk_density,False,0.796666667,0.6,1.4,True,True,True
+349,Auckland,Granular,2014 - 2018,TotalC,False,6.535321333,2.5,,True,,
+350,Auckland,Granular,2014 - 2018,TotalN,False,0.640687572,0.25,0.7,True,True,True
+351,Auckland,Granular,2014 - 2018,AMN,False,172.1188978,50.0,,True,,
+352,Auckland,Granular,2014 - 2018,Bulk_density,False,0.81,0.6,1.4,True,True,True
+353,Auckland,Granular,2014 - 2018,TotalC,False,6.886623797,2.5,,True,,
+354,Auckland,Granular,2014 - 2018,TotalN,False,0.641431484,0.25,0.7,True,True,True
+355,Auckland,Organic,2014 - 2018,AMN,False,308.5705117,50.0,,True,,
+356,Auckland,Organic,2014 - 2018,Bulk_density,False,0.586666667,0.2,1.0,True,True,True
+357,Auckland,Organic,2014 - 2018,TotalC,False,23.79146487,,,,,
+358,Auckland,Organic,2014 - 2018,TotalN,False,1.843454086,0.25,0.7,True,False,False
+359,Auckland,Granular,2014 - 2018,AMN,False,163.277448,50.0,,True,,
+360,Auckland,Granular,2014 - 2018,Bulk_density,False,0.906666667,0.6,1.4,True,True,True
+361,Auckland,Granular,2014 - 2018,TotalC,False,8.4016133,2.5,,True,,
+362,Auckland,Granular,2014 - 2018,TotalN,False,0.774483553,0.25,0.7,True,False,False
+363,Auckland,Granular,2014 - 2018,AMN,False,211.7648431,50.0,,True,,
+364,Auckland,Granular,2014 - 2018,Bulk_density,False,0.976666667,0.6,1.4,True,True,True
+365,Auckland,Granular,2014 - 2018,TotalC,False,7.755102505,2.5,,True,,
+366,Auckland,Granular,2014 - 2018,TotalN,False,0.721365961,0.25,0.7,True,False,False
+367,Auckland,Granular,2014 - 2018,AMN,False,155.9924315,50.0,,True,,
+368,Auckland,Granular,2014 - 2018,Bulk_density,False,1.033333333,0.6,1.4,True,True,True
+369,Auckland,Granular,2014 - 2018,TotalC,False,6.684232138,2.5,,True,,
+370,Auckland,Granular,2014 - 2018,TotalN,False,0.62808401,0.25,0.7,True,True,True
+371,Auckland,Granular,2014 - 2018,AMN,False,164.5648107,50.0,,True,,
+372,Auckland,Granular,2014 - 2018,Bulk_density,False,0.803333333,0.6,1.4,True,True,True
+373,Auckland,Granular,2014 - 2018,TotalC,False,6.248172153,2.5,,True,,
+374,Auckland,Granular,2014 - 2018,TotalN,False,0.578292105,0.25,0.7,True,True,True
+375,Bay of Plenty,Recent,2014 - 2018,AMN,False,156.9392091,50.0,,True,,
+376,Bay of Plenty,Recent,2014 - 2018,Bulk_density,False,0.971666667,0.7,1.4,True,True,True
+377,Bay of Plenty,Recent,2014 - 2018,TotalC,False,4.744961669,2.0,,True,,
+378,Bay of Plenty,Recent,2014 - 2018,TotalN,False,0.488482262,0.25,0.7,True,True,True
+379,Bay of Plenty,Pumice,2014 - 2018,AMN,False,200.827711,50.0,,True,,
+380,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.9,0.6,1.4,True,True,True
+381,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,7.745693012,2.0,,True,,
+382,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.756100098,0.25,0.7,True,False,False
+383,Bay of Plenty,Pumice,2014 - 2018,AMN,False,125.8486783,50.0,,True,,
+384,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.93,0.6,1.4,True,True,True
+385,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,6.318227752,2.0,,True,,
+386,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.62416122,0.25,0.7,True,True,True
+387,Bay of Plenty,Pumice,2014 - 2018,AMN,False,199.9670956,50.0,,True,,
+388,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.831666667,0.6,1.4,True,True,True
+389,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,7.655700007,2.0,,True,,
+390,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.73770426,0.25,0.7,True,False,False
+391,Bay of Plenty,Pumice,2014 - 2018,AMN,False,114.7231076,50.0,,True,,
+392,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.841666667,0.6,1.4,True,True,True
+393,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,6.884699942,2.0,,True,,
+394,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.605774721,0.25,0.7,True,True,True
+395,Bay of Plenty,Pumice,2014 - 2018,AMN,False,220.7108876,50.0,,True,,
+396,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.7633333330000001,0.6,1.4,True,True,True
+397,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,9.990559682,2.0,,True,,
+398,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.931242765,0.25,0.7,True,False,False
+399,Bay of Plenty,Recent,2014 - 2018,AMN,False,148.1691112,50.0,,True,,
+400,Bay of Plenty,Recent,2014 - 2018,Bulk_density,False,0.926666667,0.7,1.4,True,True,True
+401,Bay of Plenty,Recent,2014 - 2018,TotalC,False,6.175901976,2.0,,True,,
+402,Bay of Plenty,Recent,2014 - 2018,TotalN,False,0.616172492,0.25,0.7,True,True,True
+403,Bay of Plenty,Pumice,2014 - 2018,AMN,False,190.0,50.0,,True,,
+404,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,7.3,2.0,,True,,
+405,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.64,0.25,0.7,True,True,True
+406,Bay of Plenty,Pumice,2014 - 2018,AMN,False,199.0,50.0,,True,,
+407,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.8,0.6,1.4,True,True,True
+408,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,7.3,2.0,,True,,
+409,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.63,0.25,0.7,True,True,True
+410,Bay of Plenty,Pumice,2014 - 2018,AMN,False,148.4774128,50.0,,True,,
+411,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.743333333,0.6,1.4,True,True,True
+412,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,6.478659806,2.0,,True,,
+413,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.57599901,0.25,0.7,True,True,True
+414,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.64,0.6,1.4,True,True,True
+415,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,8.992007,2.0,,True,,
+416,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.79598844,0.25,0.7,True,False,False
+417,Bay of Plenty,Pumice,2014 - 2018,AMN,False,132.0147815,50.0,,True,,
+418,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.683333334,0.6,1.4,True,True,True
+419,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,6.894909768,2.0,,True,,
+420,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.595790079,0.25,0.7,True,True,True
+421,Bay of Plenty,Recent,2014 - 2018,AMN,False,225.0,20.0,,True,,
+422,Bay of Plenty,Recent,2014 - 2018,Bulk_density,False,0.946666667,0.7,1.4,True,True,True
+423,Bay of Plenty,Recent,2014 - 2018,TotalC,False,5.2,2.0,,True,,
+424,Bay of Plenty,Recent,2014 - 2018,AMN,False,143.8276504,50.0,,True,,
+425,Bay of Plenty,Recent,2014 - 2018,Bulk_density,False,1.108333334,0.7,1.4,True,True,True
+426,Bay of Plenty,Recent,2014 - 2018,TotalC,False,4.513609026499999,2.0,,True,,
+427,Bay of Plenty,Recent,2014 - 2018,TotalN,False,0.456687848,0.25,0.7,True,True,True
+428,Bay of Plenty,Pumice,2014 - 2018,AMN,False,127.0,20.0,,True,,
+429,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.85,0.6,1.4,True,True,True
+430,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,6.2,2.0,,True,,
+431,Bay of Plenty,Recent,2014 - 2018,AMN,False,162.9086834,50.0,,True,,
+432,Bay of Plenty,Recent,2014 - 2018,Bulk_density,False,1.0833333335000002,0.7,1.4,True,True,True
+433,Bay of Plenty,Recent,2014 - 2018,TotalC,False,4.664790136500001,2.0,,True,,
+434,Bay of Plenty,Recent,2014 - 2018,TotalN,False,0.4750136,0.25,0.7,True,True,True
+435,Bay of Plenty,Recent,2014 - 2018,AMN,False,57.0,20.0,,True,,
+436,Bay of Plenty,Recent,2014 - 2018,Bulk_density,False,1.296666667,0.7,1.4,True,True,True
+437,Bay of Plenty,Recent,2014 - 2018,TotalC,False,2.4,2.0,,True,,
+438,Bay of Plenty,Pumice,2014 - 2018,AMN,False,120.0,50.0,,True,,
+439,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.54,0.6,1.4,False,True,False
+440,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,6.4,2.0,,True,,
+441,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.5,0.25,0.7,True,True,True
+442,Bay of Plenty,Pumice,2014 - 2018,AMN,False,183.0,50.0,,True,,
+443,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.51,0.6,1.4,False,True,False
+444,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,8.8,2.0,,True,,
+445,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.69,0.25,0.7,True,True,True
+446,Bay of Plenty,Pumice,2014 - 2018,AMN,False,126.0,20.0,,True,,
+447,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.86,0.6,1.4,True,True,True
+448,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,6.2,2.0,,True,,
+449,Bay of Plenty,Gley,2014 - 2018,AMN,False,84.0,20.0,,True,,
+450,Bay of Plenty,Gley,2014 - 2018,Bulk_density,False,0.753333333,0.6,1.4,True,True,True
+451,Bay of Plenty,Gley,2014 - 2018,TotalC,False,6.0,2.5,,True,,
+452,Bay of Plenty,Recent,2014 - 2018,AMN,False,40.0,20.0,,True,,
+453,Bay of Plenty,Recent,2014 - 2018,Bulk_density,False,1.06,0.7,1.4,True,True,True
+454,Bay of Plenty,Recent,2014 - 2018,TotalC,False,2.6,2.0,,True,,
+455,Bay of Plenty,Recent,2014 - 2018,AMN,False,76.0,20.0,,True,,
+456,Bay of Plenty,Recent,2014 - 2018,Bulk_density,False,0.99,0.7,1.4,True,True,True
+457,Bay of Plenty,Recent,2014 - 2018,TotalC,False,3.2,2.0,,True,,
+458,Bay of Plenty,Allophanic,2014 - 2018,AMN,False,240.0,50.0,,True,,
+459,Bay of Plenty,Allophanic,2014 - 2018,Bulk_density,False,0.603333333,0.5,1.3,True,True,True
+460,Bay of Plenty,Allophanic,2014 - 2018,TotalC,False,7.7,3.0,,True,,
+461,Bay of Plenty,Allophanic,2014 - 2018,TotalN,False,0.61,0.25,0.7,True,True,True
+462,Bay of Plenty,Recent,2014 - 2018,AMN,False,62.0,20.0,,True,,
+463,Bay of Plenty,Recent,2014 - 2018,Bulk_density,False,1.143333333,0.7,1.4,True,True,True
+464,Bay of Plenty,Recent,2014 - 2018,TotalC,False,2.0,2.0,,True,,
+465,Bay of Plenty,Podzol,2014 - 2018,AMN,False,196.0,50.0,,True,,
+466,Bay of Plenty,Podzol,2014 - 2018,Bulk_density,False,0.616666667,0.6,1.4,True,True,True
+467,Bay of Plenty,Podzol,2014 - 2018,TotalC,False,12.0,2.5,,True,,
+468,Bay of Plenty,Podzol,2014 - 2018,TotalN,False,0.91,0.25,0.7,True,False,False
+469,Bay of Plenty,Allophanic,2014 - 2018,AMN,False,244.165955,50.0,,True,,
+470,Bay of Plenty,Allophanic,2014 - 2018,Bulk_density,False,0.7066666665000001,0.5,1.3,True,True,True
+471,Bay of Plenty,Allophanic,2014 - 2018,TotalC,False,10.65610169,3.0,,True,,
+472,Bay of Plenty,Allophanic,2014 - 2018,TotalN,False,1.045636207,0.25,0.7,True,False,False
+473,Bay of Plenty,Allophanic,2014 - 2018,AMN,False,233.517556,50.0,,True,,
+474,Bay of Plenty,Allophanic,2014 - 2018,Bulk_density,False,0.721666667,0.5,1.3,True,True,True
+475,Bay of Plenty,Allophanic,2014 - 2018,TotalC,False,11.09267489,3.0,,True,,
+476,Bay of Plenty,Allophanic,2014 - 2018,TotalN,False,1.054464286,0.25,0.7,True,False,False
+477,Bay of Plenty,Allophanic,2014 - 2018,AMN,False,215.3911093,50.0,,True,,
+478,Bay of Plenty,Allophanic,2014 - 2018,Bulk_density,False,0.733333333,0.5,1.3,True,True,True
+479,Bay of Plenty,Allophanic,2014 - 2018,TotalC,False,11.13786048,3.0,,True,,
+480,Bay of Plenty,Allophanic,2014 - 2018,TotalN,False,0.918812396,0.25,0.7,True,False,False
+481,Bay of Plenty,Pumice,2014 - 2018,AMN,False,141.0,50.0,,True,,
+482,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.89,0.6,1.4,True,True,True
+483,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,6.7,2.0,,True,,
+484,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.58,0.25,0.7,True,True,True
+485,Bay of Plenty,Recent,2014 - 2018,AMN,False,190.0,50.0,,True,,
+486,Bay of Plenty,Recent,2014 - 2018,Bulk_density,False,1.03,0.7,1.4,True,True,True
+487,Bay of Plenty,Recent,2014 - 2018,TotalC,False,4.4,2.0,,True,,
+488,Bay of Plenty,Recent,2014 - 2018,TotalN,False,0.4,0.25,0.7,True,True,True
+489,Bay of Plenty,Recent,2014 - 2018,AMN,False,179.0,50.0,,True,,
+490,Bay of Plenty,Recent,2014 - 2018,Bulk_density,False,0.925,0.7,1.4,True,True,True
+491,Bay of Plenty,Recent,2014 - 2018,TotalC,False,4.6,2.0,,True,,
+492,Bay of Plenty,Recent,2014 - 2018,TotalN,False,0.43,0.25,0.7,True,True,True
+493,Bay of Plenty,Allophanic,2014 - 2018,AMN,False,231.898291,50.0,,True,,
+494,Bay of Plenty,Allophanic,2014 - 2018,Bulk_density,False,0.7050000000000001,0.5,1.3,True,True,True
+495,Bay of Plenty,Allophanic,2014 - 2018,TotalC,False,10.46147637,3.0,,True,,
+496,Bay of Plenty,Allophanic,2014 - 2018,TotalN,False,0.996775899,0.25,0.7,True,False,False
+497,Bay of Plenty,Pumice,2014 - 2018,AMN,False,165.0,50.0,,True,,
+498,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.893333333,0.6,1.4,True,True,True
+499,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,6.8,2.0,,True,,
+500,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.6,0.25,0.7,True,True,True
+501,Bay of Plenty,Pumice,2014 - 2018,AMN,False,199.0,50.0,,True,,
+502,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.87,0.6,1.4,True,True,True
+503,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,7.6,2.0,,True,,
+504,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.78,0.25,0.7,True,False,False
+505,Bay of Plenty,Pumice,2014 - 2018,AMN,False,134.0,50.0,,True,,
+506,Bay of Plenty,Pumice,2014 - 2018,Bulk_density,False,0.806666667,0.6,1.4,True,True,True
+507,Bay of Plenty,Pumice,2014 - 2018,TotalC,False,4.6,2.0,,True,,
+508,Bay of Plenty,Pumice,2014 - 2018,TotalN,False,0.46,0.25,0.7,True,True,True
+509,Bay of Plenty,Gley,2014 - 2018,AMN,False,171.0802004,50.0,,True,,
+510,Bay of Plenty,Gley,2014 - 2018,Bulk_density,False,0.925,0.6,1.4,True,True,True
+511,Bay of Plenty,Gley,2014 - 2018,TotalC,False,4.811368558,2.5,,True,,
+512,Bay of Plenty,Gley,2014 - 2018,TotalN,False,0.5331180529999999,0.25,0.7,True,True,True
+513,Bay of Plenty,Gley,2014 - 2018,AMN,False,200.179554,50.0,,True,,
+514,Bay of Plenty,Gley,2014 - 2018,Bulk_density,False,0.886666667,0.6,1.4,True,True,True
+515,Bay of Plenty,Gley,2014 - 2018,TotalC,False,8.500335360000001,2.5,,True,,
+516,Bay of Plenty,Gley,2014 - 2018,TotalN,False,0.8060305759999999,0.25,0.7,True,False,False
+517,Bay of Plenty,Allophanic,2014 - 2018,AMN,False,215.0,50.0,,True,,
+518,Bay of Plenty,Allophanic,2014 - 2018,Bulk_density,False,0.773333333,0.5,1.3,True,True,True
+519,Bay of Plenty,Allophanic,2014 - 2018,TotalC,False,9.3,3.0,,True,,
+520,Bay of Plenty,Allophanic,2014 - 2018,TotalN,False,0.84,0.25,0.7,True,False,False
+521,Bay of Plenty,Allophanic,2014 - 2018,AMN,False,167.0,20.0,,True,,
+522,Bay of Plenty,Allophanic,2014 - 2018,Bulk_density,False,0.826666667,0.5,1.3,True,True,True
+523,Bay of Plenty,Allophanic,2014 - 2018,TotalC,False,7.5,3.0,,True,,
+524,Bay of Plenty,Allophanic,2014 - 2018,AMN,False,255.0,50.0,,True,,
+525,Bay of Plenty,Allophanic,2014 - 2018,Bulk_density,False,0.803333333,0.5,1.3,True,True,True
+526,Bay of Plenty,Allophanic,2014 - 2018,TotalC,False,10.3,3.0,,True,,
+527,Bay of Plenty,Allophanic,2014 - 2018,TotalN,False,0.91,0.25,0.7,True,False,False
+528,Bay of Plenty,Allophanic,2014 - 2018,AMN,False,192.973137,50.0,,True,,
+529,Bay of Plenty,Allophanic,2014 - 2018,Bulk_density,False,0.6950000000000001,0.5,1.3,True,True,True
+530,Bay of Plenty,Allophanic,2014 - 2018,TotalC,False,10.28302051,3.0,,True,,
+531,Bay of Plenty,Allophanic,2014 - 2018,TotalN,False,0.98173732,0.25,0.7,True,False,False
+532,Bay of Plenty,Gley,2014 - 2018,AMN,False,73.0,20.0,,True,,
+533,Bay of Plenty,Gley,2014 - 2018,Bulk_density,False,1.01,0.6,1.4,True,True,True
+534,Bay of Plenty,Gley,2014 - 2018,TotalC,False,4.3,2.5,,True,,
+535,Bay of Plenty,Allophanic,2014 - 2018,AMN,False,178.0,20.0,,True,,
+536,Bay of Plenty,Allophanic,2014 - 2018,Bulk_density,False,0.976666667,0.5,1.3,True,True,True
+537,Bay of Plenty,Allophanic,2014 - 2018,TotalC,False,2.8,3.0,,False,,False
+538,Bay of Plenty,Allophanic,2014 - 2018,AMN,False,27.0,20.0,,True,,
+539,Bay of Plenty,Allophanic,2014 - 2018,Bulk_density,False,0.906666667,0.5,1.3,True,True,True
+540,Bay of Plenty,Allophanic,2014 - 2018,TotalC,False,3.0,3.0,,True,,
+541,Bay of Plenty,Organic,2014 - 2018,AMN,False,87.0,20.0,,True,,
+542,Bay of Plenty,Organic,2014 - 2018,Bulk_density,False,1.01,0.2,1.0,True,False,False
+543,Bay of Plenty,Organic,2014 - 2018,TotalC,False,5.6,,,,,
+544,Canterbury,Brown,2014 - 2018,AMN,False,134.0,50.0,,True,,
+545,Canterbury,Brown,2014 - 2018,Bulk_density,False,0.8,0.6,1.4,True,True,True
+546,Canterbury,Brown,2014 - 2018,TotalC,False,6.7,2.5,,True,,
+547,Canterbury,Brown,2014 - 2018,TotalN,False,0.52,0.25,0.7,True,True,True
+548,Canterbury,Brown,2014 - 2018,AMN,False,184.0,50.0,,True,,
+549,Canterbury,Brown,2014 - 2018,Bulk_density,False,0.7,0.6,1.4,True,True,True
+550,Canterbury,Brown,2014 - 2018,TotalC,False,6.2,2.5,,True,,
+551,Canterbury,Brown,2014 - 2018,TotalN,False,0.53,0.25,0.7,True,True,True
+552,Canterbury,Brown,2014 - 2018,AMN,False,73.0,50.0,,True,,
+553,Canterbury,Brown,2014 - 2018,Bulk_density,False,0.9,0.6,1.4,True,True,True
+554,Canterbury,Brown,2014 - 2018,TotalC,False,4.0,2.5,,True,,
+555,Canterbury,Brown,2014 - 2018,TotalN,False,0.26,0.25,0.7,True,True,True
+556,Canterbury,Brown,2014 - 2018,AMN,False,46.0,50.0,,False,,False
+557,Canterbury,Brown,2014 - 2018,Bulk_density,False,1.1,0.6,1.4,True,True,True
+558,Canterbury,Brown,2014 - 2018,TotalC,False,3.7,2.5,,True,,
+559,Canterbury,Brown,2014 - 2018,TotalN,False,0.27,0.25,0.7,True,True,True
+560,Canterbury,Brown,2014 - 2018,AMN,False,135.0,50.0,,True,,
+561,Canterbury,Brown,2014 - 2018,Bulk_density,False,1.1,0.6,1.4,True,True,True
+562,Canterbury,Brown,2014 - 2018,TotalC,False,5.1,2.5,,True,,
+563,Canterbury,Brown,2014 - 2018,TotalN,False,0.41,0.25,0.7,True,True,True
+564,Canterbury,Brown,2014 - 2018,AMN,False,57.0,20.0,,True,,
+565,Canterbury,Brown,2014 - 2018,Bulk_density,False,1.2,0.6,1.4,True,True,True
+566,Canterbury,Brown,2014 - 2018,TotalC,False,2.5,2.5,,True,,
+567,Canterbury,Brown,2014 - 2018,TotalN,False,0.18,0.1,0.7,True,True,True
+568,Canterbury,Brown,2014 - 2018,AMN,False,84.0,50.0,,True,,
+569,Canterbury,Brown,2014 - 2018,Bulk_density,False,1.3,0.6,1.4,True,True,True
+570,Canterbury,Brown,2014 - 2018,TotalC,False,3.5,2.5,,True,,
+571,Canterbury,Brown,2014 - 2018,TotalN,False,0.29,0.25,0.7,True,True,True
+572,Canterbury,Brown,2014 - 2018,AMN,False,74.0,50.0,,True,,
+573,Canterbury,Brown,2014 - 2018,Bulk_density,False,1.3,0.6,1.4,True,True,True
+574,Canterbury,Brown,2014 - 2018,TotalC,False,4.8,2.5,,True,,
+575,Canterbury,Brown,2014 - 2018,TotalN,False,0.38,0.25,0.7,True,True,True
+576,Canterbury,Brown,2014 - 2018,AMN,False,149.0,50.0,,True,,
+577,Canterbury,Brown,2014 - 2018,Bulk_density,False,1.0,0.6,1.4,True,True,True
+578,Canterbury,Brown,2014 - 2018,TotalC,False,5.6,2.5,,True,,
+579,Canterbury,Brown,2014 - 2018,TotalN,False,0.45,0.25,0.7,True,True,True
+580,Canterbury,Brown,2014 - 2018,AMN,False,244.0,50.0,,True,,
+581,Canterbury,Brown,2014 - 2018,Bulk_density,False,0.7,0.6,1.4,True,True,True
+582,Canterbury,Brown,2014 - 2018,TotalC,False,8.2,2.5,,True,,
+583,Canterbury,Brown,2014 - 2018,TotalN,False,0.78,0.25,0.7,True,False,False
+584,Canterbury,Brown,2014 - 2018,AMN,False,149.0,50.0,,True,,
+585,Canterbury,Brown,2014 - 2018,Bulk_density,False,1.2,0.6,1.4,True,True,True
+586,Canterbury,Brown,2014 - 2018,TotalC,False,7.0,2.5,,True,,
+587,Canterbury,Brown,2014 - 2018,TotalN,False,0.54,0.25,0.7,True,True,True
+588,Canterbury,Brown,2014 - 2018,AMN,False,206.0,50.0,,True,,
+589,Canterbury,Brown,2014 - 2018,Bulk_density,False,1.2,0.6,1.4,True,True,True
+590,Canterbury,Brown,2014 - 2018,TotalC,False,4.7,2.5,,True,,
+591,Canterbury,Brown,2014 - 2018,TotalN,False,0.46,0.25,0.7,True,True,True
+592,Canterbury,Brown,2014 - 2018,AMN,False,47.0,20.0,,True,,
+593,Canterbury,Brown,2014 - 2018,Bulk_density,False,0.8,0.6,1.4,True,True,True
+594,Canterbury,Brown,2014 - 2018,TotalC,False,6.0,2.5,,True,,
+595,Canterbury,Brown,2014 - 2018,TotalN,False,0.24,0.1,0.7,True,True,True
+596,Canterbury,Brown,2014 - 2018,AMN,False,94.0,50.0,,True,,
+597,Canterbury,Brown,2014 - 2018,Bulk_density,False,1.1,0.6,1.4,True,True,True
+598,Canterbury,Brown,2014 - 2018,TotalC,False,3.9,2.5,,True,,
+599,Canterbury,Brown,2014 - 2018,TotalN,False,0.38,0.25,0.7,True,True,True
+600,Canterbury,Brown,2014 - 2018,AMN,False,54.0,20.0,,True,,
+601,Canterbury,Brown,2014 - 2018,Bulk_density,False,1.5,0.6,1.4,True,False,False
+602,Canterbury,Brown,2014 - 2018,TotalC,False,2.3,2.5,,False,,False
+603,Canterbury,Brown,2014 - 2018,AMN,False,115.0,20.0,,True,,
+604,Canterbury,Brown,2014 - 2018,Bulk_density,False,1.3,0.6,1.4,True,True,True
+605,Canterbury,Brown,2014 - 2018,TotalC,False,3.3,2.5,,True,,
+606,Canterbury,Brown,2014 - 2018,AMN,False,168.0,50.0,,True,,
+607,Canterbury,Brown,2014 - 2018,Bulk_density,False,1.4,0.6,1.4,True,True,True
+608,Canterbury,Brown,2014 - 2018,TotalC,False,3.5,2.5,,True,,
+609,Canterbury,Brown,2014 - 2018,TotalN,False,0.35,0.25,0.7,True,True,True
+610,Canterbury,Brown,2014 - 2018,AMN,False,195.0,50.0,,True,,
+611,Canterbury,Brown,2014 - 2018,Bulk_density,False,1.1,0.6,1.4,True,True,True
+612,Canterbury,Brown,2014 - 2018,TotalC,False,4.6,2.5,,True,,
+613,Canterbury,Brown,2014 - 2018,TotalN,False,0.45,0.25,0.7,True,True,True
+614,Canterbury,Brown,2014 - 2018,AMN,False,67.5,50.0,,True,,
+615,Canterbury,Brown,2014 - 2018,Bulk_density,False,1.15,0.6,1.4,True,True,True
+616,Canterbury,Brown,2014 - 2018,TotalC,False,3.6,2.5,,True,,
+617,Canterbury,Brown,2014 - 2018,TotalN,False,0.21,0.25,0.7,False,True,False
+618,Canterbury,Brown,2014 - 2018,AMN,False,155.0,50.0,,True,,
+619,Canterbury,Brown,2014 - 2018,Bulk_density,False,0.8,0.6,1.4,True,True,True
+620,Canterbury,Brown,2014 - 2018,TotalC,False,5.8,2.5,,True,,
+621,Canterbury,Brown,2014 - 2018,TotalN,False,0.49,0.25,0.7,True,True,True
+622,Canterbury,Brown,2014 - 2018,AMN,False,95.0,20.0,,True,,
+623,Canterbury,Brown,2014 - 2018,Bulk_density,False,0.6,0.6,1.4,True,True,True
+624,Canterbury,Brown,2014 - 2018,TotalC,False,6.4,2.5,,True,,
+625,Canterbury,Brown,2014 - 2018,TotalN,False,0.43,0.1,0.7,True,True,True
+626,Hawke's Bay,Pallic,2014 - 2018,AMN,False,122.0,20.0,,True,,
+627,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,0.903373834,0.7,1.4,True,True,True
+628,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,4.0,2.0,,True,,
+629,Hawke's Bay,Pallic,2014 - 2018,TotalN,False,0.42,0.1,0.7,True,True,True
+630,Hawke's Bay,Pallic,2014 - 2018,AMN,False,107.0,20.0,,True,,
+631,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,1.146148951,0.7,1.4,True,True,True
+632,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,3.5,2.0,,True,,
+633,Hawke's Bay,Pallic,2014 - 2018,TotalN,False,0.37,0.1,0.7,True,True,True
+634,Hawke's Bay,Brown,2014 - 2018,AMN,False,63.0,20.0,,True,,
+635,Hawke's Bay,Brown,2014 - 2018,Bulk_density,False,0.851477986,0.6,1.4,True,True,True
+636,Hawke's Bay,Brown,2014 - 2018,TotalC,False,7.6,2.5,,True,,
+637,Hawke's Bay,Brown,2014 - 2018,TotalN,False,0.55,0.1,0.7,True,True,True
+638,Hawke's Bay,Brown,2014 - 2018,AMN,False,145.0,20.0,,True,,
+639,Hawke's Bay,Brown,2014 - 2018,Bulk_density,False,0.700776385,0.6,1.4,True,True,True
+640,Hawke's Bay,Brown,2014 - 2018,TotalC,False,8.9,2.5,,True,,
+641,Hawke's Bay,Brown,2014 - 2018,TotalN,False,0.44,0.1,0.7,True,True,True
+642,Hawke's Bay,Pallic,2014 - 2018,AMN,False,58.0,20.0,,True,,
+643,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,1.30164099,0.7,1.4,True,True,True
+644,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,3.0,2.0,,True,,
+645,Hawke's Bay,Pallic,2014 - 2018,TotalN,False,0.27,0.1,0.7,True,True,True
+646,Hawke's Bay,Pumice,2014 - 2018,AMN,False,86.0,20.0,,True,,
+647,Hawke's Bay,Pumice,2014 - 2018,Bulk_density,False,0.496632916,0.6,1.4,False,True,False
+648,Hawke's Bay,Pumice,2014 - 2018,TotalC,False,6.5,2.0,,True,,
+649,Hawke's Bay,Pumice,2014 - 2018,TotalN,False,0.3,0.1,0.7,True,True,True
+650,Hawke's Bay,Pumice,2014 - 2018,AMN,False,59.0,20.0,,True,,
+651,Hawke's Bay,Pumice,2014 - 2018,Bulk_density,False,1.022702648,0.6,1.4,True,True,True
+652,Hawke's Bay,Pumice,2014 - 2018,TotalC,False,3.6,2.0,,True,,
+653,Hawke's Bay,Pumice,2014 - 2018,TotalN,False,0.3,0.1,0.7,True,True,True
+654,Hawke's Bay,Pallic,2014 - 2018,AMN,False,117.0,20.0,,True,,
+655,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,0.910492141,0.7,1.4,True,True,True
+656,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,3.6,2.0,,True,,
+657,Hawke's Bay,Pallic,2014 - 2018,TotalN,False,0.4,0.1,0.7,True,True,True
+658,Hawke's Bay,Pumice,2014 - 2018,AMN,False,70.0,20.0,,True,,
+659,Hawke's Bay,Pumice,2014 - 2018,Bulk_density,False,0.857081362,0.6,1.4,True,True,True
+660,Hawke's Bay,Pumice,2014 - 2018,TotalC,False,4.5,2.0,,True,,
+661,Hawke's Bay,Pumice,2014 - 2018,TotalN,False,0.31,0.1,0.7,True,True,True
+662,Hawke's Bay,Pumice,2014 - 2018,AMN,False,118.0,20.0,,True,,
+663,Hawke's Bay,Pumice,2014 - 2018,Bulk_density,False,0.889597197,0.6,1.4,True,True,True
+664,Hawke's Bay,Pumice,2014 - 2018,TotalC,False,5.4,2.0,,True,,
+665,Hawke's Bay,Pumice,2014 - 2018,TotalN,False,0.27,0.1,0.7,True,True,True
+666,Hawke's Bay,Pumice,2014 - 2018,AMN,False,84.0,20.0,,True,,
+667,Hawke's Bay,Pumice,2014 - 2018,Bulk_density,False,0.593795795,0.6,1.4,False,True,False
+668,Hawke's Bay,Pumice,2014 - 2018,TotalC,False,7.3,2.0,,True,,
+669,Hawke's Bay,Pumice,2014 - 2018,TotalN,False,0.51,0.1,0.7,True,True,True
+670,Hawke's Bay,Organic,2014 - 2018,AMN,False,146.0,20.0,,True,,
+671,Hawke's Bay,Organic,2014 - 2018,Bulk_density,False,0.855978938,0.2,1.0,True,True,True
+672,Hawke's Bay,Organic,2014 - 2018,TotalC,False,7.75,,,,,
+673,Hawke's Bay,Recent,2014 - 2018,AMN,False,65.5,20.0,,True,,
+674,Hawke's Bay,Recent,2014 - 2018,Bulk_density,False,1.3,0.7,1.4,True,True,True
+675,Hawke's Bay,Recent,2014 - 2018,TotalC,False,2.15,2.0,,True,,
+676,Hawke's Bay,Brown,2014 - 2018,AMN,False,313.0,50.0,,True,,
+677,Hawke's Bay,Brown,2014 - 2018,Bulk_density,False,1.13,0.6,1.4,True,True,True
+678,Hawke's Bay,Brown,2014 - 2018,TotalC,False,5.7,2.5,,True,,
+679,Hawke's Bay,Brown,2014 - 2018,TotalN,False,0.52,0.25,0.7,True,True,True
+680,Hawke's Bay,Gley,2014 - 2018,AMN,False,42.0,20.0,,True,,
+681,Hawke's Bay,Gley,2014 - 2018,Bulk_density,False,1.38,0.6,1.4,True,True,True
+682,Hawke's Bay,Gley,2014 - 2018,TotalC,False,2.1,2.5,,False,,False
+683,Hawke's Bay,Gley,2014 - 2018,AMN,False,33.0,20.0,,True,,
+684,Hawke's Bay,Gley,2014 - 2018,Bulk_density,False,1.13,0.6,1.4,True,True,True
+685,Hawke's Bay,Gley,2014 - 2018,TotalC,False,2.2,2.5,,False,,False
+686,Hawke's Bay,Gley,2014 - 2018,AMN,False,91.0,20.0,,True,,
+687,Hawke's Bay,Gley,2014 - 2018,Bulk_density,False,1.11499315,0.6,1.4,True,True,True
+688,Hawke's Bay,Gley,2014 - 2018,TotalC,False,3.1,2.5,,True,,
+689,Hawke's Bay,Gley,2014 - 2018,AMN,False,100.5,20.0,,True,,
+690,Hawke's Bay,Gley,2014 - 2018,Bulk_density,False,1.285266364,0.6,1.4,True,True,True
+691,Hawke's Bay,Gley,2014 - 2018,TotalC,False,3.35,2.5,,True,,
+692,Hawke's Bay,Gley,2014 - 2018,AMN,False,69.0,20.0,,True,,
+693,Hawke's Bay,Gley,2014 - 2018,Bulk_density,False,1.214257238,0.6,1.4,True,True,True
+694,Hawke's Bay,Gley,2014 - 2018,TotalC,False,2.6,2.5,,True,,
+695,Hawke's Bay,Pallic,2014 - 2018,AMN,False,152.0,50.0,,True,,
+696,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,1.04,0.7,1.4,True,True,True
+697,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,3.6,2.0,,True,,
+698,Hawke's Bay,Pallic,2014 - 2018,TotalN,False,0.34,0.25,0.7,True,True,True
+699,Hawke's Bay,Melanic,2014 - 2018,AMN,False,164.0,50.0,,True,,
+700,Hawke's Bay,Melanic,2014 - 2018,Bulk_density,False,1.0,0.6,1.4,True,True,True
+701,Hawke's Bay,Melanic,2014 - 2018,TotalC,False,4.4,2.5,,True,,
+702,Hawke's Bay,Melanic,2014 - 2018,TotalN,False,0.39,0.25,0.7,True,True,True
+703,Hawke's Bay,Melanic,2014 - 2018,AMN,False,238.0,50.0,,True,,
+704,Hawke's Bay,Melanic,2014 - 2018,Bulk_density,False,1.12,0.6,1.4,True,True,True
+705,Hawke's Bay,Melanic,2014 - 2018,TotalC,False,4.8,2.5,,True,,
+706,Hawke's Bay,Melanic,2014 - 2018,TotalN,False,0.46,0.25,0.7,True,True,True
+707,Hawke's Bay,Gley,2014 - 2018,AMN,False,26.0,20.0,,True,,
+708,Hawke's Bay,Gley,2014 - 2018,Bulk_density,False,1.293999685,0.6,1.4,True,True,True
+709,Hawke's Bay,Gley,2014 - 2018,TotalC,False,1.85,2.5,,False,,False
+710,Hawke's Bay,Recent,2014 - 2018,AMN,False,300.0,50.0,,True,,
+711,Hawke's Bay,Recent,2014 - 2018,Bulk_density,False,1.08,0.7,1.4,True,True,True
+712,Hawke's Bay,Recent,2014 - 2018,TotalC,False,5.3,2.0,,True,,
+713,Hawke's Bay,Recent,2014 - 2018,TotalN,False,0.52,0.25,0.7,True,True,True
+714,Hawke's Bay,Pallic,2014 - 2018,AMN,False,181.0,50.0,,True,,
+715,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,1.21,0.7,1.4,True,True,True
+716,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,4.5,2.0,,True,,
+717,Hawke's Bay,Pallic,2014 - 2018,TotalN,False,0.41,0.25,0.7,True,True,True
+718,Hawke's Bay,Pallic,2014 - 2018,AMN,False,284.0,50.0,,True,,
+719,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,1.02,0.7,1.4,True,True,True
+720,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,4.8,2.0,,True,,
+721,Hawke's Bay,Pallic,2014 - 2018,TotalN,False,0.45,0.25,0.7,True,True,True
+722,Hawke's Bay,Recent,2014 - 2018,AMN,False,206.0,50.0,,True,,
+723,Hawke's Bay,Recent,2014 - 2018,Bulk_density,False,1.01,0.7,1.4,True,True,True
+724,Hawke's Bay,Recent,2014 - 2018,TotalC,False,4.3,2.0,,True,,
+725,Hawke's Bay,Recent,2014 - 2018,TotalN,False,0.42,0.25,0.7,True,True,True
+726,Hawke's Bay,Pallic,2014 - 2018,AMN,False,215.0,50.0,,True,,
+727,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,0.91,0.7,1.4,True,True,True
+728,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,4.1,2.0,,True,,
+729,Hawke's Bay,Pallic,2014 - 2018,TotalN,False,0.37,0.25,0.7,True,True,True
+730,Hawke's Bay,Pallic,2014 - 2018,AMN,False,192.0,50.0,,True,,
+731,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,0.99,0.7,1.4,True,True,True
+732,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,3.0,2.0,,True,,
+733,Hawke's Bay,Pallic,2014 - 2018,TotalN,False,0.27,0.25,0.7,True,True,True
+734,Hawke's Bay,Organic,2014 - 2018,AMN,False,246.0,50.0,,True,,
+735,Hawke's Bay,Organic,2014 - 2018,Bulk_density,False,0.7,0.2,1.0,True,True,True
+736,Hawke's Bay,Organic,2014 - 2018,TotalC,False,13.3,,,,,
+737,Hawke's Bay,Organic,2014 - 2018,TotalN,False,1.09,0.25,0.7,True,False,False
+738,Hawke's Bay,Pumice,2014 - 2018,AMN,False,114.0,50.0,,True,,
+739,Hawke's Bay,Pumice,2014 - 2018,Bulk_density,False,0.75,0.6,1.4,True,True,True
+740,Hawke's Bay,Pumice,2014 - 2018,TotalC,False,7.6,2.0,,True,,
+741,Hawke's Bay,Pumice,2014 - 2018,TotalN,False,0.64,0.25,0.7,True,True,True
+742,Hawke's Bay,Pumice,2014 - 2018,AMN,False,196.0,50.0,,True,,
+743,Hawke's Bay,Pumice,2014 - 2018,Bulk_density,False,0.69,0.6,1.4,True,True,True
+744,Hawke's Bay,Pumice,2014 - 2018,TotalC,False,7.9,2.0,,True,,
+745,Hawke's Bay,Pumice,2014 - 2018,TotalN,False,0.65,0.25,0.7,True,True,True
+746,Hawke's Bay,Pallic,2014 - 2018,AMN,False,264.0,50.0,,True,,
+747,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,1.06,0.7,1.4,True,True,True
+748,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,4.8,2.0,,True,,
+749,Hawke's Bay,Pallic,2014 - 2018,TotalN,False,0.48,0.25,0.7,True,True,True
+750,Hawke's Bay,Pallic,2014 - 2018,AMN,False,270.0,50.0,,True,,
+751,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,1.087157686,0.7,1.4,True,True,True
+752,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,5.7,2.0,,True,,
+753,Hawke's Bay,Pallic,2014 - 2018,TotalN,False,0.51,0.25,0.7,True,True,True
+754,Hawke's Bay,Gley,2014 - 2018,AMN,False,184.0,50.0,,True,,
+755,Hawke's Bay,Gley,2014 - 2018,Bulk_density,False,1.162190319,0.6,1.4,True,True,True
+756,Hawke's Bay,Gley,2014 - 2018,TotalC,False,3.6,2.5,,True,,
+757,Hawke's Bay,Gley,2014 - 2018,TotalN,False,0.31,0.25,0.7,True,True,True
+758,Hawke's Bay,Brown,2014 - 2018,AMN,False,88.0,50.0,,True,,
+759,Hawke's Bay,Brown,2014 - 2018,Bulk_density,False,1.13301528,0.6,1.4,True,True,True
+760,Hawke's Bay,Brown,2014 - 2018,TotalC,False,3.9,2.5,,True,,
+761,Hawke's Bay,Brown,2014 - 2018,TotalN,False,0.3,0.25,0.7,True,True,True
+762,Hawke's Bay,Brown,2014 - 2018,AMN,False,99.0,50.0,,True,,
+763,Hawke's Bay,Brown,2014 - 2018,Bulk_density,False,1.223995734,0.6,1.4,True,True,True
+764,Hawke's Bay,Brown,2014 - 2018,TotalC,False,2.9,2.5,,True,,
+765,Hawke's Bay,Brown,2014 - 2018,TotalN,False,0.27,0.25,0.7,True,True,True
+766,Hawke's Bay,Pallic,2014 - 2018,AMN,False,97.0,50.0,,True,,
+767,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,1.025334193,0.7,1.4,True,True,True
+768,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,4.8,2.0,,True,,
+769,Hawke's Bay,Pallic,2014 - 2018,TotalN,False,0.39,0.25,0.7,True,True,True
+770,Hawke's Bay,Brown,2014 - 2018,AMN,False,201.0,50.0,,True,,
+771,Hawke's Bay,Brown,2014 - 2018,Bulk_density,False,1.041578052,0.6,1.4,True,True,True
+772,Hawke's Bay,Brown,2014 - 2018,TotalC,False,5.0,2.5,,True,,
+773,Hawke's Bay,Brown,2014 - 2018,TotalN,False,0.44,0.25,0.7,True,True,True
+774,Hawke's Bay,Gley,2014 - 2018,AMN,False,194.0,50.0,,True,,
+775,Hawke's Bay,Gley,2014 - 2018,Bulk_density,False,1.117137603,0.6,1.4,True,True,True
+776,Hawke's Bay,Gley,2014 - 2018,TotalC,False,5.1,2.5,,True,,
+777,Hawke's Bay,Gley,2014 - 2018,TotalN,False,0.49,0.25,0.7,True,True,True
+778,Hawke's Bay,Pallic,2014 - 2018,AMN,False,251.0,50.0,,True,,
+779,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,1.059851643,0.7,1.4,True,True,True
+780,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,5.5,2.0,,True,,
+781,Hawke's Bay,Pallic,2014 - 2018,TotalN,False,0.5,0.25,0.7,True,True,True
+782,Hawke's Bay,Brown,2014 - 2018,AMN,False,339.0,50.0,,True,,
+783,Hawke's Bay,Brown,2014 - 2018,Bulk_density,False,0.755392158,0.6,1.4,True,True,True
+784,Hawke's Bay,Brown,2014 - 2018,TotalC,False,11.4,2.5,,True,,
+785,Hawke's Bay,Brown,2014 - 2018,TotalN,False,1.05,0.25,0.7,True,False,False
+786,Hawke's Bay,Pumice,2014 - 2018,AMN,False,148.0,50.0,,True,,
+787,Hawke's Bay,Pumice,2014 - 2018,Bulk_density,False,0.765791369,0.6,1.4,True,True,True
+788,Hawke's Bay,Pumice,2014 - 2018,TotalC,False,7.3,2.0,,True,,
+789,Hawke's Bay,Pumice,2014 - 2018,TotalN,False,0.62,0.25,0.7,True,True,True
+790,Hawke's Bay,Pumice,2014 - 2018,AMN,False,157.0,50.0,,True,,
+791,Hawke's Bay,Pumice,2014 - 2018,Bulk_density,False,0.687567208,0.6,1.4,True,True,True
+792,Hawke's Bay,Pumice,2014 - 2018,TotalC,False,8.9,2.0,,True,,
+793,Hawke's Bay,Pumice,2014 - 2018,TotalN,False,0.74,0.25,0.7,True,False,False
+794,Hawke's Bay,Pumice,2014 - 2018,AMN,False,110.0,50.0,,True,,
+795,Hawke's Bay,Pumice,2014 - 2018,Bulk_density,False,0.830771927,0.6,1.4,True,True,True
+796,Hawke's Bay,Pumice,2014 - 2018,TotalC,False,4.8,2.0,,True,,
+797,Hawke's Bay,Pumice,2014 - 2018,TotalN,False,0.38,0.25,0.7,True,True,True
+798,Hawke's Bay,Gley,2014 - 2018,AMN,False,93.0,50.0,,True,,
+799,Hawke's Bay,Gley,2014 - 2018,Bulk_density,False,1.174761383,0.6,1.4,True,True,True
+800,Hawke's Bay,Gley,2014 - 2018,TotalC,False,1.8,2.5,,False,,False
+801,Hawke's Bay,Gley,2014 - 2018,TotalN,False,0.21,0.25,0.7,False,True,False
+802,Hawke's Bay,Pallic,2014 - 2018,AMN,False,117.0,50.0,,True,,
+803,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,1.030530667,0.7,1.4,True,True,True
+804,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,3.8,2.0,,True,,
+805,Hawke's Bay,Pallic,2014 - 2018,TotalN,False,0.33,0.25,0.7,True,True,True
+806,Hawke's Bay,Pumice,2014 - 2018,AMN,False,140.0,50.0,,True,,
+807,Hawke's Bay,Pumice,2014 - 2018,Bulk_density,False,0.909529247,0.6,1.4,True,True,True
+808,Hawke's Bay,Pumice,2014 - 2018,TotalC,False,4.1,2.0,,True,,
+809,Hawke's Bay,Pumice,2014 - 2018,TotalN,False,0.36,0.25,0.7,True,True,True
+810,Hawke's Bay,Allophanic,2014 - 2018,AMN,False,129.0,50.0,,True,,
+811,Hawke's Bay,Allophanic,2014 - 2018,Bulk_density,False,1.023831811,0.5,1.3,True,True,True
+812,Hawke's Bay,Allophanic,2014 - 2018,TotalC,False,4.2,3.0,,True,,
+813,Hawke's Bay,Allophanic,2014 - 2018,TotalN,False,0.4,0.25,0.7,True,True,True
+814,Hawke's Bay,Brown,2014 - 2018,AMN,False,122.0,50.0,,True,,
+815,Hawke's Bay,Brown,2014 - 2018,Bulk_density,False,1.207245622,0.6,1.4,True,True,True
+816,Hawke's Bay,Brown,2014 - 2018,TotalC,False,4.4,2.5,,True,,
+817,Hawke's Bay,Brown,2014 - 2018,TotalN,False,0.36,0.25,0.7,True,True,True
+818,Hawke's Bay,Melanic,2014 - 2018,AMN,False,224.0,50.0,,True,,
+819,Hawke's Bay,Melanic,2014 - 2018,Bulk_density,False,1.008847322,0.6,1.4,True,True,True
+820,Hawke's Bay,Melanic,2014 - 2018,TotalC,False,6.9,2.5,,True,,
+821,Hawke's Bay,Melanic,2014 - 2018,TotalN,False,0.68,0.25,0.7,True,True,True
+822,Hawke's Bay,Pumice,2014 - 2018,AMN,False,126.0,50.0,,True,,
+823,Hawke's Bay,Pumice,2014 - 2018,Bulk_density,False,0.59,0.6,1.4,False,True,False
+824,Hawke's Bay,Pumice,2014 - 2018,TotalC,False,7.5,2.0,,True,,
+825,Hawke's Bay,Pumice,2014 - 2018,TotalN,False,0.62,0.25,0.7,True,True,True
+826,Hawke's Bay,Pumice,2014 - 2018,AMN,False,134.0,50.0,,True,,
+827,Hawke's Bay,Pumice,2014 - 2018,Bulk_density,False,0.72,0.6,1.4,True,True,True
+828,Hawke's Bay,Pumice,2014 - 2018,TotalC,False,7.6,2.0,,True,,
+829,Hawke's Bay,Pumice,2014 - 2018,TotalN,False,0.63,0.25,0.7,True,True,True
+830,Hawke's Bay,Pumice,2014 - 2018,AMN,False,138.0,50.0,,True,,
+831,Hawke's Bay,Pumice,2014 - 2018,Bulk_density,False,0.71,0.6,1.4,True,True,True
+832,Hawke's Bay,Pumice,2014 - 2018,TotalC,False,7.7,2.0,,True,,
+833,Hawke's Bay,Pumice,2014 - 2018,TotalN,False,0.66,0.25,0.7,True,True,True
+834,Hawke's Bay,Pumice,2014 - 2018,AMN,False,137.0,50.0,,True,,
+835,Hawke's Bay,Pumice,2014 - 2018,Bulk_density,False,0.74,0.6,1.4,True,True,True
+836,Hawke's Bay,Pumice,2014 - 2018,TotalC,False,6.9,2.0,,True,,
+837,Hawke's Bay,Pumice,2014 - 2018,TotalN,False,0.53,0.25,0.7,True,True,True
+838,Hawke's Bay,Recent,2014 - 2018,AMN,False,62.5,20.0,,True,,
+839,Hawke's Bay,Recent,2014 - 2018,Bulk_density,False,1.16620113,0.7,1.4,True,True,True
+840,Hawke's Bay,Recent,2014 - 2018,TotalC,False,2.8,2.0,,True,,
+841,Hawke's Bay,Gley,2014 - 2018,AMN,False,228.0,50.0,,True,,
+842,Hawke's Bay,Gley,2014 - 2018,Bulk_density,False,1.15,0.6,1.4,True,True,True
+843,Hawke's Bay,Gley,2014 - 2018,TotalC,False,4.0,2.5,,True,,
+844,Hawke's Bay,Gley,2014 - 2018,TotalN,False,0.39,0.25,0.7,True,True,True
+845,Hawke's Bay,Recent,2014 - 2018,AMN,False,45.5,20.0,,True,,
+846,Hawke's Bay,Recent,2014 - 2018,Bulk_density,False,1.242925447,0.7,1.4,True,True,True
+847,Hawke's Bay,Recent,2014 - 2018,TotalC,False,2.5,2.0,,True,,
+848,Hawke's Bay,Recent,2014 - 2018,AMN,False,32.5,20.0,,True,,
+849,Hawke's Bay,Recent,2014 - 2018,Bulk_density,False,1.271254556,0.7,1.4,True,True,True
+850,Hawke's Bay,Recent,2014 - 2018,TotalC,False,1.65,2.0,,False,,False
+851,Hawke's Bay,Gley,2014 - 2018,AMN,False,39.5,20.0,,True,,
+852,Hawke's Bay,Gley,2014 - 2018,Bulk_density,False,1.200733267,0.6,1.4,True,True,True
+853,Hawke's Bay,Gley,2014 - 2018,TotalC,False,2.2,2.5,,False,,False
+854,Hawke's Bay,Gley,2014 - 2018,AMN,False,74.5,20.0,,True,,
+855,Hawke's Bay,Gley,2014 - 2018,Bulk_density,False,1.166012437,0.6,1.4,True,True,True
+856,Hawke's Bay,Gley,2014 - 2018,TotalC,False,4.5,2.5,,True,,
+857,Hawke's Bay,Organic,2014 - 2018,AMN,False,185.5,20.0,,True,,
+858,Hawke's Bay,Organic,2014 - 2018,Bulk_density,False,0.555871352,0.2,1.0,True,True,True
+859,Hawke's Bay,Organic,2014 - 2018,TotalC,False,21.55,,,,,
+860,Hawke's Bay,Organic,2014 - 2018,AMN,False,140.0,20.0,,True,,
+861,Hawke's Bay,Organic,2014 - 2018,Bulk_density,False,0.681442502,0.2,1.0,True,True,True
+862,Hawke's Bay,Organic,2014 - 2018,TotalC,False,7.9,,,,,
+863,Hawke's Bay,Brown,2014 - 2018,AMN,False,70.0,20.0,,True,,
+864,Hawke's Bay,Brown,2014 - 2018,Bulk_density,False,1.013708711,0.6,1.4,True,True,True
+865,Hawke's Bay,Brown,2014 - 2018,TotalC,False,5.8,2.5,,True,,
+866,Hawke's Bay,Pallic,2014 - 2018,AMN,False,125.0,20.0,,True,,
+867,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,1.24383095,0.7,1.4,True,True,True
+868,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,2.9,2.0,,True,,
+869,Hawke's Bay,Pallic,2014 - 2018,AMN,False,151.0,20.0,,True,,
+870,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,1.149273876,0.7,1.4,True,True,True
+871,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,4.75,2.0,,True,,
+872,Hawke's Bay,Recent,2014 - 2018,AMN,False,86.5,20.0,,True,,
+873,Hawke's Bay,Recent,2014 - 2018,Bulk_density,False,1.185,0.7,1.4,True,True,True
+874,Hawke's Bay,Recent,2014 - 2018,TotalC,False,3.4,2.0,,True,,
+875,Hawke's Bay,Recent,2014 - 2018,AMN,False,61.5,20.0,,True,,
+876,Hawke's Bay,Recent,2014 - 2018,Bulk_density,False,1.32,0.7,1.4,True,True,True
+877,Hawke's Bay,Recent,2014 - 2018,TotalC,False,2.5,2.0,,True,,
+878,Hawke's Bay,Recent,2014 - 2018,AMN,False,62.5,20.0,,True,,
+879,Hawke's Bay,Recent,2014 - 2018,Bulk_density,False,1.365,0.7,1.4,True,True,True
+880,Hawke's Bay,Recent,2014 - 2018,TotalC,False,2.25,2.0,,True,,
+881,Hawke's Bay,Recent,2014 - 2018,AMN,False,91.0,20.0,,True,,
+882,Hawke's Bay,Recent,2014 - 2018,Bulk_density,False,1.15,0.7,1.4,True,True,True
+883,Hawke's Bay,Recent,2014 - 2018,TotalC,False,3.85,2.0,,True,,
+884,Hawke's Bay,Recent,2014 - 2018,AMN,False,86.5,20.0,,True,,
+885,Hawke's Bay,Recent,2014 - 2018,Bulk_density,False,1.245,0.7,1.4,True,True,True
+886,Hawke's Bay,Recent,2014 - 2018,TotalC,False,3.3,2.0,,True,,
+887,Hawke's Bay,Pallic,2014 - 2018,AMN,False,113.5,20.0,,True,,
+888,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,1.1,0.7,1.4,True,True,True
+889,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,4.4,2.0,,True,,
+890,Hawke's Bay,Recent,2014 - 2018,AMN,False,93.5,20.0,,True,,
+891,Hawke's Bay,Recent,2014 - 2018,Bulk_density,False,1.11,0.7,1.4,True,True,True
+892,Hawke's Bay,Recent,2014 - 2018,TotalC,False,3.65,2.0,,True,,
+893,Hawke's Bay,Recent,2014 - 2018,AMN,False,118.5,20.0,,True,,
+894,Hawke's Bay,Recent,2014 - 2018,Bulk_density,False,1.055,0.7,1.4,True,True,True
+895,Hawke's Bay,Recent,2014 - 2018,TotalC,False,4.8,2.0,,True,,
+896,Hawke's Bay,Pallic,2014 - 2018,AMN,False,146.5,20.0,,True,,
+897,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,1.075,0.7,1.4,True,True,True
+898,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,4.5,2.0,,True,,
+899,Hawke's Bay,Gley,2014 - 2018,AMN,False,127.5,20.0,,True,,
+900,Hawke's Bay,Gley,2014 - 2018,Bulk_density,False,1.275,0.6,1.4,True,True,True
+901,Hawke's Bay,Gley,2014 - 2018,TotalC,False,4.0,2.5,,True,,
+902,Hawke's Bay,Gley,2014 - 2018,AMN,False,74.0,20.0,,True,,
+903,Hawke's Bay,Gley,2014 - 2018,Bulk_density,False,1.315,0.6,1.4,True,True,True
+904,Hawke's Bay,Gley,2014 - 2018,TotalC,False,2.2,2.5,,False,,False
+905,Hawke's Bay,Brown,2014 - 2018,AMN,False,101.5,20.0,,True,,
+906,Hawke's Bay,Brown,2014 - 2018,Bulk_density,False,0.845,0.6,1.4,True,True,True
+907,Hawke's Bay,Brown,2014 - 2018,TotalC,False,6.25,2.5,,True,,
+908,Hawke's Bay,Brown,2014 - 2018,AMN,False,57.0,20.0,,True,,
+909,Hawke's Bay,Brown,2014 - 2018,Bulk_density,False,1.105,0.6,1.4,True,True,True
+910,Hawke's Bay,Brown,2014 - 2018,TotalC,False,3.6,2.5,,True,,
+911,Hawke's Bay,Recent,2014 - 2018,AMN,False,93.5,20.0,,True,,
+912,Hawke's Bay,Recent,2014 - 2018,Bulk_density,False,1.155,0.7,1.4,True,True,True
+913,Hawke's Bay,Recent,2014 - 2018,TotalC,False,3.05,2.0,,True,,
+914,Hawke's Bay,Recent,2014 - 2018,AMN,False,60.5,20.0,,True,,
+915,Hawke's Bay,Recent,2014 - 2018,TotalC,False,2.35,2.0,,True,,
+916,Hawke's Bay,Pallic,2014 - 2018,AMN,False,93.0,20.0,,True,,
+917,Hawke's Bay,Pallic,2014 - 2018,Bulk_density,False,1.182645581,0.7,1.4,True,True,True
+918,Hawke's Bay,Pallic,2014 - 2018,TotalC,False,3.7,2.0,,True,,
+919,Hawke's Bay,Pallic,2014 - 2018,TotalN,False,0.33,0.1,0.7,True,True,True
+920,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,78.50236007,50.0,,True,,
+921,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,1.22,0.6,1.4,True,True,True
+922,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,3.675442264,2.5,,True,,
+923,Manawatu-Whanganui,Gley,2014 - 2018,TotalN,False,0.367750191,0.25,0.7,True,True,True
+924,Manawatu-Whanganui,Brown,2014 - 2018,AMN,False,122.9828008,50.0,,True,,
+925,Manawatu-Whanganui,Brown,2014 - 2018,Bulk_density,False,1.17,0.6,1.4,True,True,True
+926,Manawatu-Whanganui,Brown,2014 - 2018,TotalC,False,4.343084739,2.5,,True,,
+927,Manawatu-Whanganui,Brown,2014 - 2018,TotalN,False,0.456587542,0.25,0.7,True,True,True
+928,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,143.0,50.0,,True,,
+929,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,0.9955,0.6,1.4,True,True,True
+930,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,6.061719102,2.5,,True,,
+931,Manawatu-Whanganui,Gley,2014 - 2018,TotalN,False,0.623008004,0.25,0.7,True,True,True
+932,Manawatu-Whanganui,Pallic,2014 - 2018,AMN,False,83.0,50.0,,True,,
+933,Manawatu-Whanganui,Pallic,2014 - 2018,Bulk_density,False,1.103333333,0.7,1.4,True,True,True
+934,Manawatu-Whanganui,Pallic,2014 - 2018,TotalC,False,3.738552535,2.0,,True,,
+935,Manawatu-Whanganui,Pallic,2014 - 2018,TotalN,False,0.348673664,0.25,0.7,True,True,True
+936,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,138.0,50.0,,True,,
+937,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,1.137,0.6,1.4,True,True,True
+938,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,5.413329314,2.5,,True,,
+939,Manawatu-Whanganui,Gley,2014 - 2018,TotalN,False,0.493715347,0.25,0.7,True,True,True
+940,Manawatu-Whanganui,Brown,2014 - 2018,AMN,False,36.0,20.0,,True,,
+941,Manawatu-Whanganui,Brown,2014 - 2018,Bulk_density,False,1.085333333,0.6,1.4,True,True,True
+942,Manawatu-Whanganui,Brown,2014 - 2018,TotalC,False,2.55747717,2.5,,True,,
+943,Manawatu-Whanganui,Brown,2014 - 2018,AMN,False,26.0,20.0,,True,,
+944,Manawatu-Whanganui,Brown,2014 - 2018,Bulk_density,False,1.012666667,0.6,1.4,True,True,True
+945,Manawatu-Whanganui,Brown,2014 - 2018,TotalC,False,3.288509001,2.5,,True,,
+946,Manawatu-Whanganui,Pallic,2014 - 2018,AMN,False,87.0,50.0,,True,,
+947,Manawatu-Whanganui,Pallic,2014 - 2018,Bulk_density,False,1.002333333,0.7,1.4,True,True,True
+948,Manawatu-Whanganui,Pallic,2014 - 2018,TotalC,False,3.377878449,2.0,,True,,
+949,Manawatu-Whanganui,Pallic,2014 - 2018,TotalN,False,0.31109253,0.25,0.7,True,True,True
+950,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,161.0049661,50.0,,True,,
+951,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,1.103333333,0.6,1.4,True,True,True
+952,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,5.794060689,2.5,,True,,
+953,Manawatu-Whanganui,Gley,2014 - 2018,TotalN,False,0.597197622,0.25,0.7,True,True,True
+954,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,122.0,50.0,,True,,
+955,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,1.143666667,0.6,1.4,True,True,True
+956,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,3.851892267,2.5,,True,,
+957,Manawatu-Whanganui,Gley,2014 - 2018,TotalN,False,0.411305489,0.25,0.7,True,True,True
+958,Manawatu-Whanganui,Recent,2014 - 2018,AMN,False,67.0,20.0,,True,,
+959,Manawatu-Whanganui,Recent,2014 - 2018,Bulk_density,False,1.226666667,0.7,1.4,True,True,True
+960,Manawatu-Whanganui,Recent,2014 - 2018,TotalC,False,2.956901858,2.0,,True,,
+961,Manawatu-Whanganui,Recent,2014 - 2018,AMN,False,72.0,20.0,,True,,
+962,Manawatu-Whanganui,Recent,2014 - 2018,Bulk_density,False,1.337666667,0.7,1.4,True,True,True
+963,Manawatu-Whanganui,Recent,2014 - 2018,TotalC,False,3.112247515,2.0,,True,,
+964,Manawatu-Whanganui,Brown,2014 - 2018,AMN,False,21.0,20.0,,True,,
+965,Manawatu-Whanganui,Brown,2014 - 2018,Bulk_density,False,1.078333333,0.6,1.4,True,True,True
+966,Manawatu-Whanganui,Brown,2014 - 2018,TotalC,False,3.792606873,2.5,,True,,
+967,Manawatu-Whanganui,Recent,2014 - 2018,AMN,False,123.9265505,50.0,,True,,
+968,Manawatu-Whanganui,Recent,2014 - 2018,Bulk_density,False,0.91,0.7,1.4,True,True,True
+969,Manawatu-Whanganui,Recent,2014 - 2018,TotalC,False,4.913310271,2.0,,True,,
+970,Manawatu-Whanganui,Recent,2014 - 2018,TotalN,False,0.438499624,0.25,0.7,True,True,True
+971,Manawatu-Whanganui,Recent,2014 - 2018,AMN,False,91.57510326,50.0,,True,,
+972,Manawatu-Whanganui,Recent,2014 - 2018,Bulk_density,False,1.339666667,0.7,1.4,True,True,True
+973,Manawatu-Whanganui,Recent,2014 - 2018,TotalC,False,2.738315523,2.0,,True,,
+974,Manawatu-Whanganui,Recent,2014 - 2018,TotalN,False,0.296050608,0.25,0.7,True,True,True
+975,Manawatu-Whanganui,Recent,2014 - 2018,AMN,False,97.6223263,50.0,,True,,
+976,Manawatu-Whanganui,Recent,2014 - 2018,Bulk_density,False,1.073666667,0.7,1.4,True,True,True
+977,Manawatu-Whanganui,Recent,2014 - 2018,TotalC,False,4.596531756,2.0,,True,,
+978,Manawatu-Whanganui,Recent,2014 - 2018,TotalN,False,0.479885759,0.25,0.7,True,True,True
+979,Manawatu-Whanganui,Recent,2014 - 2018,AMN,False,150.2928026,50.0,,True,,
+980,Manawatu-Whanganui,Recent,2014 - 2018,Bulk_density,False,1.126,0.7,1.4,True,True,True
+981,Manawatu-Whanganui,Recent,2014 - 2018,TotalC,False,4.393651018,2.0,,True,,
+982,Manawatu-Whanganui,Recent,2014 - 2018,TotalN,False,0.467320236,0.25,0.7,True,True,True
+983,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,110.0138827,50.0,,True,,
+984,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,1.113333333,0.6,1.4,True,True,True
+985,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,3.847552205,2.5,,True,,
+986,Manawatu-Whanganui,Gley,2014 - 2018,TotalN,False,0.337830616,0.25,0.7,True,True,True
+987,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,103.8995875,50.0,,True,,
+988,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,1.123333333,0.6,1.4,True,True,True
+989,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,4.434103732,2.5,,True,,
+990,Manawatu-Whanganui,Gley,2014 - 2018,TotalN,False,0.445854084,0.25,0.7,True,True,True
+991,Manawatu-Whanganui,Recent,2014 - 2018,AMN,False,81.34998046,50.0,,True,,
+992,Manawatu-Whanganui,Recent,2014 - 2018,Bulk_density,False,1.557,0.7,1.4,True,False,False
+993,Manawatu-Whanganui,Recent,2014 - 2018,TotalC,False,1.734614903,2.0,,False,,False
+994,Manawatu-Whanganui,Recent,2014 - 2018,TotalN,False,0.187678315,0.25,0.7,False,True,False
+995,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,186.565635,20.0,,True,,
+996,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,1.092333333,0.6,1.4,True,True,True
+997,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,4.481576856,2.5,,True,,
+998,Manawatu-Whanganui,Recent,2014 - 2018,AMN,False,120.9817508,50.0,,True,,
+999,Manawatu-Whanganui,Recent,2014 - 2018,Bulk_density,False,1.363,0.7,1.4,True,True,True
+1000,Manawatu-Whanganui,Recent,2014 - 2018,TotalC,False,3.813978581,2.0,,True,,
+1001,Manawatu-Whanganui,Recent,2014 - 2018,TotalN,False,0.389303641,0.25,0.7,True,True,True
+1002,Manawatu-Whanganui,Pallic,2014 - 2018,AMN,False,33.0,20.0,,True,,
+1003,Manawatu-Whanganui,Pallic,2014 - 2018,Bulk_density,False,1.36,0.7,1.4,True,True,True
+1004,Manawatu-Whanganui,Pallic,2014 - 2018,TotalC,False,2.75,2.0,,True,,
+1005,Manawatu-Whanganui,Pallic,2014 - 2018,AMN,False,73.0,20.0,,True,,
+1006,Manawatu-Whanganui,Pallic,2014 - 2018,Bulk_density,False,1.19,0.7,1.4,True,True,True
+1007,Manawatu-Whanganui,Pallic,2014 - 2018,TotalC,False,3.36,2.0,,True,,
+1008,Manawatu-Whanganui,Pallic,2014 - 2018,AMN,False,103.0,50.0,,True,,
+1009,Manawatu-Whanganui,Pallic,2014 - 2018,Bulk_density,False,0.95,0.7,1.4,True,True,True
+1010,Manawatu-Whanganui,Pallic,2014 - 2018,TotalC,False,4.22,2.0,,True,,
+1011,Manawatu-Whanganui,Pallic,2014 - 2018,TotalN,False,0.36,0.25,0.7,True,True,True
+1012,Manawatu-Whanganui,Pallic,2014 - 2018,AMN,False,130.0,50.0,,True,,
+1013,Manawatu-Whanganui,Pallic,2014 - 2018,Bulk_density,False,0.91,0.7,1.4,True,True,True
+1014,Manawatu-Whanganui,Pallic,2014 - 2018,TotalC,False,4.88,2.0,,True,,
+1015,Manawatu-Whanganui,Pallic,2014 - 2018,TotalN,False,0.45,0.25,0.7,True,True,True
+1016,Manawatu-Whanganui,Allophanic,2014 - 2018,AMN,False,144.0,50.0,,True,,
+1017,Manawatu-Whanganui,Allophanic,2014 - 2018,Bulk_density,False,0.86,0.5,1.3,True,True,True
+1018,Manawatu-Whanganui,Allophanic,2014 - 2018,TotalC,False,8.96,3.0,,True,,
+1019,Manawatu-Whanganui,Allophanic,2014 - 2018,TotalN,False,0.89,0.25,0.7,True,False,False
+1020,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,16.0,50.0,,False,,False
+1021,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,1.37,0.6,1.4,True,True,True
+1022,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,1.26,2.5,,False,,False
+1023,Manawatu-Whanganui,Gley,2014 - 2018,TotalN,False,0.13,0.25,0.7,False,True,False
+1024,Manawatu-Whanganui,Pallic,2014 - 2018,AMN,False,121.9644172,50.0,,True,,
+1025,Manawatu-Whanganui,Pallic,2014 - 2018,Bulk_density,False,1.25,0.7,1.4,True,True,True
+1026,Manawatu-Whanganui,Pallic,2014 - 2018,TotalC,False,3.967102027,2.0,,True,,
+1027,Manawatu-Whanganui,Pallic,2014 - 2018,TotalN,False,0.40681195,0.25,0.7,True,True,True
+1028,Manawatu-Whanganui,Brown,2014 - 2018,AMN,False,110.0,50.0,,True,,
+1029,Manawatu-Whanganui,Brown,2014 - 2018,Bulk_density,False,0.98,0.6,1.4,True,True,True
+1030,Manawatu-Whanganui,Brown,2014 - 2018,TotalC,False,4.31,2.5,,True,,
+1031,Manawatu-Whanganui,Brown,2014 - 2018,TotalN,False,0.43,0.25,0.7,True,True,True
+1032,Manawatu-Whanganui,Brown,2014 - 2018,AMN,False,76.0,20.0,,True,,
+1033,Manawatu-Whanganui,Brown,2014 - 2018,Bulk_density,False,1.06,0.6,1.4,True,True,True
+1034,Manawatu-Whanganui,Brown,2014 - 2018,TotalC,False,3.1,2.5,,True,,
+1035,Manawatu-Whanganui,Brown,2014 - 2018,AMN,False,46.0,20.0,,True,,
+1036,Manawatu-Whanganui,Brown,2014 - 2018,Bulk_density,False,1.17,0.6,1.4,True,True,True
+1037,Manawatu-Whanganui,Brown,2014 - 2018,TotalC,False,4.43,2.5,,True,,
+1038,Manawatu-Whanganui,Brown,2014 - 2018,AMN,False,53.0,20.0,,True,,
+1039,Manawatu-Whanganui,Brown,2014 - 2018,Bulk_density,False,1.05,0.6,1.4,True,True,True
+1040,Manawatu-Whanganui,Brown,2014 - 2018,TotalC,False,3.96,2.5,,True,,
+1041,Manawatu-Whanganui,Recent,2014 - 2018,AMN,False,82.0,50.0,,True,,
+1042,Manawatu-Whanganui,Recent,2014 - 2018,Bulk_density,False,1.13,0.7,1.4,True,True,True
+1043,Manawatu-Whanganui,Recent,2014 - 2018,TotalC,False,3.12,2.0,,True,,
+1044,Manawatu-Whanganui,Recent,2014 - 2018,TotalN,False,0.29,0.25,0.7,True,True,True
+1045,Manawatu-Whanganui,Brown,2014 - 2018,AMN,False,187.0,50.0,,True,,
+1046,Manawatu-Whanganui,Brown,2014 - 2018,Bulk_density,False,0.78,0.6,1.4,True,True,True
+1047,Manawatu-Whanganui,Brown,2014 - 2018,TotalC,False,9.0,2.5,,True,,
+1048,Manawatu-Whanganui,Brown,2014 - 2018,TotalN,False,0.84,0.25,0.7,True,False,False
+1049,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,164.0,20.0,,True,,
+1050,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,0.82,0.6,1.4,True,True,True
+1051,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,5.95,2.5,,True,,
+1052,Manawatu-Whanganui,Gley,2014 - 2018,TotalN,False,0.46,0.1,0.7,True,True,True
+1053,Manawatu-Whanganui,Brown,2014 - 2018,AMN,False,60.0,20.0,,True,,
+1054,Manawatu-Whanganui,Brown,2014 - 2018,Bulk_density,False,1.24,0.6,1.4,True,True,True
+1055,Manawatu-Whanganui,Brown,2014 - 2018,TotalC,False,3.4,2.5,,True,,
+1056,Manawatu-Whanganui,Brown,2014 - 2018,TotalN,False,0.28,0.1,0.7,True,True,True
+1057,Manawatu-Whanganui,Brown,2014 - 2018,AMN,False,141.0,50.0,,True,,
+1058,Manawatu-Whanganui,Brown,2014 - 2018,Bulk_density,False,1.08,0.6,1.4,True,True,True
+1059,Manawatu-Whanganui,Brown,2014 - 2018,TotalC,False,4.54,2.5,,True,,
+1060,Manawatu-Whanganui,Brown,2014 - 2018,TotalN,False,0.45,0.25,0.7,True,True,True
+1061,Manawatu-Whanganui,Brown,2014 - 2018,AMN,False,91.0,50.0,,True,,
+1062,Manawatu-Whanganui,Brown,2014 - 2018,Bulk_density,False,1.15,0.6,1.4,True,True,True
+1063,Manawatu-Whanganui,Brown,2014 - 2018,TotalC,False,4.22,2.5,,True,,
+1064,Manawatu-Whanganui,Brown,2014 - 2018,TotalN,False,0.36,0.25,0.7,True,True,True
+1065,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,93.43117883,50.0,,True,,
+1066,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,1.26,0.6,1.4,True,True,True
+1067,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,3.569925552,2.5,,True,,
+1068,Manawatu-Whanganui,Gley,2014 - 2018,TotalN,False,0.366231057,0.25,0.7,True,True,True
+1069,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,86.0,50.0,,True,,
+1070,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,1.1,0.6,1.4,True,True,True
+1071,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,4.01,2.5,,True,,
+1072,Manawatu-Whanganui,Gley,2014 - 2018,TotalN,False,0.36,0.25,0.7,True,True,True
+1073,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,108.0,50.0,,True,,
+1074,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,1.0,0.6,1.4,True,True,True
+1075,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,4.11,2.5,,True,,
+1076,Manawatu-Whanganui,Gley,2014 - 2018,TotalN,False,0.4,0.25,0.7,True,True,True
+1077,Manawatu-Whanganui,Allophanic,2014 - 2018,AMN,False,129.0,50.0,,True,,
+1078,Manawatu-Whanganui,Allophanic,2014 - 2018,Bulk_density,False,0.7,0.5,1.3,True,True,True
+1079,Manawatu-Whanganui,Allophanic,2014 - 2018,TotalC,False,14.1,3.0,,True,,
+1080,Manawatu-Whanganui,Allophanic,2014 - 2018,TotalN,False,0.99,0.25,0.7,True,False,False
+1081,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,103.0,50.0,,True,,
+1082,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,1.0,0.6,1.4,True,True,True
+1083,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,10.2,2.5,,True,,
+1084,Manawatu-Whanganui,Gley,2014 - 2018,TotalN,False,0.83,0.25,0.7,True,False,False
+1085,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,143.0,50.0,,True,,
+1086,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,0.9,0.6,1.4,True,True,True
+1087,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,9.35,2.5,,True,,
+1088,Manawatu-Whanganui,Gley,2014 - 2018,TotalN,False,0.71,0.25,0.7,True,False,False
+1089,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,107.0,20.0,,True,,
+1090,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,0.9,0.6,1.4,True,True,True
+1091,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,9.85,2.5,,True,,
+1092,Manawatu-Whanganui,Pallic,2014 - 2018,AMN,False,103.2074223,50.0,,True,,
+1093,Manawatu-Whanganui,Pallic,2014 - 2018,Bulk_density,False,1.17,0.7,1.4,True,True,True
+1094,Manawatu-Whanganui,Pallic,2014 - 2018,TotalC,False,3.763932908,2.0,,True,,
+1095,Manawatu-Whanganui,Pallic,2014 - 2018,TotalN,False,0.364803035,0.25,0.7,True,True,True
+1096,Manawatu-Whanganui,Gley,2014 - 2018,AMN,False,134.5911849,50.0,,True,,
+1097,Manawatu-Whanganui,Gley,2014 - 2018,Bulk_density,False,1.14,0.6,1.4,True,True,True
+1098,Manawatu-Whanganui,Gley,2014 - 2018,TotalC,False,4.000328808,2.5,,True,,
+1099,Manawatu-Whanganui,Gley,2014 - 2018,TotalN,False,0.426392589,0.25,0.7,True,True,True
+1100,Manawatu-Whanganui,Brown,2014 - 2018,AMN,False,161.8617823,50.0,,True,,
+1101,Manawatu-Whanganui,Brown,2014 - 2018,Bulk_density,False,1.003333333,0.6,1.4,True,True,True
+1102,Manawatu-Whanganui,Brown,2014 - 2018,TotalC,False,7.044410714,2.5,,True,,
+1103,Manawatu-Whanganui,Brown,2014 - 2018,TotalN,False,0.706926786,0.25,0.7,True,False,False
+1104,Marlborough,Recent,2014 - 2018,AMN,False,83.83333333333333,20.0,,True,,
+1105,Marlborough,Recent,2014 - 2018,Bulk_density,False,1.3076111113333333,0.7,1.4,True,True,True
+1106,Marlborough,Recent,2014 - 2018,TotalC,False,3.0166666666666666,2.0,,True,,
+1107,Marlborough,Recent,2014 - 2018,AMN,False,64.33333333333333,20.0,,True,,
+1108,Marlborough,Recent,2014 - 2018,Bulk_density,False,1.4945555556666663,0.7,1.4,True,False,False
+1109,Marlborough,Recent,2014 - 2018,TotalC,False,2.2333333333333334,2.0,,True,,
+1110,Marlborough,Recent,2014 - 2018,AMN,False,93.0,50.0,,True,,
+1111,Marlborough,Recent,2014 - 2018,Bulk_density,False,1.15,0.7,1.4,True,True,True
+1112,Marlborough,Recent,2014 - 2018,TotalC,False,4.0,2.0,,True,,
+1113,Marlborough,Recent,2014 - 2018,TotalN,False,0.37,0.25,0.7,True,True,True
+1114,Marlborough,Pallic,2014 - 2018,AMN,False,38.66666666666666,20.0,,True,,
+1115,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.4084444443333333,0.7,1.4,True,False,False
+1116,Marlborough,Pallic,2014 - 2018,TotalC,False,2.2666666666666666,2.0,,True,,
+1117,Marlborough,Recent,2014 - 2018,AMN,False,52.0,20.0,,True,,
+1118,Marlborough,Recent,2014 - 2018,Bulk_density,False,1.527,0.7,1.4,True,False,False
+1119,Marlborough,Recent,2014 - 2018,TotalC,False,2.4,2.0,,True,,
+1120,Marlborough,Recent,2014 - 2018,AMN,False,63.0,50.0,,True,,
+1121,Marlborough,Recent,2014 - 2018,Bulk_density,False,1.325,0.7,1.4,True,True,True
+1122,Marlborough,Recent,2014 - 2018,TotalC,False,3.2,2.0,,True,,
+1123,Marlborough,Recent,2014 - 2018,TotalN,False,0.34,0.25,0.7,True,True,True
+1124,Marlborough,Pallic,2014 - 2018,AMN,False,52.66666666666666,20.0,,True,,
+1125,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.3722222223333334,0.7,1.4,True,True,True
+1126,Marlborough,Pallic,2014 - 2018,TotalC,False,3.0,2.0,,True,,
+1127,Marlborough,Gley,2014 - 2018,AMN,False,43.66666666666666,20.0,,True,,
+1128,Marlborough,Gley,2014 - 2018,Bulk_density,False,1.3907777776666668,0.6,1.4,True,True,True
+1129,Marlborough,Gley,2014 - 2018,TotalC,False,3.4,2.5,,True,,
+1130,Marlborough,Gley,2014 - 2018,AMN,False,66.33333333333333,20.0,,True,,
+1131,Marlborough,Gley,2014 - 2018,Bulk_density,False,1.2035555556666666,0.6,1.4,True,True,True
+1132,Marlborough,Gley,2014 - 2018,TotalC,False,3.433333333333333,2.5,,True,,
+1133,Marlborough,Pallic,2014 - 2018,AMN,False,93.0,50.0,,True,,
+1134,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.285666667,0.7,1.4,True,True,True
+1135,Marlborough,Pallic,2014 - 2018,TotalC,False,3.6,2.0,,True,,
+1136,Marlborough,Pallic,2014 - 2018,TotalN,False,0.34,0.25,0.7,True,True,True
+1137,Marlborough,Recent,2014 - 2018,AMN,False,45.0,50.0,,False,,False
+1138,Marlborough,Recent,2014 - 2018,Bulk_density,False,1.02,0.7,1.4,True,True,True
+1139,Marlborough,Recent,2014 - 2018,TotalC,False,5.4,2.0,,True,,
+1140,Marlborough,Recent,2014 - 2018,TotalN,False,0.49,0.25,0.7,True,True,True
+1141,Marlborough,Recent,2014 - 2018,AMN,False,45.0,50.0,,False,,False
+1142,Marlborough,Recent,2014 - 2018,Bulk_density,False,1.08,0.7,1.4,True,True,True
+1143,Marlborough,Recent,2014 - 2018,TotalC,False,5.3,2.0,,True,,
+1144,Marlborough,Recent,2014 - 2018,TotalN,False,0.5,0.25,0.7,True,True,True
+1145,Marlborough,Brown,2014 - 2018,AMN,False,73.0,20.0,,True,,
+1146,Marlborough,Brown,2014 - 2018,Bulk_density,False,1.09,0.6,1.4,True,True,True
+1147,Marlborough,Brown,2014 - 2018,TotalC,False,4.4,2.5,,True,,
+1148,Marlborough,Brown,2014 - 2018,TotalN,False,0.2,0.1,0.7,True,True,True
+1149,Marlborough,Brown,2014 - 2018,AMN,False,54.0,20.0,,True,,
+1150,Marlborough,Brown,2014 - 2018,Bulk_density,False,1.191333333,0.6,1.4,True,True,True
+1151,Marlborough,Brown,2014 - 2018,TotalC,False,4.5,2.5,,True,,
+1152,Marlborough,Brown,2014 - 2018,TotalN,False,0.2,0.1,0.7,True,True,True
+1153,Marlborough,Brown,2014 - 2018,AMN,False,158.0,50.0,,True,,
+1154,Marlborough,Brown,2014 - 2018,Bulk_density,False,0.966,0.6,1.4,True,True,True
+1155,Marlborough,Brown,2014 - 2018,TotalC,False,5.1,2.5,,True,,
+1156,Marlborough,Brown,2014 - 2018,TotalN,False,0.37,0.25,0.7,True,True,True
+1157,Marlborough,Recent,2014 - 2018,AMN,False,85.0,50.0,,True,,
+1158,Marlborough,Recent,2014 - 2018,Bulk_density,False,1.047,0.7,1.4,True,True,True
+1159,Marlborough,Recent,2014 - 2018,TotalC,False,3.8,2.0,,True,,
+1160,Marlborough,Recent,2014 - 2018,TotalN,False,0.41,0.25,0.7,True,True,True
+1161,Marlborough,Pallic,2014 - 2018,AMN,False,57.0,20.0,,True,,
+1162,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.285,0.7,1.4,True,True,True
+1163,Marlborough,Pallic,2014 - 2018,TotalC,False,3.7,2.0,,True,,
+1164,Marlborough,Gley,2014 - 2018,AMN,False,79.33333333333333,20.0,,True,,
+1165,Marlborough,Gley,2014 - 2018,Bulk_density,False,1.226,0.6,1.4,True,True,True
+1166,Marlborough,Gley,2014 - 2018,TotalC,False,3.0,2.5,,True,,
+1167,Marlborough,Gley,2014 - 2018,AMN,False,100.0,20.0,,True,,
+1168,Marlborough,Gley,2014 - 2018,Bulk_density,False,1.0996666666666666,0.6,1.4,True,True,True
+1169,Marlborough,Gley,2014 - 2018,TotalC,False,3.6,2.5,,True,,
+1170,Marlborough,Brown,2014 - 2018,AMN,False,172.0,50.0,,True,,
+1171,Marlborough,Brown,2014 - 2018,Bulk_density,False,1.171,0.6,1.4,True,True,True
+1172,Marlborough,Brown,2014 - 2018,TotalC,False,4.6,2.5,,True,,
+1173,Marlborough,Brown,2014 - 2018,TotalN,False,0.42,0.25,0.7,True,True,True
+1174,Marlborough,Recent,2014 - 2018,AMN,False,223.0,50.0,,True,,
+1175,Marlborough,Recent,2014 - 2018,Bulk_density,False,0.984666667,0.7,1.4,True,True,True
+1176,Marlborough,Recent,2014 - 2018,TotalC,False,6.5,2.0,,True,,
+1177,Marlborough,Recent,2014 - 2018,TotalN,False,0.58,0.25,0.7,True,True,True
+1178,Marlborough,Pallic,2014 - 2018,AMN,False,117.33333333333331,50.0,,True,,
+1179,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.1,0.7,1.4,True,True,True
+1180,Marlborough,Pallic,2014 - 2018,TotalC,False,4.766666666666667,2.0,,True,,
+1181,Marlborough,Pallic,2014 - 2018,TotalN,False,0.4433333333333333,0.25,0.7,True,True,True
+1182,Marlborough,Pallic,2014 - 2018,AMN,False,108.0,20.0,,True,,
+1183,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.3666666666666667,0.7,1.4,True,True,True
+1184,Marlborough,Pallic,2014 - 2018,TotalC,False,2.7,2.0,,True,,
+1185,Marlborough,Pallic,2014 - 2018,AMN,False,74.0,50.0,,True,,
+1186,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.4,0.7,1.4,True,True,True
+1187,Marlborough,Pallic,2014 - 2018,TotalC,False,2.3,2.0,,True,,
+1188,Marlborough,Pallic,2014 - 2018,TotalN,False,0.23,0.25,0.7,False,True,False
+1189,Marlborough,Pallic,2014 - 2018,AMN,False,127.0,50.0,,True,,
+1190,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.1,0.7,1.4,True,True,True
+1191,Marlborough,Pallic,2014 - 2018,TotalC,False,3.5,2.0,,True,,
+1192,Marlborough,Pallic,2014 - 2018,TotalN,False,0.31,0.25,0.7,True,True,True
+1193,Marlborough,Brown,2014 - 2018,AMN,False,104.0,20.0,,True,,
+1194,Marlborough,Brown,2014 - 2018,Bulk_density,False,0.8,0.6,1.4,True,True,True
+1195,Marlborough,Brown,2014 - 2018,TotalC,False,7.1,2.5,,True,,
+1196,Marlborough,Brown,2014 - 2018,TotalN,False,0.45,0.1,0.7,True,True,True
+1197,Marlborough,Brown,2014 - 2018,AMN,False,179.0,50.0,,True,,
+1198,Marlborough,Brown,2014 - 2018,Bulk_density,False,0.8,0.6,1.4,True,True,True
+1199,Marlborough,Brown,2014 - 2018,TotalC,False,8.4,2.5,,True,,
+1200,Marlborough,Brown,2014 - 2018,TotalN,False,0.72,0.25,0.7,True,False,False
+1201,Marlborough,Brown,2014 - 2018,AMN,False,107.0,50.0,,True,,
+1202,Marlborough,Brown,2014 - 2018,Bulk_density,False,1.1,0.6,1.4,True,True,True
+1203,Marlborough,Brown,2014 - 2018,TotalC,False,2.8,2.5,,True,,
+1204,Marlborough,Brown,2014 - 2018,TotalN,False,0.25,0.25,0.7,True,True,True
+1205,Marlborough,Brown,2014 - 2018,AMN,False,79.5,50.0,,True,,
+1206,Marlborough,Brown,2014 - 2018,Bulk_density,False,1.144666667,0.6,1.4,True,True,True
+1207,Marlborough,Brown,2014 - 2018,TotalC,False,3.3,2.5,,True,,
+1208,Marlborough,Brown,2014 - 2018,TotalN,False,0.265,0.25,0.7,True,True,True
+1209,Marlborough,Brown,2014 - 2018,AMN,False,74.0,20.0,,True,,
+1210,Marlborough,Brown,2014 - 2018,Bulk_density,False,1.148166667,0.6,1.4,True,True,True
+1211,Marlborough,Brown,2014 - 2018,TotalC,False,3.45,2.5,,True,,
+1212,Marlborough,Brown,2014 - 2018,TotalN,False,0.225,0.1,0.7,True,True,True
+1213,Marlborough,Pallic,2014 - 2018,AMN,False,122.0,50.0,,True,,
+1214,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.1,0.7,1.4,True,True,True
+1215,Marlborough,Pallic,2014 - 2018,TotalC,False,4.1,2.0,,True,,
+1216,Marlborough,Pallic,2014 - 2018,TotalN,False,0.37,0.25,0.7,True,True,True
+1217,Marlborough,Pallic,2014 - 2018,AMN,False,65.0,20.0,,True,,
+1218,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.2,0.7,1.4,True,True,True
+1219,Marlborough,Pallic,2014 - 2018,TotalC,False,2.6,2.0,,True,,
+1220,Marlborough,Pallic,2014 - 2018,TotalN,False,0.16,0.1,0.7,True,True,True
+1221,Marlborough,Pallic,2014 - 2018,AMN,False,120.0,50.0,,True,,
+1222,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.25,0.7,1.4,True,True,True
+1223,Marlborough,Pallic,2014 - 2018,TotalC,False,3.5,2.0,,True,,
+1224,Marlborough,Pallic,2014 - 2018,TotalN,False,0.39,0.25,0.7,True,True,True
+1225,Marlborough,Pallic,2014 - 2018,AMN,False,130.0,50.0,,True,,
+1226,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.1,0.7,1.4,True,True,True
+1227,Marlborough,Pallic,2014 - 2018,TotalC,False,4.2,2.0,,True,,
+1228,Marlborough,Pallic,2014 - 2018,TotalN,False,0.52,0.25,0.7,True,True,True
+1229,Marlborough,Pallic,2014 - 2018,AMN,False,133.0,50.0,,True,,
+1230,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.07,0.7,1.4,True,True,True
+1231,Marlborough,Pallic,2014 - 2018,TotalC,False,4.1,2.0,,True,,
+1232,Marlborough,Pallic,2014 - 2018,TotalN,False,0.33,0.25,0.7,True,True,True
+1233,Marlborough,Pallic,2014 - 2018,AMN,False,83.0,20.0,,True,,
+1234,Marlborough,Pallic,2014 - 2018,Bulk_density,False,0.96,0.7,1.4,True,True,True
+1235,Marlborough,Pallic,2014 - 2018,TotalC,False,3.6,2.0,,True,,
+1236,Marlborough,Pallic,2014 - 2018,TotalN,False,0.27,0.1,0.7,True,True,True
+1237,Marlborough,Pallic,2014 - 2018,AMN,False,145.0,50.0,,True,,
+1238,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.2,0.7,1.4,True,True,True
+1239,Marlborough,Pallic,2014 - 2018,TotalC,False,4.1,2.0,,True,,
+1240,Marlborough,Pallic,2014 - 2018,TotalN,False,0.37,0.25,0.7,True,True,True
+1241,Marlborough,Pallic,2014 - 2018,AMN,False,44.0,20.0,,True,,
+1242,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.47,0.7,1.4,True,False,False
+1243,Marlborough,Pallic,2014 - 2018,TotalC,False,1.9,2.0,,False,,False
+1244,Marlborough,Recent,2014 - 2018,AMN,False,33.0,20.0,,True,,
+1245,Marlborough,Recent,2014 - 2018,Bulk_density,False,1.42,0.7,1.4,True,False,False
+1246,Marlborough,Recent,2014 - 2018,TotalC,False,1.4,2.0,,False,,False
+1247,Marlborough,Pallic,2014 - 2018,AMN,False,39.0,20.0,,True,,
+1248,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.48,0.7,1.4,True,False,False
+1249,Marlborough,Pallic,2014 - 2018,TotalC,False,1.9,2.0,,False,,False
+1250,Marlborough,Pallic,2014 - 2018,AMN,False,49.0,20.0,,True,,
+1251,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.49,0.7,1.4,True,False,False
+1252,Marlborough,Pallic,2014 - 2018,TotalC,False,2.6,2.0,,True,,
+1253,Marlborough,Pallic,2014 - 2018,AMN,False,88.0,50.0,,True,,
+1254,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.1566666666666667,0.7,1.4,True,True,True
+1255,Marlborough,Pallic,2014 - 2018,TotalC,False,3.733333333333333,2.0,,True,,
+1256,Marlborough,Pallic,2014 - 2018,TotalN,False,0.3466666666666667,0.25,0.7,True,True,True
+1257,Marlborough,Brown,2014 - 2018,AMN,False,109.33333333333331,50.0,,True,,
+1258,Marlborough,Brown,2014 - 2018,Bulk_density,False,1.2033333333333334,0.6,1.4,True,True,True
+1259,Marlborough,Brown,2014 - 2018,TotalC,False,3.566666666666667,2.5,,True,,
+1260,Marlborough,Brown,2014 - 2018,TotalN,False,0.3233333333333333,0.25,0.7,True,True,True
+1261,Marlborough,Pallic,2014 - 2018,AMN,False,118.33333333333331,50.0,,True,,
+1262,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.2433333333333334,0.7,1.4,True,True,True
+1263,Marlborough,Pallic,2014 - 2018,TotalC,False,3.566666666666667,2.0,,True,,
+1264,Marlborough,Pallic,2014 - 2018,TotalN,False,0.36,0.25,0.7,True,True,True
+1265,Marlborough,Recent,2014 - 2018,AMN,False,108.33333333333331,50.0,,True,,
+1266,Marlborough,Recent,2014 - 2018,Bulk_density,False,1.3,0.7,1.4,True,True,True
+1267,Marlborough,Recent,2014 - 2018,TotalC,False,3.3,2.0,,True,,
+1268,Marlborough,Recent,2014 - 2018,TotalN,False,0.3433333333333333,0.25,0.7,True,True,True
+1269,Marlborough,Brown,2014 - 2018,AMN,False,84.0,50.0,,True,,
+1270,Marlborough,Brown,2014 - 2018,Bulk_density,False,1.39,0.6,1.4,True,True,True
+1271,Marlborough,Brown,2014 - 2018,TotalC,False,2.8,2.5,,True,,
+1272,Marlborough,Brown,2014 - 2018,TotalN,False,0.31,0.25,0.7,True,True,True
+1273,Marlborough,Pallic,2014 - 2018,AMN,False,88.0,50.0,,True,,
+1274,Marlborough,Pallic,2014 - 2018,Bulk_density,False,1.31,0.7,1.4,True,True,True
+1275,Marlborough,Pallic,2014 - 2018,TotalC,False,3.1,2.0,,True,,
+1276,Marlborough,Pallic,2014 - 2018,TotalN,False,0.32,0.25,0.7,True,True,True
+1277,Marlborough,Brown,2014 - 2018,AMN,False,149.0,50.0,,True,,
+1278,Marlborough,Brown,2014 - 2018,Bulk_density,False,1.22,0.6,1.4,True,True,True
+1279,Marlborough,Brown,2014 - 2018,TotalC,False,4.9,2.5,,True,,
+1280,Marlborough,Brown,2014 - 2018,TotalN,False,0.37,0.25,0.7,True,True,True
+1281,Marlborough,Brown,2014 - 2018,AMN,False,242.0,50.0,,True,,
+1282,Marlborough,Brown,2014 - 2018,Bulk_density,False,0.83,0.6,1.4,True,True,True
+1283,Marlborough,Brown,2014 - 2018,TotalC,False,7.3,2.5,,True,,
+1284,Marlborough,Brown,2014 - 2018,TotalN,False,0.69,0.25,0.7,True,True,True
+1285,Marlborough,Recent,2014 - 2018,AMN,False,183.0,50.0,,True,,
+1286,Marlborough,Recent,2014 - 2018,Bulk_density,False,1.03,0.7,1.4,True,True,True
+1287,Marlborough,Recent,2014 - 2018,TotalC,False,5.9,2.0,,True,,
+1288,Marlborough,Recent,2014 - 2018,TotalN,False,0.56,0.25,0.7,True,True,True
+1289,Marlborough,Brown,2014 - 2018,AMN,False,217.0,50.0,,True,,
+1290,Marlborough,Brown,2014 - 2018,Bulk_density,False,0.9,0.6,1.4,True,True,True
+1291,Marlborough,Brown,2014 - 2018,TotalC,False,8.3,2.5,,True,,
+1292,Marlborough,Brown,2014 - 2018,TotalN,False,0.69,0.25,0.7,True,True,True
+1293,Marlborough,Brown,2014 - 2018,AMN,False,162.0,50.0,,True,,
+1294,Marlborough,Brown,2014 - 2018,Bulk_density,False,1.01,0.6,1.4,True,True,True
+1295,Marlborough,Brown,2014 - 2018,TotalC,False,6.5,2.5,,True,,
+1296,Marlborough,Brown,2014 - 2018,TotalN,False,0.56,0.25,0.7,True,True,True
+1297,Marlborough,Brown,2014 - 2018,AMN,False,129.0,50.0,,True,,
+1298,Marlborough,Brown,2014 - 2018,Bulk_density,False,1.23,0.6,1.4,True,True,True
+1299,Marlborough,Brown,2014 - 2018,TotalC,False,4.1,2.5,,True,,
+1300,Marlborough,Brown,2014 - 2018,TotalN,False,0.37,0.25,0.7,True,True,True
+1301,Marlborough,Brown,2014 - 2018,AMN,False,151.0,50.0,,True,,
+1302,Marlborough,Brown,2014 - 2018,Bulk_density,False,1.1,0.6,1.4,True,True,True
+1303,Marlborough,Brown,2014 - 2018,TotalC,False,4.4,2.5,,True,,
+1304,Marlborough,Brown,2014 - 2018,TotalN,False,0.41,0.25,0.7,True,True,True
+1305,Marlborough,Brown,2014 - 2018,AMN,False,227.0,50.0,,True,,
+1306,Marlborough,Brown,2014 - 2018,Bulk_density,False,1.16,0.6,1.4,True,True,True
+1307,Marlborough,Brown,2014 - 2018,TotalC,False,5.4,2.5,,True,,
+1308,Marlborough,Brown,2014 - 2018,TotalN,False,0.4,0.25,0.7,True,True,True
+1309,Marlborough,Brown,2014 - 2018,AMN,False,299.0,50.0,,True,,
+1310,Marlborough,Brown,2014 - 2018,Bulk_density,False,0.93,0.6,1.4,True,True,True
+1311,Marlborough,Brown,2014 - 2018,TotalC,False,6.8,2.5,,True,,
+1312,Marlborough,Brown,2014 - 2018,TotalN,False,0.69,0.25,0.7,True,True,True
+1313,Marlborough,Brown,2014 - 2018,AMN,False,265.0,50.0,,True,,
+1314,Marlborough,Brown,2014 - 2018,Bulk_density,False,0.97,0.6,1.4,True,True,True
+1315,Marlborough,Brown,2014 - 2018,TotalC,False,6.0,2.5,,True,,
+1316,Marlborough,Brown,2014 - 2018,TotalN,False,0.53,0.25,0.7,True,True,True
+1317,Marlborough,Recent,2014 - 2018,AMN,False,165.0,50.0,,True,,
+1318,Marlborough,Recent,2014 - 2018,Bulk_density,False,1.16,0.7,1.4,True,True,True
+1319,Marlborough,Recent,2014 - 2018,TotalC,False,4.2,2.0,,True,,
+1320,Marlborough,Recent,2014 - 2018,TotalN,False,0.3,0.25,0.7,True,True,True
+1321,Marlborough,Brown,2014 - 2018,AMN,False,164.0,50.0,,True,,
+1322,Marlborough,Brown,2014 - 2018,Bulk_density,False,0.97,0.6,1.4,True,True,True
+1323,Marlborough,Brown,2014 - 2018,TotalC,False,5.5,2.5,,True,,
+1324,Marlborough,Brown,2014 - 2018,TotalN,False,0.53,0.25,0.7,True,True,True
+1325,Marlborough,Recent,2014 - 2018,AMN,False,127.0,50.0,,True,,
+1326,Marlborough,Recent,2014 - 2018,Bulk_density,False,1.18,0.7,1.4,True,True,True
+1327,Marlborough,Recent,2014 - 2018,TotalC,False,4.1,2.0,,True,,
+1328,Marlborough,Recent,2014 - 2018,TotalN,False,0.37,0.25,0.7,True,True,True
+1329,Marlborough,Brown,2014 - 2018,AMN,False,164.0,50.0,,True,,
+1330,Marlborough,Brown,2014 - 2018,Bulk_density,False,0.98,0.6,1.4,True,True,True
+1331,Marlborough,Brown,2014 - 2018,TotalC,False,6.2,2.5,,True,,
+1332,Marlborough,Brown,2014 - 2018,TotalN,False,0.59,0.25,0.7,True,True,True
+1333,Marlborough,Recent,2014 - 2018,AMN,False,167.0,50.0,,True,,
+1334,Marlborough,Recent,2014 - 2018,Bulk_density,False,1.19,0.7,1.4,True,True,True
+1335,Marlborough,Recent,2014 - 2018,TotalC,False,3.7,2.0,,True,,
+1336,Marlborough,Recent,2014 - 2018,TotalN,False,0.31,0.25,0.7,True,True,True
+1337,Marlborough,Brown,2014 - 2018,AMN,False,185.0,50.0,,True,,
+1338,Marlborough,Brown,2014 - 2018,Bulk_density,False,1.15,0.6,1.4,True,True,True
+1339,Marlborough,Brown,2014 - 2018,TotalC,False,6.2,2.5,,True,,
+1340,Marlborough,Brown,2014 - 2018,TotalN,False,0.49,0.25,0.7,True,True,True
+1341,Marlborough,Brown,2014 - 2018,AMN,False,196.0,50.0,,True,,
+1342,Marlborough,Brown,2014 - 2018,Bulk_density,False,1.09,0.6,1.4,True,True,True
+1343,Marlborough,Brown,2014 - 2018,TotalC,False,6.1,2.5,,True,,
+1344,Marlborough,Brown,2014 - 2018,TotalN,False,0.56,0.25,0.7,True,True,True
+1345,Southland,Brown,2014 - 2018,AMN,False,126.0,20.0,,True,,
+1346,Southland,Brown,2014 - 2018,Bulk_density,False,0.774840899,0.6,1.4,True,True,True
+1347,Southland,Brown,2014 - 2018,TotalC,False,6.5,2.5,,True,,
+1348,Southland,Brown,2014 - 2018,TotalN,False,0.24,0.1,0.7,True,True,True
+1349,Southland,Brown,2014 - 2018,AMN,False,139.0,50.0,,True,,
+1350,Southland,Brown,2014 - 2018,Bulk_density,False,1.092915336,0.6,1.4,True,True,True
+1351,Southland,Brown,2014 - 2018,TotalC,False,3.6,2.5,,True,,
+1352,Southland,Brown,2014 - 2018,TotalN,False,0.27,0.25,0.7,True,True,True
+1353,Southland,Pallic,2014 - 2018,AMN,False,195.0,50.0,,True,,
+1354,Southland,Pallic,2014 - 2018,Bulk_density,False,1.269279372,0.7,1.4,True,True,True
+1355,Southland,Pallic,2014 - 2018,TotalC,False,3.7,2.0,,True,,
+1356,Southland,Pallic,2014 - 2018,TotalN,False,0.23,0.25,0.7,False,True,False
+1357,Southland,Brown,2014 - 2018,AMN,False,175.0,50.0,,True,,
+1358,Southland,Brown,2014 - 2018,Bulk_density,False,1.0057587,0.6,1.4,True,True,True
+1359,Southland,Brown,2014 - 2018,TotalC,False,5.9,2.5,,True,,
+1360,Southland,Brown,2014 - 2018,TotalN,False,0.49,0.25,0.7,True,True,True
+1361,Southland,Allophanic,2014 - 2018,AMN,False,156.0,50.0,,True,,
+1362,Southland,Allophanic,2014 - 2018,Bulk_density,False,0.810550532,0.5,1.3,True,True,True
+1363,Southland,Allophanic,2014 - 2018,TotalC,False,4.7,3.0,,True,,
+1364,Southland,Allophanic,2014 - 2018,TotalN,False,0.45,0.25,0.7,True,True,True
+1365,Southland,Melanic,2014 - 2018,AMN,False,140.0,50.0,,True,,
+1366,Southland,Melanic,2014 - 2018,Bulk_density,False,0.884865618,0.6,1.4,True,True,True
+1367,Southland,Melanic,2014 - 2018,TotalC,False,6.8,2.5,,True,,
+1368,Southland,Melanic,2014 - 2018,TotalN,False,0.66,0.25,0.7,True,True,True
+1369,Southland,Organic,2014 - 2018,AMN,False,142.0,50.0,,True,,
+1370,Southland,Organic,2014 - 2018,Bulk_density,False,0.653930119,0.2,1.0,True,True,True
+1371,Southland,Organic,2014 - 2018,TotalC,False,14.8,,,,,
+1372,Southland,Organic,2014 - 2018,TotalN,False,0.8,0.25,0.7,True,False,False
+1373,Southland,Brown,2014 - 2018,AMN,False,153.0,50.0,,True,,
+1374,Southland,Brown,2014 - 2018,Bulk_density,False,1.047559453,0.6,1.4,True,True,True
+1375,Southland,Brown,2014 - 2018,TotalC,False,5.4,2.5,,True,,
+1376,Southland,Brown,2014 - 2018,TotalN,False,0.44,0.25,0.7,True,True,True
+1377,Southland,Pallic,2014 - 2018,AMN,False,219.0,50.0,,True,,
+1378,Southland,Pallic,2014 - 2018,Bulk_density,False,0.91888993,0.7,1.4,True,True,True
+1379,Southland,Pallic,2014 - 2018,TotalC,False,6.3,2.0,,True,,
+1380,Southland,Pallic,2014 - 2018,TotalN,False,0.48,0.25,0.7,True,True,True
+1381,Southland,Pallic,2014 - 2018,AMN,False,229.0,50.0,,True,,
+1382,Southland,Pallic,2014 - 2018,Bulk_density,False,1.019641275,0.7,1.4,True,True,True
+1383,Southland,Pallic,2014 - 2018,TotalC,False,4.4,2.0,,True,,
+1384,Southland,Pallic,2014 - 2018,TotalN,False,0.28,0.25,0.7,True,True,True
+1385,Southland,Pallic,2014 - 2018,AMN,False,114.0,50.0,,True,,
+1386,Southland,Pallic,2014 - 2018,Bulk_density,False,1.169803134,0.7,1.4,True,True,True
+1387,Southland,Pallic,2014 - 2018,TotalC,False,3.3,2.0,,True,,
+1388,Southland,Pallic,2014 - 2018,TotalN,False,0.34,0.25,0.7,True,True,True
+1389,Southland,Recent,2014 - 2018,AMN,False,104.0,50.0,,True,,
+1390,Southland,Recent,2014 - 2018,Bulk_density,False,1.119334706,0.7,1.4,True,True,True
+1391,Southland,Recent,2014 - 2018,TotalC,False,3.1,2.0,,True,,
+1392,Southland,Recent,2014 - 2018,TotalN,False,0.34,0.25,0.7,True,True,True
+1393,Southland,Brown,2014 - 2018,AMN,False,185.0,50.0,,True,,
+1394,Southland,Brown,2014 - 2018,Bulk_density,False,0.946543431,0.6,1.4,True,True,True
+1395,Southland,Brown,2014 - 2018,TotalC,False,5.3,2.5,,True,,
+1396,Southland,Brown,2014 - 2018,TotalN,False,0.44,0.25,0.7,True,True,True
+1397,Southland,Brown,2014 - 2018,AMN,False,137.0,50.0,,True,,
+1398,Southland,Brown,2014 - 2018,Bulk_density,False,1.20356817,0.6,1.4,True,True,True
+1399,Southland,Brown,2014 - 2018,TotalC,False,3.3,2.5,,True,,
+1400,Southland,Brown,2014 - 2018,TotalN,False,0.4,0.25,0.7,True,True,True
+1401,Southland,Brown,2014 - 2018,AMN,False,104.0,50.0,,True,,
+1402,Southland,Brown,2014 - 2018,Bulk_density,False,0.926574712,0.6,1.4,True,True,True
+1403,Southland,Brown,2014 - 2018,TotalC,False,7.3,2.5,,True,,
+1404,Southland,Brown,2014 - 2018,TotalN,False,0.62,0.25,0.7,True,True,True
+1405,Southland,Brown,2014 - 2018,AMN,False,146.0,50.0,,True,,
+1406,Southland,Brown,2014 - 2018,Bulk_density,False,1.07,0.6,1.4,True,True,True
+1407,Southland,Brown,2014 - 2018,TotalC,False,4.7,2.5,,True,,
+1408,Southland,Brown,2014 - 2018,TotalN,False,0.42,0.25,0.7,True,True,True
+1409,Taranaki,Allophanic,2014 - 2018,AMN,False,125.0995865,50.0,,True,,
+1410,Taranaki,Allophanic,2014 - 2018,Bulk_density,False,1.023333333,0.5,1.3,True,True,True
+1411,Taranaki,Allophanic,2014 - 2018,TotalC,False,5.785668617,3.0,,True,,
+1412,Taranaki,Allophanic,2014 - 2018,TotalN,False,0.525916787,0.25,0.7,True,True,True
+1413,Taranaki,Allophanic,2014 - 2018,AMN,False,163.6922907,20.0,,True,,
+1414,Taranaki,Allophanic,2014 - 2018,Bulk_density,False,0.573333333,0.5,1.3,True,True,True
+1415,Taranaki,Allophanic,2014 - 2018,TotalC,False,11.59507047,3.0,,True,,
+1416,Taranaki,Allophanic,2014 - 2018,TotalN,False,0.778214233,0.1,0.7,True,False,False
+1417,Taranaki,Allophanic,2014 - 2018,AMN,False,138.6689492,20.0,,True,,
+1418,Taranaki,Allophanic,2014 - 2018,Bulk_density,False,0.506666667,0.5,1.3,True,True,True
+1419,Taranaki,Allophanic,2014 - 2018,TotalC,False,13.98839464,3.0,,True,,
+1420,Taranaki,Allophanic,2014 - 2018,TotalN,False,0.979840738,0.1,0.7,True,False,False
+1421,Taranaki,Recent,2014 - 2018,AMN,False,105.8083192,20.0,,True,,
+1422,Taranaki,Recent,2014 - 2018,Bulk_density,False,0.576666667,0.7,1.4,False,True,False
+1423,Taranaki,Recent,2014 - 2018,TotalC,False,9.062737658,2.0,,True,,
+1424,Taranaki,Recent,2014 - 2018,TotalN,False,0.476044128,0.1,0.7,True,True,True
+1425,Taranaki,Allophanic,2014 - 2018,AMN,False,261.6463151,50.0,,True,,
+1426,Taranaki,Allophanic,2014 - 2018,Bulk_density,False,0.526666667,0.5,1.3,True,True,True
+1427,Taranaki,Allophanic,2014 - 2018,TotalC,False,13.76407647,3.0,,True,,
+1428,Taranaki,Allophanic,2014 - 2018,TotalN,False,1.300309215,0.25,0.7,True,False,False
+1429,Taranaki,Allophanic,2014 - 2018,AMN,False,186.8787523,50.0,,True,,
+1430,Taranaki,Allophanic,2014 - 2018,Bulk_density,False,0.723333333,0.5,1.3,True,True,True
+1431,Taranaki,Allophanic,2014 - 2018,TotalC,False,9.126525601,3.0,,True,,
+1432,Taranaki,Allophanic,2014 - 2018,TotalN,False,0.876517797,0.25,0.7,True,False,False
+1433,Taranaki,Allophanic,2014 - 2018,AMN,False,260.9667303,50.0,,True,,
+1434,Taranaki,Allophanic,2014 - 2018,Bulk_density,False,0.643333333,0.5,1.3,True,True,True
+1435,Taranaki,Allophanic,2014 - 2018,TotalC,False,10.11608309,3.0,,True,,
+1436,Taranaki,Allophanic,2014 - 2018,TotalN,False,0.975334011,0.25,0.7,True,False,False
+1437,Taranaki,Allophanic,2014 - 2018,AMN,False,174.1483445,50.0,,True,,
+1438,Taranaki,Allophanic,2014 - 2018,Bulk_density,False,0.863333333,0.5,1.3,True,True,True
+1439,Taranaki,Allophanic,2014 - 2018,TotalC,False,8.707451742,3.0,,True,,
+1440,Taranaki,Allophanic,2014 - 2018,TotalN,False,0.927570903,0.25,0.7,True,False,False
+1441,Taranaki,Allophanic,2014 - 2018,AMN,False,163.851372,50.0,,True,,
+1442,Taranaki,Allophanic,2014 - 2018,Bulk_density,False,0.82,0.5,1.3,True,True,True
+1443,Taranaki,Allophanic,2014 - 2018,TotalC,False,8.954203107,3.0,,True,,
+1444,Taranaki,Allophanic,2014 - 2018,TotalN,False,0.872980649,0.25,0.7,True,False,False
+1445,Taranaki,Brown,2014 - 2018,AMN,False,160.8006827,50.0,,True,,
+1446,Taranaki,Brown,2014 - 2018,Bulk_density,False,0.853333333,0.6,1.4,True,True,True
+1447,Taranaki,Brown,2014 - 2018,TotalC,False,8.227995939,2.5,,True,,
+1448,Taranaki,Brown,2014 - 2018,TotalN,False,0.710373982,0.25,0.7,True,False,False
+1449,Taranaki,Allophanic,2014 - 2018,AMN,False,287.9011178,50.0,,True,,
+1450,Taranaki,Allophanic,2014 - 2018,Bulk_density,False,0.546666667,0.5,1.3,True,True,True
+1451,Taranaki,Allophanic,2014 - 2018,TotalC,False,13.13799409,3.0,,True,,
+1452,Taranaki,Allophanic,2014 - 2018,TotalN,False,1.031799209,0.25,0.7,True,False,False
+1453,Taranaki,Gley,2014 - 2018,AMN,False,157.7710573,50.0,,True,,
+1454,Taranaki,Gley,2014 - 2018,Bulk_density,False,0.723333333,0.6,1.4,True,True,True
+1455,Taranaki,Gley,2014 - 2018,TotalC,False,5.012455274,2.5,,True,,
+1456,Taranaki,Gley,2014 - 2018,TotalN,False,0.481105558,0.25,0.7,True,True,True
+1457,Taranaki,Allophanic,2014 - 2018,AMN,False,49.73219529,20.0,,True,,
+1458,Taranaki,Allophanic,2014 - 2018,Bulk_density,False,0.953333333,0.5,1.3,True,True,True
+1459,Taranaki,Allophanic,2014 - 2018,TotalC,False,7.527904007,3.0,,True,,
+1460,Taranaki,Allophanic,2014 - 2018,AMN,False,117.0839738,20.0,,True,,
+1461,Taranaki,Allophanic,2014 - 2018,Bulk_density,False,0.89,0.5,1.3,True,True,True
+1462,Taranaki,Allophanic,2014 - 2018,TotalC,False,8.747844357,3.0,,True,,
+1463,Taranaki,Gley,2014 - 2018,AMN,False,190.5649766,50.0,,True,,
+1464,Taranaki,Gley,2014 - 2018,Bulk_density,False,0.676666667,0.6,1.4,True,True,True
+1465,Taranaki,Gley,2014 - 2018,TotalC,False,15.06022986,2.5,,True,,
+1466,Taranaki,Gley,2014 - 2018,TotalN,False,1.047734713,0.25,0.7,True,False,False
+1467,Taranaki,Brown,2014 - 2018,AMN,False,106.9779542,50.0,,True,,
+1468,Taranaki,Brown,2014 - 2018,Bulk_density,False,1.143333333,0.6,1.4,True,True,True
+1469,Taranaki,Brown,2014 - 2018,TotalC,False,5.26701672,2.5,,True,,
+1470,Taranaki,Brown,2014 - 2018,TotalN,False,0.481309139,0.25,0.7,True,True,True
+1471,Taranaki,Gley,2014 - 2018,AMN,False,170.1865,50.0,,True,,
+1472,Taranaki,Gley,2014 - 2018,Bulk_density,False,0.74,0.6,1.4,True,True,True
+1473,Taranaki,Gley,2014 - 2018,TotalC,False,5.233548924,2.5,,True,,
+1474,Taranaki,Gley,2014 - 2018,TotalN,False,0.493436595,0.25,0.7,True,True,True
+1475,Taranaki,Allophanic,2014 - 2018,AMN,False,132.3873123,50.0,,True,,
+1476,Taranaki,Allophanic,2014 - 2018,Bulk_density,False,0.833333333,0.5,1.3,True,True,True
+1477,Taranaki,Allophanic,2014 - 2018,TotalC,False,6.201771429,3.0,,True,,
+1478,Taranaki,Allophanic,2014 - 2018,TotalN,False,0.566670857,0.25,0.7,True,True,True
+1479,Tasman,Brown,2014 - 2018,AMN,False,79.01672188,50.0,,True,,
+1480,Tasman,Brown,2014 - 2018,Bulk_density,False,1.019,0.6,1.4,True,True,True
+1481,Tasman,Brown,2014 - 2018,TotalC,False,3.826450449,2.5,,True,,
+1482,Tasman,Brown,2014 - 2018,TotalN,False,0.314002148,0.25,0.7,True,True,True
+1483,Tasman,Brown,2014 - 2018,AMN,False,84.47220848,50.0,,True,,
+1484,Tasman,Brown,2014 - 2018,Bulk_density,False,1.060666667,0.6,1.4,True,True,True
+1485,Tasman,Brown,2014 - 2018,TotalC,False,4.093237895,2.5,,True,,
+1486,Tasman,Brown,2014 - 2018,TotalN,False,0.362313474,0.25,0.7,True,True,True
+1487,Tasman,Brown,2014 - 2018,AMN,False,189.8114601,50.0,,True,,
+1488,Tasman,Brown,2014 - 2018,Bulk_density,False,0.838,0.6,1.4,True,True,True
+1489,Tasman,Brown,2014 - 2018,TotalC,False,6.364996289,2.5,,True,,
+1490,Tasman,Brown,2014 - 2018,TotalN,False,0.530881036,0.25,0.7,True,True,True
+1491,Tasman,Recent,2014 - 2018,AMN,False,208.2464971,50.0,,True,,
+1492,Tasman,Recent,2014 - 2018,Bulk_density,False,1.050333333,0.7,1.4,True,True,True
+1493,Tasman,Recent,2014 - 2018,TotalC,False,5.401502998,2.0,,True,,
+1494,Tasman,Recent,2014 - 2018,TotalN,False,0.542593165,0.25,0.7,True,True,True
+1495,Tasman,Brown,2014 - 2018,AMN,False,107.1544789,50.0,,True,,
+1496,Tasman,Brown,2014 - 2018,Bulk_density,False,1.314,0.6,1.4,True,True,True
+1497,Tasman,Brown,2014 - 2018,TotalC,False,3.318072313,2.5,,True,,
+1498,Tasman,Brown,2014 - 2018,TotalN,False,0.305517412,0.25,0.7,True,True,True
+1499,Tasman,Gley,2014 - 2018,AMN,False,116.4047035,50.0,,True,,
+1500,Tasman,Gley,2014 - 2018,Bulk_density,False,1.008333333,0.6,1.4,True,True,True
+1501,Tasman,Gley,2014 - 2018,TotalC,False,3.493005793,2.5,,True,,
+1502,Tasman,Gley,2014 - 2018,TotalN,False,0.346250274,0.25,0.7,True,True,True
+1503,Tasman,Recent,2014 - 2018,AMN,False,161.514843,20.0,,True,,
+1504,Tasman,Recent,2014 - 2018,Bulk_density,False,1.060666667,0.7,1.4,True,True,True
+1505,Tasman,Recent,2014 - 2018,TotalC,False,4.54009966,2.0,,True,,
+1506,Tasman,Recent,2014 - 2018,AMN,False,143.5742123,50.0,,True,,
+1507,Tasman,Recent,2014 - 2018,Bulk_density,False,0.876333333,0.7,1.4,True,True,True
+1508,Tasman,Recent,2014 - 2018,TotalC,False,4.422941292,2.0,,True,,
+1509,Tasman,Recent,2014 - 2018,TotalN,False,0.468394077,0.25,0.7,True,True,True
+1510,Tasman,Gley,2014 - 2018,AMN,False,135.5404087,50.0,,True,,
+1511,Tasman,Gley,2014 - 2018,Bulk_density,False,0.834,0.6,1.4,True,True,True
+1512,Tasman,Gley,2014 - 2018,TotalC,False,4.128688794,2.5,,True,,
+1513,Tasman,Gley,2014 - 2018,TotalN,False,0.354619872,0.25,0.7,True,True,True
+1514,Tasman,Brown,2014 - 2018,AMN,False,67.70295992,50.0,,True,,
+1515,Tasman,Brown,2014 - 2018,Bulk_density,False,1.338333333,0.6,1.4,True,True,True
+1516,Tasman,Brown,2014 - 2018,TotalC,False,2.106620199,2.5,,False,,False
+1517,Tasman,Brown,2014 - 2018,TotalN,False,0.201460551,0.25,0.7,False,True,False
+1518,Tasman,Recent,2014 - 2018,AMN,False,37.29760942,20.0,,True,,
+1519,Tasman,Recent,2014 - 2018,Bulk_density,False,1.514,0.7,1.4,True,False,False
+1520,Tasman,Recent,2014 - 2018,TotalC,False,1.873520948,2.0,,False,,False
+1521,Tasman,Recent,2014 - 2018,AMN,False,33.17547972,20.0,,True,,
+1522,Tasman,Recent,2014 - 2018,Bulk_density,False,1.535333333,0.7,1.4,True,False,False
+1523,Tasman,Recent,2014 - 2018,TotalC,False,1.523027507,2.0,,False,,False
+1524,Tasman,Recent,2014 - 2018,AMN,False,168.6351977,20.0,,True,,
+1525,Tasman,Recent,2014 - 2018,Bulk_density,False,1.185333333,0.7,1.4,True,True,True
+1526,Tasman,Recent,2014 - 2018,TotalC,False,3.980046993,2.0,,True,,
+1527,Tasman,Recent,2014 - 2018,AMN,False,110.6374944,20.0,,True,,
+1528,Tasman,Recent,2014 - 2018,Bulk_density,False,1.144666667,0.7,1.4,True,True,True
+1529,Tasman,Recent,2014 - 2018,TotalC,False,3.252448937,2.0,,True,,
+1530,Tasman,Recent,2014 - 2018,AMN,False,101.3915551,20.0,,True,,
+1531,Tasman,Recent,2014 - 2018,Bulk_density,False,1.27,0.7,1.4,True,True,True
+1532,Tasman,Recent,2014 - 2018,TotalC,False,3.385629647,2.0,,True,,
+1533,Waikato,Allophanic,2014 - 2018,AMN,False,390.7407687,50.0,,True,,
+1534,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.728666667,0.5,1.3,True,True,True
+1535,Waikato,Allophanic,2014 - 2018,TotalC,False,10.43460142,3.0,,True,,
+1536,Waikato,Allophanic,2014 - 2018,TotalN,False,1.074549114,0.25,0.7,True,False,False
+1537,Waikato,Pumice,2014 - 2018,AMN,False,100.5371848,20.0,,True,,
+1538,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.547666667,0.6,1.4,False,True,False
+1539,Waikato,Pumice,2014 - 2018,TotalC,False,6.320182055,2.0,,True,,
+1540,Waikato,Pumice,2014 - 2018,TotalN,False,0.35492201,0.1,0.7,True,True,True
+1541,Waikato,Gley,2014 - 2018,AMN,False,179.5627872,50.0,,True,,
+1542,Waikato,Gley,2014 - 2018,Bulk_density,False,0.91,0.6,1.4,True,True,True
+1543,Waikato,Gley,2014 - 2018,TotalC,False,9.000031894,2.5,,True,,
+1544,Waikato,Gley,2014 - 2018,TotalN,False,0.701453122,0.25,0.7,True,False,False
+1545,Waikato,Granular,2014 - 2018,AMN,False,239.3163005,50.0,,True,,
+1546,Waikato,Granular,2014 - 2018,Bulk_density,False,0.82,0.6,1.4,True,True,True
+1547,Waikato,Granular,2014 - 2018,TotalC,False,11.82706014,2.5,,True,,
+1548,Waikato,Granular,2014 - 2018,TotalN,False,1.034053781,0.25,0.7,True,False,False
+1549,Waikato,Granular,2014 - 2018,AMN,False,361.5292793,50.0,,True,,
+1550,Waikato,Granular,2014 - 2018,Bulk_density,False,0.68,0.6,1.4,True,True,True
+1551,Waikato,Granular,2014 - 2018,TotalC,False,14.68738526,2.5,,True,,
+1552,Waikato,Granular,2014 - 2018,TotalN,False,1.422515696,0.25,0.7,True,False,False
+1553,Waikato,Allophanic,2014 - 2018,AMN,False,212.6378454,50.0,,True,,
+1554,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.99,0.5,1.3,True,True,True
+1555,Waikato,Allophanic,2014 - 2018,TotalC,False,7.935115188,3.0,,True,,
+1556,Waikato,Allophanic,2014 - 2018,TotalN,False,0.712702717,0.25,0.7,True,False,False
+1557,Waikato,Granular,2014 - 2018,AMN,False,263.7814703,50.0,,True,,
+1558,Waikato,Granular,2014 - 2018,Bulk_density,False,0.92,0.6,1.4,True,True,True
+1559,Waikato,Granular,2014 - 2018,TotalC,False,8.179983883,2.5,,True,,
+1560,Waikato,Granular,2014 - 2018,TotalN,False,0.721520946,0.25,0.7,True,False,False
+1561,Waikato,Brown,2014 - 2018,AMN,False,216.9283764,50.0,,True,,
+1562,Waikato,Brown,2014 - 2018,Bulk_density,False,0.744333333,0.6,1.4,True,True,True
+1563,Waikato,Brown,2014 - 2018,TotalC,False,9.170956195,2.5,,True,,
+1564,Waikato,Brown,2014 - 2018,TotalN,False,0.879972611,0.25,0.7,True,False,False
+1565,Waikato,Gley,2014 - 2018,AMN,False,136.7768556,50.0,,True,,
+1566,Waikato,Gley,2014 - 2018,Bulk_density,False,0.859,0.6,1.4,True,True,True
+1567,Waikato,Gley,2014 - 2018,TotalC,False,6.181306296,2.5,,True,,
+1568,Waikato,Gley,2014 - 2018,TotalN,False,0.681289213,0.25,0.7,True,True,True
+1569,Waikato,Brown,2014 - 2018,AMN,False,120.1084893,50.0,,True,,
+1570,Waikato,Brown,2014 - 2018,Bulk_density,False,1.03,0.6,1.4,True,True,True
+1571,Waikato,Brown,2014 - 2018,TotalC,False,4.273891154,2.5,,True,,
+1572,Waikato,Brown,2014 - 2018,TotalN,False,0.4057652,0.25,0.7,True,True,True
+1573,Waikato,Brown,2014 - 2018,AMN,False,207.4855475,50.0,,True,,
+1574,Waikato,Brown,2014 - 2018,Bulk_density,False,0.86,0.6,1.4,True,True,True
+1575,Waikato,Brown,2014 - 2018,TotalC,False,9.765288782,2.5,,True,,
+1576,Waikato,Brown,2014 - 2018,TotalN,False,0.919942771,0.25,0.7,True,False,False
+1577,Waikato,Brown,2014 - 2018,AMN,False,170.4419397,50.0,,True,,
+1578,Waikato,Brown,2014 - 2018,Bulk_density,False,0.8,0.6,1.4,True,True,True
+1579,Waikato,Brown,2014 - 2018,TotalC,False,9.05153,2.5,,True,,
+1580,Waikato,Brown,2014 - 2018,TotalN,False,0.788035565,0.25,0.7,True,False,False
+1581,Waikato,Pumice,2014 - 2018,AMN,False,271.9121163,50.0,,True,,
+1582,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.640833334,0.6,1.4,True,True,True
+1583,Waikato,Pumice,2014 - 2018,TotalC,False,9.871801825,2.0,,True,,
+1584,Waikato,Pumice,2014 - 2018,TotalN,False,0.922255332,0.25,0.7,True,False,False
+1585,Waikato,Allophanic,2014 - 2018,AMN,False,215.0957907,50.0,,True,,
+1586,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.755666667,0.5,1.3,True,True,True
+1587,Waikato,Allophanic,2014 - 2018,TotalC,False,10.63107143,3.0,,True,,
+1588,Waikato,Allophanic,2014 - 2018,TotalN,False,0.993182755,0.25,0.7,True,False,False
+1589,Waikato,Allophanic,2014 - 2018,AMN,False,219.8789799,50.0,,True,,
+1590,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.701666667,0.5,1.3,True,True,True
+1591,Waikato,Allophanic,2014 - 2018,TotalC,False,10.70660233,3.0,,True,,
+1592,Waikato,Allophanic,2014 - 2018,TotalN,False,0.903008093,0.25,0.7,True,False,False
+1593,Waikato,Pumice,2014 - 2018,AMN,False,155.0,50.0,,True,,
+1594,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.82,0.6,1.4,True,True,True
+1595,Waikato,Pumice,2014 - 2018,TotalC,False,7.03,2.0,,True,,
+1596,Waikato,Pumice,2014 - 2018,TotalN,False,0.64,0.25,0.7,True,True,True
+1597,Waikato,Pumice,2014 - 2018,AMN,False,89.0,20.0,,True,,
+1598,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.61,0.6,1.4,True,True,True
+1599,Waikato,Pumice,2014 - 2018,TotalC,False,9.76,2.0,,True,,
+1600,Waikato,Pumice,2014 - 2018,TotalN,False,0.63,0.1,0.7,True,True,True
+1601,Waikato,Pumice,2014 - 2018,AMN,False,144.0,20.0,,True,,
+1602,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.41,0.6,1.4,False,True,False
+1603,Waikato,Pumice,2014 - 2018,TotalC,False,10.7,2.0,,True,,
+1604,Waikato,Pumice,2014 - 2018,TotalN,False,0.55,0.1,0.7,True,True,True
+1605,Waikato,Pumice,2014 - 2018,AMN,False,151.0,50.0,,True,,
+1606,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.77,0.6,1.4,True,True,True
+1607,Waikato,Pumice,2014 - 2018,TotalC,False,9.05,2.0,,True,,
+1608,Waikato,Pumice,2014 - 2018,TotalN,False,0.76,0.25,0.7,True,False,False
+1609,Waikato,Pumice,2014 - 2018,AMN,False,197.0,50.0,,True,,
+1610,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.66,0.6,1.4,True,True,True
+1611,Waikato,Pumice,2014 - 2018,TotalC,False,9.61,2.0,,True,,
+1612,Waikato,Pumice,2014 - 2018,TotalN,False,0.88,0.25,0.7,True,False,False
+1613,Waikato,Pumice,2014 - 2018,AMN,False,59.0,20.0,,True,,
+1614,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.67,0.6,1.4,True,True,True
+1615,Waikato,Pumice,2014 - 2018,TotalC,False,6.73,2.0,,True,,
+1616,Waikato,Pumice,2014 - 2018,TotalN,False,0.29,0.1,0.7,True,True,True
+1617,Waikato,Pumice,2014 - 2018,AMN,False,170.0,50.0,,True,,
+1618,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.8,0.6,1.4,True,True,True
+1619,Waikato,Pumice,2014 - 2018,TotalC,False,7.99,2.0,,True,,
+1620,Waikato,Pumice,2014 - 2018,TotalN,False,0.67,0.25,0.7,True,True,True
+1621,Waikato,Pumice,2014 - 2018,AMN,False,142.3604515,50.0,,True,,
+1622,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.809333333,0.6,1.4,True,True,True
+1623,Waikato,Pumice,2014 - 2018,TotalC,False,5.362659228,2.0,,True,,
+1624,Waikato,Pumice,2014 - 2018,TotalN,False,0.359214077,0.25,0.7,True,True,True
+1625,Waikato,Pumice,2014 - 2018,AMN,False,111.0,50.0,,True,,
+1626,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.64,0.6,1.4,True,True,True
+1627,Waikato,Pumice,2014 - 2018,TotalC,False,6.12,2.0,,True,,
+1628,Waikato,Pumice,2014 - 2018,TotalN,False,0.42,0.25,0.7,True,True,True
+1629,Waikato,Pumice,2014 - 2018,AMN,False,119.0,20.0,,True,,
+1630,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.77,0.6,1.4,True,True,True
+1631,Waikato,Pumice,2014 - 2018,TotalC,False,7.11,2.0,,True,,
+1632,Waikato,Pumice,2014 - 2018,TotalN,False,0.43,0.1,0.7,True,True,True
+1633,Waikato,Allophanic,2014 - 2018,AMN,False,221.0,50.0,,True,,
+1634,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.7,0.5,1.3,True,True,True
+1635,Waikato,Allophanic,2014 - 2018,TotalC,False,12.6,3.0,,True,,
+1636,Waikato,Allophanic,2014 - 2018,TotalN,False,1.12,0.25,0.7,True,False,False
+1637,Waikato,Recent,2014 - 2018,AMN,False,183.0,50.0,,True,,
+1638,Waikato,Recent,2014 - 2018,Bulk_density,False,0.85,0.7,1.4,True,True,True
+1639,Waikato,Recent,2014 - 2018,TotalC,False,6.33,2.0,,True,,
+1640,Waikato,Recent,2014 - 2018,TotalN,False,0.6,0.25,0.7,True,True,True
+1641,Waikato,Gley,2014 - 2018,AMN,False,196.0,50.0,,True,,
+1642,Waikato,Gley,2014 - 2018,Bulk_density,False,0.8,0.6,1.4,True,True,True
+1643,Waikato,Gley,2014 - 2018,TotalC,False,10.6,2.5,,True,,
+1644,Waikato,Gley,2014 - 2018,TotalN,False,0.91,0.25,0.7,True,False,False
+1645,Waikato,Pumice,2014 - 2018,AMN,False,148.0,50.0,,True,,
+1646,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.7,0.6,1.4,True,True,True
+1647,Waikato,Pumice,2014 - 2018,TotalC,False,8.24,2.0,,True,,
+1648,Waikato,Pumice,2014 - 2018,TotalN,False,0.68,0.25,0.7,True,True,True
+1649,Waikato,Allophanic,2014 - 2018,AMN,False,207.1507768,50.0,,True,,
+1650,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.686,0.5,1.3,True,True,True
+1651,Waikato,Allophanic,2014 - 2018,TotalC,False,11.46943185,3.0,,True,,
+1652,Waikato,Allophanic,2014 - 2018,TotalN,False,1.133190611,0.25,0.7,True,False,False
+1653,Waikato,Allophanic,2014 - 2018,AMN,False,257.0,50.0,,True,,
+1654,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.59,0.5,1.3,True,True,True
+1655,Waikato,Allophanic,2014 - 2018,TotalC,False,12.6,3.0,,True,,
+1656,Waikato,Allophanic,2014 - 2018,TotalN,False,1.24,0.25,0.7,True,False,False
+1657,Waikato,Pumice,2014 - 2018,AMN,False,199.5637222,50.0,,True,,
+1658,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.631,0.6,1.4,True,True,True
+1659,Waikato,Pumice,2014 - 2018,TotalC,False,10.66504346,2.0,,True,,
+1660,Waikato,Pumice,2014 - 2018,TotalN,False,0.867049836,0.25,0.7,True,False,False
+1661,Waikato,Pumice,2014 - 2018,AMN,False,240.0325873,50.0,,True,,
+1662,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.668666667,0.6,1.4,True,True,True
+1663,Waikato,Pumice,2014 - 2018,TotalC,False,7.948272082,2.0,,True,,
+1664,Waikato,Pumice,2014 - 2018,TotalN,False,0.579692264,0.25,0.7,True,True,True
+1665,Waikato,Granular,2014 - 2018,AMN,False,397.8471824,20.0,,True,,
+1666,Waikato,Granular,2014 - 2018,Bulk_density,False,0.865333333,0.6,1.4,True,True,True
+1667,Waikato,Granular,2014 - 2018,TotalC,False,7.820691025,2.5,,True,,
+1668,Waikato,Allophanic,2014 - 2018,AMN,False,336.8121791,50.0,,True,,
+1669,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.706666667,0.5,1.3,True,True,True
+1670,Waikato,Allophanic,2014 - 2018,TotalC,False,9.861601347,3.0,,True,,
+1671,Waikato,Allophanic,2014 - 2018,TotalN,False,1.007566675,0.25,0.7,True,False,False
+1672,Waikato,Pumice,2014 - 2018,AMN,False,271.4236958,50.0,,True,,
+1673,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.712333333,0.6,1.4,True,True,True
+1674,Waikato,Pumice,2014 - 2018,TotalC,False,7.17511146,2.0,,True,,
+1675,Waikato,Pumice,2014 - 2018,TotalN,False,0.704454385,0.25,0.7,True,False,False
+1676,Waikato,Allophanic,2014 - 2018,AMN,False,360.9597692,20.0,,True,,
+1677,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.709666667,0.5,1.3,True,True,True
+1678,Waikato,Allophanic,2014 - 2018,TotalC,False,11.2696232,3.0,,True,,
+1679,Waikato,Pumice,2014 - 2018,AMN,False,298.5739271,50.0,,True,,
+1680,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.573,0.6,1.4,False,True,False
+1681,Waikato,Pumice,2014 - 2018,TotalC,False,9.369413022,2.0,,True,,
+1682,Waikato,Pumice,2014 - 2018,TotalN,False,0.642263499,0.25,0.7,True,True,True
+1683,Waikato,Pumice,2014 - 2018,AMN,False,160.0,50.0,,True,,
+1684,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.62,0.6,1.4,True,True,True
+1685,Waikato,Pumice,2014 - 2018,TotalC,False,7.22,2.0,,True,,
+1686,Waikato,Pumice,2014 - 2018,TotalN,False,0.54,0.25,0.7,True,True,True
+1687,Waikato,Pumice,2014 - 2018,AMN,False,153.8239263,50.0,,True,,
+1688,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.745833334,0.6,1.4,True,True,True
+1689,Waikato,Pumice,2014 - 2018,TotalC,False,8.648127043,2.0,,True,,
+1690,Waikato,Pumice,2014 - 2018,TotalN,False,0.514401382,0.25,0.7,True,True,True
+1691,Waikato,Pumice,2014 - 2018,AMN,False,169.72468650000002,50.0,,True,,
+1692,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.732833334,0.6,1.4,True,True,True
+1693,Waikato,Pumice,2014 - 2018,TotalC,False,8.276707762,2.0,,True,,
+1694,Waikato,Pumice,2014 - 2018,TotalN,False,0.508483098,0.25,0.7,True,True,True
+1695,Waikato,Allophanic,2014 - 2018,AMN,False,100.1399227,20.0,,True,,
+1696,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.835,0.5,1.3,True,True,True
+1697,Waikato,Allophanic,2014 - 2018,TotalC,False,7.070958272,3.0,,True,,
+1698,Waikato,Allophanic,2014 - 2018,TotalN,False,0.487665626,0.1,0.7,True,True,True
+1699,Waikato,Allophanic,2014 - 2018,AMN,False,157.7840684,20.0,,True,,
+1700,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.757833334,0.5,1.3,True,True,True
+1701,Waikato,Allophanic,2014 - 2018,TotalC,False,7.458541538,3.0,,True,,
+1702,Waikato,Allophanic,2014 - 2018,AMN,False,190.1877597,20.0,,True,,
+1703,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.768,0.5,1.3,True,True,True
+1704,Waikato,Allophanic,2014 - 2018,TotalC,False,8.086410889,3.0,,True,,
+1705,Waikato,Allophanic,2014 - 2018,AMN,False,149.5323699,20.0,,True,,
+1706,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.896333333,0.5,1.3,True,True,True
+1707,Waikato,Allophanic,2014 - 2018,TotalC,False,6.723449028,3.0,,True,,
+1708,Waikato,Pumice,2014 - 2018,AMN,False,201.0,50.0,,True,,
+1709,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.7,0.6,1.4,True,True,True
+1710,Waikato,Pumice,2014 - 2018,TotalC,False,7.45,2.0,,True,,
+1711,Waikato,Pumice,2014 - 2018,TotalN,False,0.63,0.25,0.7,True,True,True
+1712,Waikato,Allophanic,2014 - 2018,AMN,False,207.7275403,20.0,,True,,
+1713,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.695333333,0.5,1.3,True,True,True
+1714,Waikato,Allophanic,2014 - 2018,TotalC,False,9.693019376,3.0,,True,,
+1715,Waikato,Allophanic,2014 - 2018,AMN,False,137.6710078,20.0,,True,,
+1716,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.809,0.5,1.3,True,True,True
+1717,Waikato,Allophanic,2014 - 2018,TotalC,False,7.696922793,3.0,,True,,
+1718,Waikato,Ultic,2014 - 2018,AMN,False,86.0,50.0,,True,,
+1719,Waikato,Ultic,2014 - 2018,Bulk_density,False,1.3,0.6,1.4,True,True,True
+1720,Waikato,Ultic,2014 - 2018,TotalC,False,3.97,2.5,,True,,
+1721,Waikato,Ultic,2014 - 2018,TotalN,False,0.37,0.25,0.7,True,True,True
+1722,Waikato,Gley,2014 - 2018,AMN,False,179.0,50.0,,True,,
+1723,Waikato,Gley,2014 - 2018,Bulk_density,False,0.69,0.6,1.4,True,True,True
+1724,Waikato,Gley,2014 - 2018,TotalC,False,9.63,2.5,,True,,
+1725,Waikato,Gley,2014 - 2018,TotalN,False,0.84,0.25,0.7,True,False,False
+1726,Waikato,Pumice,2014 - 2018,AMN,False,197.4037114,50.0,,True,,
+1727,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.796,0.6,1.4,True,True,True
+1728,Waikato,Pumice,2014 - 2018,TotalC,False,7.577038728,2.0,,True,,
+1729,Waikato,Pumice,2014 - 2018,TotalN,False,0.639884861,0.25,0.7,True,True,True
+1730,Waikato,Pumice,2014 - 2018,AMN,False,288.9552808,50.0,,True,,
+1731,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.831666667,0.6,1.4,True,True,True
+1732,Waikato,Pumice,2014 - 2018,TotalC,False,8.555839765,2.0,,True,,
+1733,Waikato,Pumice,2014 - 2018,TotalN,False,0.750582245,0.25,0.7,True,False,False
+1734,Waikato,Brown,2014 - 2018,AMN,False,318.4537587,50.0,,True,,
+1735,Waikato,Brown,2014 - 2018,Bulk_density,False,0.813666667,0.6,1.4,True,True,True
+1736,Waikato,Brown,2014 - 2018,TotalC,False,8.014250992,2.5,,True,,
+1737,Waikato,Brown,2014 - 2018,TotalN,False,0.716152144,0.25,0.7,True,False,False
+1738,Waikato,Brown,2014 - 2018,AMN,False,194.6557092,20.0,,True,,
+1739,Waikato,Brown,2014 - 2018,Bulk_density,False,0.873666667,0.6,1.4,True,True,True
+1740,Waikato,Brown,2014 - 2018,TotalC,False,6.17210154,2.5,,True,,
+1741,Waikato,Brown,2014 - 2018,TotalN,False,0.483068929,0.1,0.7,True,True,True
+1742,Waikato,Allophanic,2014 - 2018,AMN,False,349.3697283,50.0,,True,,
+1743,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.773,0.5,1.3,True,True,True
+1744,Waikato,Allophanic,2014 - 2018,TotalC,False,8.797765021,3.0,,True,,
+1745,Waikato,Allophanic,2014 - 2018,TotalN,False,0.869849728,0.25,0.7,True,False,False
+1746,Waikato,Gley,2014 - 2018,AMN,False,207.4071635,50.0,,True,,
+1747,Waikato,Gley,2014 - 2018,Bulk_density,False,1.08,0.6,1.4,True,True,True
+1748,Waikato,Gley,2014 - 2018,TotalC,False,6.364599038,2.5,,True,,
+1749,Waikato,Gley,2014 - 2018,TotalN,False,0.655075187,0.25,0.7,True,True,True
+1750,Waikato,Brown,2014 - 2018,AMN,False,110.0700127,20.0,,True,,
+1751,Waikato,Brown,2014 - 2018,Bulk_density,False,0.95,0.6,1.4,True,True,True
+1752,Waikato,Brown,2014 - 2018,TotalC,False,4.990826031,2.5,,True,,
+1753,Waikato,Brown,2014 - 2018,TotalN,False,0.275676771,0.1,0.7,True,True,True
+1754,Waikato,Brown,2014 - 2018,AMN,False,231.3601127,50.0,,True,,
+1755,Waikato,Brown,2014 - 2018,Bulk_density,False,0.76,0.6,1.4,True,True,True
+1756,Waikato,Brown,2014 - 2018,TotalC,False,8.368408782,2.5,,True,,
+1757,Waikato,Brown,2014 - 2018,TotalN,False,0.661527774,0.25,0.7,True,True,True
+1758,Waikato,Pumice,2014 - 2018,AMN,False,192.7815786,50.0,,True,,
+1759,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.696,0.6,1.4,True,True,True
+1760,Waikato,Pumice,2014 - 2018,TotalC,False,6.552444134,2.0,,True,,
+1761,Waikato,Pumice,2014 - 2018,TotalN,False,0.426916184,0.25,0.7,True,True,True
+1762,Waikato,Pumice,2014 - 2018,AMN,False,155.9859888,50.0,,True,,
+1763,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.716666667,0.6,1.4,True,True,True
+1764,Waikato,Pumice,2014 - 2018,TotalC,False,6.16568244,2.0,,True,,
+1765,Waikato,Pumice,2014 - 2018,TotalN,False,0.544638235,0.25,0.7,True,True,True
+1766,Waikato,Podzol,2014 - 2018,AMN,False,169.6058621,50.0,,True,,
+1767,Waikato,Podzol,2014 - 2018,Bulk_density,False,0.51,0.6,1.4,False,True,False
+1768,Waikato,Podzol,2014 - 2018,TotalC,False,7.894632091,2.5,,True,,
+1769,Waikato,Podzol,2014 - 2018,TotalN,False,0.514610072,0.25,0.7,True,True,True
+1770,Waikato,Allophanic,2014 - 2018,AMN,False,173.8003167,20.0,,True,,
+1771,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.751,0.5,1.3,True,True,True
+1772,Waikato,Allophanic,2014 - 2018,TotalC,False,9.083889632,3.0,,True,,
+1773,Waikato,Allophanic,2014 - 2018,TotalN,False,0.623359651,0.1,0.7,True,True,True
+1774,Waikato,Podzol,2014 - 2018,AMN,False,126.2259213,50.0,,True,,
+1775,Waikato,Podzol,2014 - 2018,Bulk_density,False,0.77,0.6,1.4,True,True,True
+1776,Waikato,Podzol,2014 - 2018,TotalC,False,6.822428706,2.5,,True,,
+1777,Waikato,Podzol,2014 - 2018,TotalN,False,0.530040264,0.25,0.7,True,True,True
+1778,Waikato,Allophanic,2014 - 2018,AMN,False,339.7791262,50.0,,True,,
+1779,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.67,0.5,1.3,True,True,True
+1780,Waikato,Allophanic,2014 - 2018,TotalC,False,12.96242993,3.0,,True,,
+1781,Waikato,Allophanic,2014 - 2018,TotalN,False,1.40064796,0.25,0.7,True,False,False
+1782,Waikato,Recent,2014 - 2018,AMN,False,350.7414491,50.0,,True,,
+1783,Waikato,Recent,2014 - 2018,Bulk_density,False,0.809666667,0.7,1.4,True,True,True
+1784,Waikato,Recent,2014 - 2018,TotalC,False,6.88312179,2.0,,True,,
+1785,Waikato,Recent,2014 - 2018,TotalN,False,0.697260766,0.25,0.7,True,True,True
+1786,Waikato,Recent,2014 - 2018,AMN,False,321.5125301,50.0,,True,,
+1787,Waikato,Recent,2014 - 2018,Bulk_density,False,0.809666667,0.7,1.4,True,True,True
+1788,Waikato,Recent,2014 - 2018,TotalC,False,7.327947913,2.0,,True,,
+1789,Waikato,Recent,2014 - 2018,TotalN,False,0.744940679,0.25,0.7,True,False,False
+1790,Waikato,Allophanic,2014 - 2018,AMN,False,268.252077,20.0,,True,,
+1791,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.537666667,0.5,1.3,True,True,True
+1792,Waikato,Allophanic,2014 - 2018,TotalC,False,18.16373369,3.0,,True,,
+1793,Waikato,Allophanic,2014 - 2018,TotalN,False,1.391236218,0.1,0.7,True,False,False
+1794,Waikato,Allophanic,2014 - 2018,AMN,False,474.6915049,50.0,,True,,
+1795,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.581666667,0.5,1.3,True,True,True
+1796,Waikato,Allophanic,2014 - 2018,TotalC,False,18.17527315,3.0,,True,,
+1797,Waikato,Allophanic,2014 - 2018,TotalN,False,1.560689215,0.25,0.7,True,False,False
+1798,Waikato,Allophanic,2014 - 2018,AMN,False,60.11337238,20.0,,True,,
+1799,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.95,0.5,1.3,True,True,True
+1800,Waikato,Allophanic,2014 - 2018,TotalC,False,5.237126727,3.0,,True,,
+1801,Waikato,Allophanic,2014 - 2018,AMN,False,72.02111372,20.0,,True,,
+1802,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.73,0.5,1.3,True,True,True
+1803,Waikato,Allophanic,2014 - 2018,TotalC,False,5.876865531,3.0,,True,,
+1804,Waikato,Allophanic,2014 - 2018,AMN,False,243.3203924,50.0,,True,,
+1805,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.555,0.5,1.3,True,True,True
+1806,Waikato,Allophanic,2014 - 2018,TotalC,False,15.77469997,3.0,,True,,
+1807,Waikato,Allophanic,2014 - 2018,TotalN,False,1.234360684,0.25,0.7,True,False,False
+1808,Waikato,Allophanic,2014 - 2018,AMN,False,78.0,20.0,,True,,
+1809,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.71,0.5,1.3,True,True,True
+1810,Waikato,Allophanic,2014 - 2018,TotalC,False,6.517837052,3.0,,True,,
+1811,Waikato,Brown,2014 - 2018,AMN,False,32.13302759,20.0,,True,,
+1812,Waikato,Brown,2014 - 2018,Bulk_density,False,1.070333333,0.6,1.4,True,True,True
+1813,Waikato,Brown,2014 - 2018,TotalC,False,2.587763069,2.5,,True,,
+1814,Waikato,Brown,2014 - 2018,TotalN,False,0.161460046,0.1,0.7,True,True,True
+1815,Waikato,Brown,2014 - 2018,AMN,False,76.17101668,20.0,,True,,
+1816,Waikato,Brown,2014 - 2018,Bulk_density,False,0.887,0.6,1.4,True,True,True
+1817,Waikato,Brown,2014 - 2018,TotalC,False,4.601629923,2.5,,True,,
+1818,Waikato,Brown,2014 - 2018,TotalN,False,0.362266067,0.1,0.7,True,True,True
+1819,Waikato,Recent,2014 - 2018,AMN,False,152.47282,50.0,,True,,
+1820,Waikato,Recent,2014 - 2018,Bulk_density,False,1.041333333,0.7,1.4,True,True,True
+1821,Waikato,Recent,2014 - 2018,TotalC,False,4.59648882,2.0,,True,,
+1822,Waikato,Recent,2014 - 2018,TotalN,False,0.404962082,0.25,0.7,True,True,True
+1823,Waikato,Gley,2014 - 2018,AMN,False,143.7813771,50.0,,True,,
+1824,Waikato,Gley,2014 - 2018,Bulk_density,False,0.824666667,0.6,1.4,True,True,True
+1825,Waikato,Gley,2014 - 2018,TotalC,False,4.272638265,2.5,,True,,
+1826,Waikato,Gley,2014 - 2018,TotalN,False,0.430128582,0.25,0.7,True,True,True
+1827,Waikato,Gley,2014 - 2018,AMN,False,213.2272114,50.0,,True,,
+1828,Waikato,Gley,2014 - 2018,Bulk_density,False,1.005,0.6,1.4,True,True,True
+1829,Waikato,Gley,2014 - 2018,TotalC,False,6.27642028,2.5,,True,,
+1830,Waikato,Gley,2014 - 2018,TotalN,False,0.616183512,0.25,0.7,True,True,True
+1831,Waikato,Ultic,2014 - 2018,AMN,False,70.45932519,20.0,,True,,
+1832,Waikato,Ultic,2014 - 2018,Bulk_density,False,1.063,0.6,1.4,True,True,True
+1833,Waikato,Ultic,2014 - 2018,TotalC,False,4.133453982,2.5,,True,,
+1834,Waikato,Ultic,2014 - 2018,TotalN,False,0.215312442,0.1,0.7,True,True,True
+1835,Waikato,Ultic,2014 - 2018,AMN,False,151.6708254,50.0,,True,,
+1836,Waikato,Ultic,2014 - 2018,Bulk_density,False,1.088333333,0.6,1.4,True,True,True
+1837,Waikato,Ultic,2014 - 2018,TotalC,False,4.827534773,2.5,,True,,
+1838,Waikato,Ultic,2014 - 2018,TotalN,False,0.448176178,0.25,0.7,True,True,True
+1839,Waikato,Granular,2014 - 2018,AMN,False,167.1663683,50.0,,True,,
+1840,Waikato,Granular,2014 - 2018,Bulk_density,False,0.948333333,0.6,1.4,True,True,True
+1841,Waikato,Granular,2014 - 2018,TotalC,False,6.889558497,2.5,,True,,
+1842,Waikato,Granular,2014 - 2018,TotalN,False,0.638821668,0.25,0.7,True,True,True
+1843,Waikato,Granular,2014 - 2018,AMN,False,221.2102561,50.0,,True,,
+1844,Waikato,Granular,2014 - 2018,Bulk_density,False,0.823333333,0.6,1.4,True,True,True
+1845,Waikato,Granular,2014 - 2018,TotalC,False,7.717904685,2.5,,True,,
+1846,Waikato,Granular,2014 - 2018,TotalN,False,0.687006389,0.25,0.7,True,True,True
+1847,Waikato,Gley,2014 - 2018,AMN,False,240.4932051,20.0,,True,,
+1848,Waikato,Gley,2014 - 2018,Bulk_density,False,0.739,0.6,1.4,True,True,True
+1849,Waikato,Gley,2014 - 2018,TotalC,False,9.567080074,2.5,,True,,
+1850,Waikato,Allophanic,2014 - 2018,AMN,False,232.0232805,20.0,,True,,
+1851,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.703333333,0.5,1.3,True,True,True
+1852,Waikato,Allophanic,2014 - 2018,TotalC,False,10.93908707,3.0,,True,,
+1853,Waikato,Brown,2014 - 2018,AMN,False,167.0356882,50.0,,True,,
+1854,Waikato,Brown,2014 - 2018,Bulk_density,False,1.003666667,0.6,1.4,True,True,True
+1855,Waikato,Brown,2014 - 2018,TotalC,False,5.812244759,2.5,,True,,
+1856,Waikato,Brown,2014 - 2018,TotalN,False,0.542968385,0.25,0.7,True,True,True
+1857,Waikato,Podzol,2014 - 2018,AMN,False,114.0,50.0,,True,,
+1858,Waikato,Podzol,2014 - 2018,Bulk_density,False,0.85,0.6,1.4,True,True,True
+1859,Waikato,Podzol,2014 - 2018,TotalC,False,5.76,2.5,,True,,
+1860,Waikato,Podzol,2014 - 2018,TotalN,False,0.4,0.25,0.7,True,True,True
+1861,Waikato,Podzol,2014 - 2018,AMN,False,84.0,20.0,,True,,
+1862,Waikato,Podzol,2014 - 2018,Bulk_density,False,0.63,0.6,1.4,True,True,True
+1863,Waikato,Podzol,2014 - 2018,TotalC,False,5.83,2.5,,True,,
+1864,Waikato,Podzol,2014 - 2018,TotalN,False,0.31,0.1,0.7,True,True,True
+1865,Waikato,Allophanic,2014 - 2018,AMN,False,150.0,20.0,,True,,
+1866,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.85,0.5,1.3,True,True,True
+1867,Waikato,Allophanic,2014 - 2018,TotalC,False,5.83,3.0,,True,,
+1868,Waikato,Brown,2014 - 2018,AMN,False,37.6232189,20.0,,True,,
+1869,Waikato,Brown,2014 - 2018,Bulk_density,False,0.79,0.6,1.4,True,True,True
+1870,Waikato,Brown,2014 - 2018,TotalC,False,6.543187151,2.5,,True,,
+1871,Waikato,Brown,2014 - 2018,AMN,False,36.76553239,20.0,,True,,
+1872,Waikato,Brown,2014 - 2018,Bulk_density,False,0.84,0.6,1.4,True,True,True
+1873,Waikato,Brown,2014 - 2018,TotalC,False,5.486557362,2.5,,True,,
+1874,Waikato,Brown,2014 - 2018,AMN,False,293.1840774,50.0,,True,,
+1875,Waikato,Brown,2014 - 2018,Bulk_density,False,0.83,0.6,1.4,True,True,True
+1876,Waikato,Brown,2014 - 2018,TotalC,False,11.14575979,2.5,,True,,
+1877,Waikato,Brown,2014 - 2018,TotalN,False,1.064525568,0.25,0.7,True,False,False
+1878,Waikato,Brown,2014 - 2018,AMN,False,140.0,50.0,,True,,
+1879,Waikato,Brown,2014 - 2018,Bulk_density,False,0.54,0.6,1.4,False,True,False
+1880,Waikato,Brown,2014 - 2018,TotalC,False,24.1,2.5,,True,,
+1881,Waikato,Brown,2014 - 2018,TotalN,False,1.14,0.25,0.7,True,False,False
+1882,Waikato,Gley,2014 - 2018,AMN,False,83.0,50.0,,True,,
+1883,Waikato,Gley,2014 - 2018,Bulk_density,False,0.91,0.6,1.4,True,True,True
+1884,Waikato,Gley,2014 - 2018,TotalC,False,6.47,2.5,,True,,
+1885,Waikato,Gley,2014 - 2018,TotalN,False,0.59,0.25,0.7,True,True,True
+1886,Waikato,Gley,2014 - 2018,AMN,False,129.0,50.0,,True,,
+1887,Waikato,Gley,2014 - 2018,Bulk_density,False,0.77,0.6,1.4,True,True,True
+1888,Waikato,Gley,2014 - 2018,TotalC,False,9.94,2.5,,True,,
+1889,Waikato,Gley,2014 - 2018,TotalN,False,0.86,0.25,0.7,True,False,False
+1890,Waikato,Allophanic,2014 - 2018,AMN,False,132.0,50.0,,True,,
+1891,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.86,0.5,1.3,True,True,True
+1892,Waikato,Allophanic,2014 - 2018,TotalC,False,7.34,3.0,,True,,
+1893,Waikato,Allophanic,2014 - 2018,TotalN,False,0.73,0.25,0.7,True,False,False
+1894,Waikato,Allophanic,2014 - 2018,AMN,False,38.0,20.0,,True,,
+1895,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.74,0.5,1.3,True,True,True
+1896,Waikato,Allophanic,2014 - 2018,TotalC,False,5.13,3.0,,True,,
+1897,Waikato,Gley,2014 - 2018,AMN,False,52.0,20.0,,True,,
+1898,Waikato,Gley,2014 - 2018,Bulk_density,False,0.89,0.6,1.4,True,True,True
+1899,Waikato,Gley,2014 - 2018,TotalC,False,2.73,2.5,,True,,
+1900,Waikato,Allophanic,2014 - 2018,AMN,False,139.0,20.0,,True,,
+1901,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.68,0.5,1.3,True,True,True
+1902,Waikato,Allophanic,2014 - 2018,TotalC,False,8.38,3.0,,True,,
+1903,Waikato,Allophanic,2014 - 2018,AMN,False,137.0,20.0,,True,,
+1904,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.72,0.5,1.3,True,True,True
+1905,Waikato,Allophanic,2014 - 2018,TotalC,False,6.32,3.0,,True,,
+1906,Waikato,Allophanic,2014 - 2018,AMN,False,201.0138646,50.0,,True,,
+1907,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.754333333,0.5,1.3,True,True,True
+1908,Waikato,Allophanic,2014 - 2018,TotalC,False,9.808059059,3.0,,True,,
+1909,Waikato,Allophanic,2014 - 2018,TotalN,False,0.97364244,0.25,0.7,True,False,False
+1910,Waikato,Pumice,2014 - 2018,AMN,False,172.4982247,50.0,,True,,
+1911,Waikato,Pumice,2014 - 2018,Bulk_density,False,0.665166667,0.6,1.4,True,True,True
+1912,Waikato,Pumice,2014 - 2018,TotalC,False,6.673724899,2.0,,True,,
+1913,Waikato,Pumice,2014 - 2018,TotalN,False,0.4523902,0.25,0.7,True,True,True
+1914,Waikato,Allophanic,2014 - 2018,AMN,False,181.3102411,50.0,,True,,
+1915,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.73,0.5,1.3,True,True,True
+1916,Waikato,Allophanic,2014 - 2018,TotalC,False,8.19654839,3.0,,True,,
+1917,Waikato,Allophanic,2014 - 2018,TotalN,False,0.83729171,0.25,0.7,True,False,False
+1918,Waikato,Allophanic,2014 - 2018,AMN,False,111.8703861,50.0,,True,,
+1919,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.99,0.5,1.3,True,True,True
+1920,Waikato,Allophanic,2014 - 2018,TotalC,False,5.827466645,3.0,,True,,
+1921,Waikato,Allophanic,2014 - 2018,TotalN,False,0.571402763,0.25,0.7,True,True,True
+1922,Waikato,Allophanic,2014 - 2018,AMN,False,168.9560174,50.0,,True,,
+1923,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.73,0.5,1.3,True,True,True
+1924,Waikato,Allophanic,2014 - 2018,TotalC,False,9.176157972,3.0,,True,,
+1925,Waikato,Allophanic,2014 - 2018,TotalN,False,0.871876785,0.25,0.7,True,False,False
+1926,Waikato,Allophanic,2014 - 2018,AMN,False,68.02187717,20.0,,True,,
+1927,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.915333333,0.5,1.3,True,True,True
+1928,Waikato,Allophanic,2014 - 2018,TotalC,False,4.649882476,3.0,,True,,
+1929,Waikato,Allophanic,2014 - 2018,AMN,False,52.61241519,20.0,,True,,
+1930,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.86,0.5,1.3,True,True,True
+1931,Waikato,Allophanic,2014 - 2018,TotalC,False,5.17598214,3.0,,True,,
+1932,Waikato,Allophanic,2014 - 2018,AMN,False,200.851055,50.0,,True,,
+1933,Waikato,Allophanic,2014 - 2018,Bulk_density,False,0.94,0.5,1.3,True,True,True
+1934,Waikato,Allophanic,2014 - 2018,TotalC,False,6.428059756,3.0,,True,,
+1935,Waikato,Allophanic,2014 - 2018,TotalN,False,0.567599692,0.25,0.7,True,True,True
+1936,Waikato,Gley,2014 - 2018,AMN,False,89.72568271,50.0,,True,,
+1937,Waikato,Gley,2014 - 2018,Bulk_density,False,0.81,0.6,1.4,True,True,True
+1938,Waikato,Gley,2014 - 2018,TotalC,False,5.368646344,2.5,,True,,
+1939,Waikato,Gley,2014 - 2018,TotalN,False,0.595108079,0.25,0.7,True,True,True
+1940,Waikato,Gley,2014 - 2018,AMN,False,130.5562936,50.0,,True,,
+1941,Waikato,Gley,2014 - 2018,Bulk_density,False,1.04,0.6,1.4,True,True,True
+1942,Waikato,Gley,2014 - 2018,TotalC,False,3.945823988,2.5,,True,,
+1943,Waikato,Gley,2014 - 2018,TotalN,False,0.413875499,0.25,0.7,True,True,True
+1944,Wellington,Brown,2014 - 2018,AMN,False,150.0,20.0,,True,,
+1945,Wellington,Brown,2014 - 2018,Bulk_density,False,0.76,0.6,1.4,True,True,True
+1946,Wellington,Brown,2014 - 2018,TotalC,False,8.51,2.5,,True,,
+1947,Wellington,Brown,2014 - 2018,AMN,False,182.1572187,50.0,,True,,
+1948,Wellington,Brown,2014 - 2018,Bulk_density,False,0.863333333,0.6,1.4,True,True,True
+1949,Wellington,Brown,2014 - 2018,TotalC,False,8.776749502,2.5,,True,,
+1950,Wellington,Brown,2014 - 2018,TotalN,False,0.786934425,0.25,0.7,True,False,False
+1951,Wellington,Brown,2014 - 2018,AMN,False,387.8832914,50.0,,True,,
+1952,Wellington,Brown,2014 - 2018,Bulk_density,False,0.753333333,0.6,1.4,True,True,True
+1953,Wellington,Brown,2014 - 2018,TotalC,False,11.8035635,2.5,,True,,
+1954,Wellington,Brown,2014 - 2018,TotalN,False,1.010228645,0.25,0.7,True,False,False
+1955,Wellington,Brown,2014 - 2018,AMN,False,249.0646829,50.0,,True,,
+1956,Wellington,Brown,2014 - 2018,Bulk_density,False,1.133333333,0.6,1.4,True,True,True
+1957,Wellington,Brown,2014 - 2018,TotalC,False,5.275536853,2.5,,True,,
+1958,Wellington,Brown,2014 - 2018,TotalN,False,0.521108427,0.25,0.7,True,True,True
+1959,Wellington,Brown,2014 - 2018,AMN,False,112.1072572,50.0,,True,,
+1960,Wellington,Brown,2014 - 2018,Bulk_density,False,1.086666667,0.6,1.4,True,True,True
+1961,Wellington,Brown,2014 - 2018,TotalC,False,4.393494426,2.5,,True,,
+1962,Wellington,Brown,2014 - 2018,TotalN,False,0.422636555,0.25,0.7,True,True,True
+1963,Wellington,Recent,2014 - 2018,AMN,False,180.1338702,50.0,,True,,
+1964,Wellington,Recent,2014 - 2018,Bulk_density,False,1.196666667,0.7,1.4,True,True,True
+1965,Wellington,Recent,2014 - 2018,TotalC,False,3.963859011,2.0,,True,,
+1966,Wellington,Recent,2014 - 2018,TotalN,False,0.422990758,0.25,0.7,True,True,True
+1967,Wellington,Recent,2014 - 2018,AMN,False,85.74942973,50.0,,True,,
+1968,Wellington,Recent,2014 - 2018,Bulk_density,False,1.21,0.7,1.4,True,True,True
+1969,Wellington,Recent,2014 - 2018,TotalC,False,4.943658771,2.0,,True,,
+1970,Wellington,Recent,2014 - 2018,TotalN,False,0.423655098,0.25,0.7,True,True,True
+1971,Wellington,Gley,2014 - 2018,AMN,False,136.0815452,50.0,,True,,
+1972,Wellington,Gley,2014 - 2018,Bulk_density,False,1.22,0.6,1.4,True,True,True
+1973,Wellington,Gley,2014 - 2018,TotalC,False,6.438210392,2.5,,True,,
+1974,Wellington,Gley,2014 - 2018,TotalN,False,0.672996192,0.25,0.7,True,True,True
+1975,Wellington,Gley,2014 - 2018,AMN,False,352.550141,50.0,,True,,
+1976,Wellington,Gley,2014 - 2018,Bulk_density,False,0.996666667,0.6,1.4,True,True,True
+1977,Wellington,Gley,2014 - 2018,TotalC,False,6.769162526,2.5,,True,,
+1978,Wellington,Gley,2014 - 2018,TotalN,False,0.731223173,0.25,0.7,True,False,False
+1979,Wellington,Gley,2014 - 2018,AMN,False,50.0,50.0,,True,,
+1980,Wellington,Gley,2014 - 2018,Bulk_density,False,1.216666667,0.6,1.4,True,True,True
+1981,Wellington,Gley,2014 - 2018,TotalC,False,2.4,2.5,,False,,False
+1982,Wellington,Gley,2014 - 2018,TotalN,False,0.25,0.25,0.7,True,True,True
+1983,Wellington,Gley,2014 - 2018,AMN,False,99.11341188,50.0,,True,,
+1984,Wellington,Gley,2014 - 2018,Bulk_density,False,1.216666667,0.6,1.4,True,True,True
+1985,Wellington,Gley,2014 - 2018,TotalC,False,3.221592156,2.5,,True,,
+1986,Wellington,Gley,2014 - 2018,TotalN,False,0.311950412,0.25,0.7,True,True,True
+1987,Wellington,Pallic,2014 - 2018,AMN,False,83.80328982500001,20.0,,True,,
+1988,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.183333334,0.7,1.4,True,True,True
+1989,Wellington,Pallic,2014 - 2018,TotalC,False,3.2082124585000003,2.0,,True,,
+1990,Wellington,Pallic,2014 - 2018,AMN,False,61.30567343,50.0,,True,,
+1991,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.173333333,0.7,1.4,True,True,True
+1992,Wellington,Pallic,2014 - 2018,TotalC,False,2.998342174,2.0,,True,,
+1993,Wellington,Pallic,2014 - 2018,TotalN,False,0.309313694,0.25,0.7,True,True,True
+1994,Wellington,Pallic,2014 - 2018,AMN,False,127.2472633,50.0,,True,,
+1995,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.353333333,0.7,1.4,True,True,True
+1996,Wellington,Pallic,2014 - 2018,TotalC,False,3.528833852,2.0,,True,,
+1997,Wellington,Pallic,2014 - 2018,TotalN,False,0.335798012,0.25,0.7,True,True,True
+1998,Wellington,Gley,2014 - 2018,AMN,False,111.2727231,50.0,,True,,
+1999,Wellington,Gley,2014 - 2018,Bulk_density,False,1.073333334,0.6,1.4,True,True,True
+2000,Wellington,Gley,2014 - 2018,TotalC,False,4.048108952,2.5,,True,,
+2001,Wellington,Gley,2014 - 2018,TotalN,False,0.388589273,0.25,0.7,True,True,True
+2002,Wellington,Recent,2014 - 2018,AMN,False,68.86763004,20.0,,True,,
+2003,Wellington,Recent,2014 - 2018,Bulk_density,False,1.336666667,0.7,1.4,True,True,True
+2004,Wellington,Recent,2014 - 2018,TotalC,False,2.370805765,2.0,,True,,
+2005,Wellington,Recent,2014 - 2018,AMN,False,187.5004263,50.0,,True,,
+2006,Wellington,Recent,2014 - 2018,Bulk_density,False,1.013333333,0.7,1.4,True,True,True
+2007,Wellington,Recent,2014 - 2018,TotalC,False,6.505773494,2.0,,True,,
+2008,Wellington,Recent,2014 - 2018,TotalN,False,0.598761272,0.25,0.7,True,True,True
+2009,Wellington,Gley,2014 - 2018,AMN,False,101.0,50.0,,True,,
+2010,Wellington,Gley,2014 - 2018,Bulk_density,False,1.0,0.6,1.4,True,True,True
+2011,Wellington,Gley,2014 - 2018,TotalC,False,4.64,2.5,,True,,
+2012,Wellington,Gley,2014 - 2018,TotalN,False,0.44,0.25,0.7,True,True,True
+2013,Wellington,Recent,2014 - 2018,AMN,False,95.22081593,50.0,,True,,
+2014,Wellington,Recent,2014 - 2018,Bulk_density,False,1.066666667,0.7,1.4,True,True,True
+2015,Wellington,Recent,2014 - 2018,TotalC,False,3.816324924,2.0,,True,,
+2016,Wellington,Recent,2014 - 2018,TotalN,False,0.36782593,0.25,0.7,True,True,True
+2017,Wellington,Recent,2014 - 2018,AMN,False,102.8912769,50.0,,True,,
+2018,Wellington,Recent,2014 - 2018,Bulk_density,False,1.198333334,0.7,1.4,True,True,True
+2019,Wellington,Recent,2014 - 2018,TotalC,False,2.748292308,2.0,,True,,
+2020,Wellington,Recent,2014 - 2018,TotalN,False,0.249225371,0.25,0.7,False,True,False
+2021,Wellington,Recent,2014 - 2018,AMN,False,78.0,50.0,,True,,
+2022,Wellington,Recent,2014 - 2018,Bulk_density,False,1.093333333,0.7,1.4,True,True,True
+2023,Wellington,Recent,2014 - 2018,TotalC,False,4.4,2.0,,True,,
+2024,Wellington,Recent,2014 - 2018,TotalN,False,0.39,0.25,0.7,True,True,True
+2025,Wellington,Pallic,2014 - 2018,AMN,False,109.7226694,50.0,,True,,
+2026,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.153333333,0.7,1.4,True,True,True
+2027,Wellington,Pallic,2014 - 2018,TotalC,False,4.063891256,2.0,,True,,
+2028,Wellington,Pallic,2014 - 2018,TotalN,False,0.388143498,0.25,0.7,True,True,True
+2029,Wellington,Pallic,2014 - 2018,AMN,False,74.62706122,20.0,,True,,
+2030,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.22,0.7,1.4,True,True,True
+2031,Wellington,Pallic,2014 - 2018,TotalC,False,2.911289855,2.0,,True,,
+2032,Wellington,Pallic,2014 - 2018,AMN,False,58.0,50.0,,True,,
+2033,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.223333333,0.7,1.4,True,True,True
+2034,Wellington,Pallic,2014 - 2018,TotalC,False,3.1,2.0,,True,,
+2035,Wellington,Pallic,2014 - 2018,TotalN,False,0.29,0.25,0.7,True,True,True
+2036,Wellington,Pallic,2014 - 2018,AMN,False,127.5586297,50.0,,True,,
+2037,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.406666667,0.7,1.4,True,False,False
+2038,Wellington,Pallic,2014 - 2018,TotalC,False,3.184160019,2.0,,True,,
+2039,Wellington,Pallic,2014 - 2018,TotalN,False,0.336189478,0.25,0.7,True,True,True
+2040,Wellington,Pallic,2014 - 2018,AMN,False,118.7059817,50.0,,True,,
+2041,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.15,0.7,1.4,True,True,True
+2042,Wellington,Pallic,2014 - 2018,TotalC,False,4.890331667,2.0,,True,,
+2043,Wellington,Pallic,2014 - 2018,TotalN,False,0.460273097,0.25,0.7,True,True,True
+2044,Wellington,Pallic,2014 - 2018,AMN,False,72.0,20.0,,True,,
+2045,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.043333333,0.7,1.4,True,True,True
+2046,Wellington,Pallic,2014 - 2018,TotalC,False,5.8,2.0,,True,,
+2047,Wellington,Pallic,2014 - 2018,AMN,False,238.7362679,50.0,,True,,
+2048,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.126666667,0.7,1.4,True,True,True
+2049,Wellington,Pallic,2014 - 2018,TotalC,False,5.355087559,2.0,,True,,
+2050,Wellington,Pallic,2014 - 2018,TotalN,False,0.544810958,0.25,0.7,True,True,True
+2051,Wellington,Pallic,2014 - 2018,AMN,False,194.4902854,50.0,,True,,
+2052,Wellington,Pallic,2014 - 2018,Bulk_density,False,0.85,0.7,1.4,True,True,True
+2053,Wellington,Pallic,2014 - 2018,TotalC,False,10.62040649,2.0,,True,,
+2054,Wellington,Pallic,2014 - 2018,TotalN,False,0.868735162,0.25,0.7,True,False,False
+2055,Wellington,Pallic,2014 - 2018,AMN,False,253.0446334,50.0,,True,,
+2056,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.08,0.7,1.4,True,True,True
+2057,Wellington,Pallic,2014 - 2018,TotalC,False,6.819850874,2.0,,True,,
+2058,Wellington,Pallic,2014 - 2018,TotalN,False,0.659953172,0.25,0.7,True,True,True
+2059,Wellington,Pallic,2014 - 2018,AMN,False,119.4848706,50.0,,True,,
+2060,Wellington,Pallic,2014 - 2018,Bulk_density,False,0.966666667,0.7,1.4,True,True,True
+2061,Wellington,Pallic,2014 - 2018,TotalC,False,5.137775055,2.0,,True,,
+2062,Wellington,Pallic,2014 - 2018,TotalN,False,0.457237838,0.25,0.7,True,True,True
+2063,Wellington,Pallic,2014 - 2018,AMN,False,11.0,20.0,,False,,False
+2064,Wellington,Pallic,2014 - 2018,Bulk_density,False,0.783333333,0.7,1.4,True,True,True
+2065,Wellington,Pallic,2014 - 2018,TotalC,False,7.5,2.0,,True,,
+2066,Wellington,Pallic,2014 - 2018,AMN,False,251.4163968,50.0,,True,,
+2067,Wellington,Pallic,2014 - 2018,Bulk_density,False,0.91,0.7,1.4,True,True,True
+2068,Wellington,Pallic,2014 - 2018,TotalC,False,8.294225226,2.0,,True,,
+2069,Wellington,Pallic,2014 - 2018,TotalN,False,0.761838647,0.25,0.7,True,False,False
+2070,Wellington,Recent,2014 - 2018,AMN,False,143.5025145,50.0,,True,,
+2071,Wellington,Recent,2014 - 2018,Bulk_density,False,1.046666667,0.7,1.4,True,True,True
+2072,Wellington,Recent,2014 - 2018,TotalC,False,4.12979071,2.0,,True,,
+2073,Wellington,Recent,2014 - 2018,TotalN,False,0.408873467,0.25,0.7,True,True,True
+2074,Wellington,Brown,2014 - 2018,AMN,False,85.877088,50.0,,True,,
+2075,Wellington,Brown,2014 - 2018,Bulk_density,False,1.235,0.6,1.4,True,True,True
+2076,Wellington,Brown,2014 - 2018,TotalC,False,2.713752323,2.5,,True,,
+2077,Wellington,Brown,2014 - 2018,TotalN,False,0.276162284,0.25,0.7,True,True,True
+2078,Wellington,Gley,2014 - 2018,AMN,False,352.0437614,50.0,,True,,
+2079,Wellington,Gley,2014 - 2018,Bulk_density,False,1.126666667,0.6,1.4,True,True,True
+2080,Wellington,Gley,2014 - 2018,TotalC,False,5.203499147,2.5,,True,,
+2081,Wellington,Gley,2014 - 2018,TotalN,False,0.530805184,0.25,0.7,True,True,True
+2082,Wellington,Gley,2014 - 2018,AMN,False,47.0,20.0,,True,,
+2083,Wellington,Gley,2014 - 2018,Bulk_density,False,1.176666667,0.6,1.4,True,True,True
+2084,Wellington,Gley,2014 - 2018,TotalC,False,2.4,2.5,,False,,False
+2085,Wellington,Recent,2014 - 2018,AMN,False,184.8856775,50.0,,True,,
+2086,Wellington,Recent,2014 - 2018,Bulk_density,False,1.266666667,0.7,1.4,True,True,True
+2087,Wellington,Recent,2014 - 2018,TotalC,False,3.759809981,2.0,,True,,
+2088,Wellington,Recent,2014 - 2018,TotalN,False,0.406545416,0.25,0.7,True,True,True
+2089,Wellington,Gley,2014 - 2018,AMN,False,104.1229941,50.0,,True,,
+2090,Wellington,Gley,2014 - 2018,Bulk_density,False,1.13,0.6,1.4,True,True,True
+2091,Wellington,Gley,2014 - 2018,TotalC,False,4.305917706,2.5,,True,,
+2092,Wellington,Gley,2014 - 2018,TotalN,False,0.398367496,0.25,0.7,True,True,True
+2093,Wellington,Brown,2014 - 2018,AMN,False,52.0,20.0,,True,,
+2094,Wellington,Brown,2014 - 2018,Bulk_density,False,0.95,0.6,1.4,True,True,True
+2095,Wellington,Brown,2014 - 2018,TotalC,False,6.0,2.5,,True,,
+2096,Wellington,Brown,2014 - 2018,TotalN,False,0.33,0.1,0.7,True,True,True
+2097,Wellington,Brown,2014 - 2018,AMN,False,175.8010138,50.0,,True,,
+2098,Wellington,Brown,2014 - 2018,Bulk_density,False,0.87,0.6,1.4,True,True,True
+2099,Wellington,Brown,2014 - 2018,TotalC,False,8.276827622,2.5,,True,,
+2100,Wellington,Brown,2014 - 2018,TotalN,False,0.694600459,0.25,0.7,True,True,True
+2101,Wellington,Brown,2014 - 2018,AMN,False,30.0,20.0,,True,,
+2102,Wellington,Brown,2014 - 2018,Bulk_density,False,0.853333333,0.6,1.4,True,True,True
+2103,Wellington,Brown,2014 - 2018,TotalC,False,7.7,2.5,,True,,
+2104,Wellington,Brown,2014 - 2018,TotalN,False,0.46,0.1,0.7,True,True,True
+2105,Wellington,Brown,2014 - 2018,AMN,False,158.9322724,50.0,,True,,
+2106,Wellington,Brown,2014 - 2018,Bulk_density,False,0.846666667,0.6,1.4,True,True,True
+2107,Wellington,Brown,2014 - 2018,TotalC,False,6.027307161,2.5,,True,,
+2108,Wellington,Brown,2014 - 2018,TotalN,False,0.546057349,0.25,0.7,True,True,True
+2109,Wellington,Pallic,2014 - 2018,AMN,False,110.2550667,50.0,,True,,
+2110,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.016666667,0.7,1.4,True,True,True
+2111,Wellington,Pallic,2014 - 2018,TotalC,False,4.573056482,2.0,,True,,
+2112,Wellington,Pallic,2014 - 2018,TotalN,False,0.401086384,0.25,0.7,True,True,True
+2113,Wellington,Recent,2014 - 2018,AMN,False,140.8062177,50.0,,True,,
+2114,Wellington,Recent,2014 - 2018,Bulk_density,False,0.88,0.7,1.4,True,True,True
+2115,Wellington,Recent,2014 - 2018,TotalC,False,5.092228161,2.0,,True,,
+2116,Wellington,Recent,2014 - 2018,TotalN,False,0.465078308,0.25,0.7,True,True,True
+2117,Wellington,Brown,2014 - 2018,AMN,False,221.508218,50.0,,True,,
+2118,Wellington,Brown,2014 - 2018,Bulk_density,False,0.806666667,0.6,1.4,True,True,True
+2119,Wellington,Brown,2014 - 2018,TotalC,False,6.266126759,2.5,,True,,
+2120,Wellington,Brown,2014 - 2018,TotalN,False,0.557889654,0.25,0.7,True,True,True
+2121,Wellington,Brown,2014 - 2018,AMN,False,56.0,20.0,,True,,
+2122,Wellington,Brown,2014 - 2018,Bulk_density,False,0.956666667,0.6,1.4,True,True,True
+2123,Wellington,Brown,2014 - 2018,TotalC,False,4.7,2.5,,True,,
+2124,Wellington,Brown,2014 - 2018,TotalN,False,0.35,0.1,0.7,True,True,True
+2125,Wellington,Melanic,2014 - 2018,AMN,False,165.9214272,50.0,,True,,
+2126,Wellington,Melanic,2014 - 2018,Bulk_density,False,1.11,0.6,1.4,True,True,True
+2127,Wellington,Melanic,2014 - 2018,TotalC,False,5.626994217,2.5,,True,,
+2128,Wellington,Melanic,2014 - 2018,TotalN,False,0.523056852,0.25,0.7,True,True,True
+2129,Wellington,Melanic,2014 - 2018,AMN,False,70.0,20.0,,True,,
+2130,Wellington,Melanic,2014 - 2018,Bulk_density,False,1.02,0.6,1.4,True,True,True
+2131,Wellington,Melanic,2014 - 2018,TotalC,False,5.1,2.5,,True,,
+2132,Wellington,Melanic,2014 - 2018,TotalN,False,0.42,0.1,0.7,True,True,True
+2133,Wellington,Pallic,2014 - 2018,AMN,False,55.52646433,50.0,,True,,
+2134,Wellington,Pallic,2014 - 2018,Bulk_density,False,0.95,0.7,1.4,True,True,True
+2135,Wellington,Pallic,2014 - 2018,TotalC,False,3.897975374,2.0,,True,,
+2136,Wellington,Pallic,2014 - 2018,TotalN,False,0.359487746,0.25,0.7,True,True,True
+2137,Wellington,Recent,2014 - 2018,AMN,False,50.0,20.0,,True,,
+2138,Wellington,Recent,2014 - 2018,Bulk_density,False,1.003333333,0.7,1.4,True,True,True
+2139,Wellington,Recent,2014 - 2018,TotalC,False,5.6,2.0,,True,,
+2140,Wellington,Recent,2014 - 2018,TotalN,False,0.37,0.1,0.7,True,True,True
+2141,Wellington,Recent,2014 - 2018,AMN,False,124.1634188,50.0,,True,,
+2142,Wellington,Recent,2014 - 2018,Bulk_density,False,0.933333333,0.7,1.4,True,True,True
+2143,Wellington,Recent,2014 - 2018,TotalC,False,5.346930391,2.0,,True,,
+2144,Wellington,Recent,2014 - 2018,TotalN,False,0.526039496,0.25,0.7,True,True,True
+2145,Wellington,Recent,2014 - 2018,AMN,False,52.0,20.0,,True,,
+2146,Wellington,Recent,2014 - 2018,Bulk_density,False,0.996666667,0.7,1.4,True,True,True
+2147,Wellington,Recent,2014 - 2018,TotalC,False,3.5,2.0,,True,,
+2148,Wellington,Recent,2014 - 2018,TotalN,False,0.21,0.1,0.7,True,True,True
+2149,Wellington,Recent,2014 - 2018,AMN,False,130.6152654,50.0,,True,,
+2150,Wellington,Recent,2014 - 2018,Bulk_density,False,1.11,0.7,1.4,True,True,True
+2151,Wellington,Recent,2014 - 2018,TotalC,False,4.62581175,2.0,,True,,
+2152,Wellington,Recent,2014 - 2018,TotalN,False,0.389284145,0.25,0.7,True,True,True
+2153,Wellington,Gley,2014 - 2018,AMN,False,47.17621882,20.0,,True,,
+2154,Wellington,Gley,2014 - 2018,Bulk_density,False,1.241666667,0.6,1.4,True,True,True
+2155,Wellington,Gley,2014 - 2018,TotalC,False,2.970278569,2.5,,True,,
+2156,Wellington,Recent,2014 - 2018,AMN,False,105.0,50.0,,True,,
+2157,Wellington,Recent,2014 - 2018,Bulk_density,False,1.163333333,0.7,1.4,True,True,True
+2158,Wellington,Recent,2014 - 2018,TotalC,False,3.6,2.0,,True,,
+2159,Wellington,Recent,2014 - 2018,TotalN,False,0.33,0.25,0.7,True,True,True
+2160,Wellington,Recent,2014 - 2018,AMN,False,55.0,50.0,,True,,
+2161,Wellington,Recent,2014 - 2018,Bulk_density,False,1.29,0.7,1.4,True,True,True
+2162,Wellington,Recent,2014 - 2018,TotalC,False,2.5,2.0,,True,,
+2163,Wellington,Recent,2014 - 2018,TotalN,False,0.25,0.25,0.7,True,True,True
+2164,Wellington,Recent,2014 - 2018,AMN,False,52.07895681,20.0,,True,,
+2165,Wellington,Recent,2014 - 2018,Bulk_density,False,1.241666667,0.7,1.4,True,True,True
+2166,Wellington,Recent,2014 - 2018,TotalC,False,2.166076028,2.0,,True,,
+2167,Wellington,Pallic,2014 - 2018,AMN,False,107.0566175,50.0,,True,,
+2168,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.16,0.7,1.4,True,True,True
+2169,Wellington,Pallic,2014 - 2018,TotalC,False,3.807985738,2.0,,True,,
+2170,Wellington,Pallic,2014 - 2018,TotalN,False,0.39995896,0.25,0.7,True,True,True
+2171,Wellington,Pallic,2014 - 2018,AMN,False,102.0,20.0,,True,,
+2172,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.076666667,0.7,1.4,True,True,True
+2173,Wellington,Pallic,2014 - 2018,TotalC,False,4.3,2.0,,True,,
+2174,Wellington,Recent,2014 - 2018,AMN,False,160.8693415,50.0,,True,,
+2175,Wellington,Recent,2014 - 2018,Bulk_density,False,1.226666667,0.7,1.4,True,True,True
+2176,Wellington,Recent,2014 - 2018,TotalC,False,3.945865969,2.0,,True,,
+2177,Wellington,Recent,2014 - 2018,TotalN,False,0.396525196,0.25,0.7,True,True,True
+2178,Wellington,Gley,2014 - 2018,AMN,False,32.26078617,20.0,,True,,
+2179,Wellington,Gley,2014 - 2018,Bulk_density,False,1.521666667,0.6,1.4,True,False,False
+2180,Wellington,Gley,2014 - 2018,TotalC,False,1.728493161,2.5,,False,,False
+2181,Wellington,Recent,2014 - 2018,AMN,False,33.50503719,20.0,,True,,
+2182,Wellington,Recent,2014 - 2018,Bulk_density,False,1.486666667,0.7,1.4,True,False,False
+2183,Wellington,Recent,2014 - 2018,TotalC,False,1.5475156440000002,2.0,,False,,False
+2184,Wellington,Recent,2014 - 2018,AMN,False,83.0,50.0,,True,,
+2185,Wellington,Recent,2014 - 2018,Bulk_density,False,1.21,0.7,1.4,True,True,True
+2186,Wellington,Recent,2014 - 2018,TotalC,False,2.8,2.0,,True,,
+2187,Wellington,Recent,2014 - 2018,TotalN,False,0.26,0.25,0.7,True,True,True
+2188,Wellington,Gley,2014 - 2018,AMN,False,72.48193968,20.0,,True,,
+2189,Wellington,Gley,2014 - 2018,Bulk_density,False,1.131666667,0.6,1.4,True,True,True
+2190,Wellington,Gley,2014 - 2018,TotalC,False,3.788616031,2.5,,True,,
+2191,Wellington,Brown,2014 - 2018,AMN,False,105.0,20.0,,True,,
+2192,Wellington,Brown,2014 - 2018,Bulk_density,False,1.226666667,0.6,1.4,True,True,True
+2193,Wellington,Brown,2014 - 2018,TotalC,False,5.7,2.5,,True,,
+2194,Wellington,Gley,2014 - 2018,AMN,False,81.10579932,20.0,,True,,
+2195,Wellington,Gley,2014 - 2018,Bulk_density,False,1.136666667,0.6,1.4,True,True,True
+2196,Wellington,Gley,2014 - 2018,TotalC,False,2.814774074,2.5,,True,,
+2197,Wellington,Gley,2014 - 2018,AMN,False,56.0,50.0,,True,,
+2198,Wellington,Gley,2014 - 2018,Bulk_density,False,1.293333333,0.6,1.4,True,True,True
+2199,Wellington,Gley,2014 - 2018,TotalC,False,3.2,2.5,,True,,
+2200,Wellington,Gley,2014 - 2018,TotalN,False,0.33,0.25,0.7,True,True,True
+2201,Wellington,Gley,2014 - 2018,AMN,False,62.59156882,20.0,,True,,
+2202,Wellington,Gley,2014 - 2018,Bulk_density,False,1.22,0.6,1.4,True,True,True
+2203,Wellington,Gley,2014 - 2018,TotalC,False,2.88417276,2.5,,True,,
+2204,Wellington,Recent,2014 - 2018,AMN,False,79.42872506,50.0,,True,,
+2205,Wellington,Recent,2014 - 2018,Bulk_density,False,1.466666667,0.7,1.4,True,False,False
+2206,Wellington,Recent,2014 - 2018,TotalC,False,2.2168417735,2.0,,True,,
+2207,Wellington,Recent,2014 - 2018,TotalN,False,0.220643231,0.25,0.7,False,True,False
+2208,Wellington,Brown,2014 - 2018,AMN,False,150.0,20.0,,True,,
+2209,Wellington,Brown,2014 - 2018,Bulk_density,False,0.973333333,0.6,1.4,True,True,True
+2210,Wellington,Brown,2014 - 2018,TotalC,False,7.9,2.5,,True,,
+2211,Wellington,Brown,2014 - 2018,AMN,False,41.76217807,20.0,,True,,
+2212,Wellington,Brown,2014 - 2018,Bulk_density,False,1.148333334,0.6,1.4,True,True,True
+2213,Wellington,Brown,2014 - 2018,TotalC,False,2.70519948,2.5,,True,,
+2214,Wellington,Gley,2014 - 2018,AMN,False,57.0,20.0,,True,,
+2215,Wellington,Gley,2014 - 2018,Bulk_density,False,1.183333333,0.6,1.4,True,True,True
+2216,Wellington,Gley,2014 - 2018,TotalC,False,4.1,2.5,,True,,
+2217,Wellington,Gley,2014 - 2018,AMN,False,32.48679763,20.0,,True,,
+2218,Wellington,Gley,2014 - 2018,Bulk_density,False,1.248333334,0.6,1.4,True,True,True
+2219,Wellington,Gley,2014 - 2018,TotalC,False,2.0259745255,2.5,,False,,False
+2220,Wellington,Recent,2014 - 2018,AMN,False,25.68548175,20.0,,True,,
+2221,Wellington,Recent,2014 - 2018,Bulk_density,False,1.395,0.7,1.4,True,True,True
+2222,Wellington,Recent,2014 - 2018,TotalC,False,1.598489281,2.0,,False,,False
+2223,Wellington,Recent,2014 - 2018,AMN,False,29.45915699,20.0,,True,,
+2224,Wellington,Recent,2014 - 2018,Bulk_density,False,1.385,0.7,1.4,True,True,True
+2225,Wellington,Recent,2014 - 2018,TotalC,False,1.495412731,2.0,,False,,False
+2226,Wellington,Recent,2014 - 2018,AMN,False,103.7707996,50.0,,True,,
+2227,Wellington,Recent,2014 - 2018,Bulk_density,False,1.07,0.7,1.4,True,True,True
+2228,Wellington,Recent,2014 - 2018,TotalC,False,3.770601701,2.0,,True,,
+2229,Wellington,Recent,2014 - 2018,TotalN,False,0.3665087,0.25,0.7,True,True,True
+2230,Wellington,Recent,2014 - 2018,AMN,False,90.10049101,20.0,,True,,
+2231,Wellington,Recent,2014 - 2018,Bulk_density,False,1.366666667,0.7,1.4,True,True,True
+2232,Wellington,Recent,2014 - 2018,TotalC,False,3.08796731,2.0,,True,,
+2233,Wellington,Pallic,2014 - 2018,AMN,False,166.2354061,50.0,,True,,
+2234,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.32,0.7,1.4,True,True,True
+2235,Wellington,Pallic,2014 - 2018,TotalC,False,3.988550449,2.0,,True,,
+2236,Wellington,Pallic,2014 - 2018,TotalN,False,0.383943338,0.25,0.7,True,True,True
+2237,Wellington,Pallic,2014 - 2018,AMN,False,99.70880367,50.0,,True,,
+2238,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.193333333,0.7,1.4,True,True,True
+2239,Wellington,Pallic,2014 - 2018,TotalC,False,3.384193887,2.0,,True,,
+2240,Wellington,Pallic,2014 - 2018,TotalN,False,0.342120517,0.25,0.7,True,True,True
+2241,Wellington,Pallic,2014 - 2018,AMN,False,189.1852581,50.0,,True,,
+2242,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.056666667,0.7,1.4,True,True,True
+2243,Wellington,Pallic,2014 - 2018,TotalC,False,5.528383165,2.0,,True,,
+2244,Wellington,Pallic,2014 - 2018,TotalN,False,0.54440177,0.25,0.7,True,True,True
+2245,Wellington,Pallic,2014 - 2018,AMN,False,252.8841953,50.0,,True,,
+2246,Wellington,Pallic,2014 - 2018,Bulk_density,False,0.993333333,0.7,1.4,True,True,True
+2247,Wellington,Pallic,2014 - 2018,TotalC,False,8.300956629,2.0,,True,,
+2248,Wellington,Pallic,2014 - 2018,TotalN,False,0.739330455,0.25,0.7,True,False,False
+2249,Wellington,Pallic,2014 - 2018,AMN,False,301.2721848,50.0,,True,,
+2250,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.046666667,0.7,1.4,True,True,True
+2251,Wellington,Pallic,2014 - 2018,TotalC,False,6.944080181,2.0,,True,,
+2252,Wellington,Pallic,2014 - 2018,TotalN,False,0.7477912,0.25,0.7,True,False,False
+2253,Wellington,Recent,2014 - 2018,AMN,False,64.45881309,20.0,,True,,
+2254,Wellington,Recent,2014 - 2018,Bulk_density,False,1.26,0.7,1.4,True,True,True
+2255,Wellington,Recent,2014 - 2018,TotalC,False,2.635818604,2.0,,True,,
+2256,Wellington,Recent,2014 - 2018,AMN,False,17.58357101,20.0,,False,,False
+2257,Wellington,Recent,2014 - 2018,Bulk_density,False,1.458333333,0.7,1.4,True,False,False
+2258,Wellington,Recent,2014 - 2018,TotalC,False,1.39921592,2.0,,False,,False
+2259,Wellington,Gley,2014 - 2018,AMN,False,42.14573133,20.0,,True,,
+2260,Wellington,Gley,2014 - 2018,Bulk_density,False,1.079166667,0.6,1.4,True,True,True
+2261,Wellington,Gley,2014 - 2018,TotalC,False,4.85274019,2.5,,True,,
+2262,Wellington,Brown,2014 - 2018,AMN,False,276.0372379,50.0,,True,,
+2263,Wellington,Brown,2014 - 2018,Bulk_density,False,0.876666667,0.6,1.4,True,True,True
+2264,Wellington,Brown,2014 - 2018,TotalC,False,9.797080881,2.5,,True,,
+2265,Wellington,Brown,2014 - 2018,TotalN,False,0.868253734,0.25,0.7,True,False,False
+2266,Wellington,Brown,2014 - 2018,AMN,False,42.66323932,20.0,,True,,
+2267,Wellington,Brown,2014 - 2018,Bulk_density,False,1.39,0.6,1.4,True,True,True
+2268,Wellington,Brown,2014 - 2018,TotalC,False,1.760580488,2.5,,False,,False
+2269,Wellington,Pallic,2014 - 2018,AMN,False,13.01266552,20.0,,False,,False
+2270,Wellington,Pallic,2014 - 2018,Bulk_density,False,1.468333333,0.7,1.4,True,False,False
+2271,Wellington,Pallic,2014 - 2018,TotalC,False,1.682724082,2.0,,False,,False
+2272,Wellington,Pallic,2014 - 2018,AMN,False,122.4424522,50.0,,True,,
+2273,Wellington,Pallic,2014 - 2018,Bulk_density,False,0.926666667,0.7,1.4,True,True,True
+2274,Wellington,Pallic,2014 - 2018,TotalC,False,4.57960397,2.0,,True,,
+2275,Wellington,Pallic,2014 - 2018,TotalN,False,0.456929966,0.25,0.7,True,True,True
+2276,Wellington,Brown,2014 - 2018,AMN,False,273.5720892,50.0,,True,,
+2277,Wellington,Brown,2014 - 2018,Bulk_density,False,0.886666667,0.6,1.4,True,True,True
+2278,Wellington,Brown,2014 - 2018,TotalC,False,5.6754136,2.5,,True,,
+2279,Wellington,Brown,2014 - 2018,TotalN,False,0.603386512,0.25,0.7,True,True,True
+2280,Wellington,Brown,2014 - 2018,AMN,False,261.1666788,50.0,,True,,
+2281,Wellington,Brown,2014 - 2018,Bulk_density,False,0.946666667,0.6,1.4,True,True,True
+2282,Wellington,Brown,2014 - 2018,TotalC,False,7.845812187,2.5,,True,,
+2283,Wellington,Brown,2014 - 2018,TotalN,False,0.725269211,0.25,0.7,True,False,False
+2284,Wellington,Brown,2014 - 2018,AMN,False,156.3304106,50.0,,True,,
+2285,Wellington,Brown,2014 - 2018,Bulk_density,False,1.053333333,0.6,1.4,True,True,True
+2286,Wellington,Brown,2014 - 2018,TotalC,False,4.545844278,2.5,,True,,
+2287,Wellington,Brown,2014 - 2018,TotalN,False,0.416153105,0.25,0.7,True,True,True
+2288,Wellington,Brown,2014 - 2018,AMN,False,163.4125556,50.0,,True,,
+2289,Wellington,Brown,2014 - 2018,Bulk_density,False,0.88,0.6,1.4,True,True,True
+2290,Wellington,Brown,2014 - 2018,TotalC,False,8.682055676,2.5,,True,,
+2291,Wellington,Brown,2014 - 2018,TotalN,False,0.754268664,0.25,0.7,True,False,False
